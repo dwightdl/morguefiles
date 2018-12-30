@@ -1,0 +1,125 @@
+ Dungeon Crawl Stone Soup version 0.21.1 (tiles) character file.
+
+0 david the Stinger (level 1, 10/10 HPs)
+             Began as a Tengu Venom Mage on Apr 22, 2018.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:34 (0 turns).
+
+david the Stinger (Tengu Venom Mage)                   Turns: 0, Time: 00:00:34
+
+Health: 10/10      AC:  2    Str:  8    XL:     1   Next: 0%
+Magic:  4/4        EV: 12    Int: 15    God:    
+Gold:   0          SH:  0    Dex: 14    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: beak, talons 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Books
+ b - a Young Poisoner's Handbook   
+   
+    Spells                           Type                      Level
+    a - Sting                        Conjuration/Poison            1
+    b - Poisonous Vapours            Poison/Air                    2
+    c - Mephitic Cloud               Conjuration/Poison/Air        3
+    d - Olgreb's Toxic Radiance      Poison                        4
+    e - Venom Bolt                   Conjuration/Poison            5
+Comestibles
+ c - a ration
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 2.0 Spellcasting
+ * Level 1.3 Conjurations
+ + Level 3.0 Poison Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sting                 Conj/Pois      #...         9%          1    #......
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+
+
+Message History
+
+Welcome, david the Tengu Venom Mage.
+Will you be the one to retrieve the fabulous Orb of Zot from the depths?
+Press ? for a list of commands and other information.
+Found 11 gold pieces.
+Found a staircase leading out of the dungeon.
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call upvalue 'oldready' (a nil value)
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call upvalue 'oldready' (a nil value)
+Enter note: 
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call upvalue 'oldready' (a nil value)
+Unknown command.
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call upvalue 'oldready' (a nil value)
+Unknown command.
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call upvalue 'oldready' (a nil value)
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call upvalue 'oldready' (a nil value)
+Are you sure you want to abandon this character and return to the main menu? (Confirm with "yes".) 
+
+           ..$.
+           ....
+   ####   ...#
+    ...   ..#
+     ..  ...#
+   ###.##..
+..##.....#
+ #.....@.#
+..##.....#
+   ###.##..
+     ..  ...#
+    ...   ..#
+   ####   ...#
+           ....
+           ####
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | david the Tengu Venom Mage began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+     0 | D:1      | Quit the game
+

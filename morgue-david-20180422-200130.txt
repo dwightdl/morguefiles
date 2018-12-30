@@ -1,0 +1,314 @@
+ Dungeon Crawl Stone Soup version 0.21.1 (tiles) character file.
+
+1831 david the Destroyer (level 9, -7/51 HPs)
+             Began as a Tengu Fire Elementalist on Apr 22, 2018.
+             Was a Follower of Vehumet.
+             Mangled by a sixfirhy (9 damage)
+             ... summoned by a kobold demonologist
+             ... on level 7 of the Dungeon.
+             The game lasted 00:21:52 (7097 turns).
+
+david the Destroyer (Tengu Fire Elementalist)       Turns: 7097, Time: 00:21:53
+
+Health: -7/51      AC:  4    Str: 10    XL:     9   Next: 11%
+Magic:  13/27      EV: 12    Int: 21    God:    Vehumet [*.....]
+Gold:   379        SH:  0    Dex: 18    Spells: 8/19 levels left
+
+rFire    + + .     SeeInvis .   e - +2 dagger (speed)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     + . .     Faith    .   r - +1 leather armour "Tyidor" {rF++ rN+ Dex+3}
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.17/turn              x - +4 ring of intelligence
+MPRegen  0.20/turn              y - ring of magical power
+
+@: no status effects
+A: beak, talons 3, able to fly 1
+a: Fly, Renounce Religion
+
+
+You were on level 7 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was aware of your devotion.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 7 of its levels.
+
+You collected 379 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ e - a +2 dagger of speed (weapon)
+Armour
+ m - a +0 hat
+ r - the +1 leather armour "Tyidor" (worn) {rF++ rN+ Dex+3}
+   (You found it on level 4 of the Dungeon)   
+   
+   It affects your dexterity (+3).
+   It greatly protects you from fire.
+   It protects you from negative energy.
+Jewellery
+ i - an uncursed ring of protection from fire
+ j - an uncursed ring of flight
+ q - an uncursed ring of ice
+ x - a +4 ring of intelligence (left hand)
+ y - a ring of magical power (right hand)
+Wands
+ a - a wand of enslavement (22)
+ v - a wand of flame (29)
+Scrolls
+ d - 3 scrolls of fear
+ o - 3 scrolls of enchant armour
+ t - a scroll of amnesia
+ A - a scroll of remove curse
+Potions
+ f - a potion of ambrosia {unknown}
+ g - 2 potions of lignification
+ h - 2 potions of invisibility {unknown}
+ k - 2 potions of curing
+ n - 3 potions of magic {unknown}
+ p - a potion of flight {unknown}
+ s - 2 potions of haste {unknown}
+ u - 2 potions of brilliance {unknown}
+Books
+ b - a book of Flames   
+   
+    Spells                           Type                      Level
+    a - Flame Tongue                 Conjuration/Fire              1
+    b - Throw Flame                  Conjuration/Fire              2
+    c - Conjure Flame                Conjuration/Fire              3
+    d - Inner Flame                  Hexes/Fire                    3
+    e - Sticky Flame                 Conjuration/Fire              4
+    f - Fireball                     Conjuration/Fire              5
+ w - a book of Conjurations   
+   
+    Spells                           Type                      Level
+    a - Magic Dart                   Conjuration                   1
+    b - Searing Ray                  Conjuration                   2
+    c - Dazzling Spray               Conjuration/Hexes             3
+    d - Fulminant Prism              Conjuration/Hexes             4
+    e - Force Lance                  Conjuration/Translocation     4
+    f - Iskenderun's Mystic Blast    Conjuration                   4
+Comestibles
+ c - 10 rations
+
+
+   Skills:
+ + Level 3.5 Fighting
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 5.6 Spellcasting
+ + Level 9.4 Conjurations
+ + Level 7.1 Fire Magic
+
+
+You had 8 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      #####        1%          1    None
+b - Throw Flame           Conj/Fire      #####.       1%          2    None
+c - Conjure Flame         Conj/Fire      #####...     1%          3    ##.....
+d - Magic Dart            Conj           ####         1%          1    None
+e - Sticky Flame          Conj/Fire      #####...     4%          4    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (0/1) D:5         
+
+Altars:
+Cheibriados
+Trog
+Vehumet
+Xom
+Yredelemnul
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+You can fly.
+
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Sticky Flame
+Press: ? - help, Shift-Dir - straight line, f/p - kobold demonologist
+Aim: a kobold demonologist, wielding a dagger and wearing a robe (lightly wounded)
+The sticky flame hits the kobold demonologist.
+The kobold demonologist appears unharmed.
+The kobold demonologist is lightly wounded.
+The kobold demonologist is covered in liquid flames!
+The big kobold shouts!
+The kobold demonologist burns!
+The kobold demonologist casts a spell.
+The kobold demonologist burns!
+The kobold demonologist hits you with a dagger.
+The kobold demonologist burns! The sixfirhy hits you. The sixfirhy shocks you!
+The kobold demonologist burns! The kobold demonologist stops burning. The sixfirhy hits you. The sixfirhy shocks you!
+* * * LOW HITPOINT WARNING * * *
+The sixfirhy hits you!
+* * * LOW HITPOINT WARNING * * *
+The sixfirhy shocks you!
+You die...
+
+......
+......    ..(...
+ .5..K    $........
+  ...5#   ....#  ..#
+   #K5h  #....#  #..
+   #...  .....# #...##
+    #5K##..#..# #....#
+    #4K...##..###.##.#
+    ##..K###...#..#>.###########
+ #.###.53# #...#................
+  #.....@###.........#####..####
+  #.####..##.(.......#  ##..#
+ #.    ##...........#####.#.####
+ #      ##..####.....<..#..##..#
+         ##.#  ##........####.##
+          #.#   #...##....#..#.#
+          ..#   #.............##
+          ..#   #.....###....##
+         ##..   .......##....#
+          ##.   ...##.......##
+            #    .  ####....#
+                      ##...##
+                    ###....##
+                    #.......#
+                   ........(##
+
+
+You could see a rust devil, 2 kobold demonologists, a sixfirhy, 2 iron imps, a
+white imp, a shadow imp, a jackal and 2 kobolds.
+
+Vanquished Creatures
+  An orc warrior (D:6)
+  A black bear (D:6)
+  2 ice beasts
+  A phantom (D:6)
+  A necrophage (D:6)
+  2 bullfrogs (D:6)
+  A gnoll sergeant (D:5)
+  A scorpion (D:2)
+  A howler monkey (D:6)
+  6 electric eels (D:6)
+  A crimson imp (D:5)
+  3 orc priests
+  3 hounds
+  A jelly (D:5)
+  A bullfrog skeleton (D:6)
+  3 orc wizards (D:5)
+  6 worker ants
+  6 gnolls
+  10 adders
+  A shadow imp (D:6)
+  An ooze (D:3)
+  An adder skeleton (D:4)
+  5 worms
+  A dart slug (D:3)
+  4 leopard geckos
+  17 orcs
+  2 ball pythons
+  4 giant cockroaches
+  6 goblins
+  7 hobgoblins
+  10 jackals
+  A quokka (D:2)
+  5 bats
+  7 frilled lizards
+  A giant cockroach zombie (D:6)
+  3 kobolds
+  2 quokka skeletons
+  7 rats
+  A plant (D:6)
+137 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | david the Tengu Fire Elementalist began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   164 | D:1      | Reached skill level 2 in Conjurations
+   167 | D:1      | Reached XP level 2. HP: 12/15 MP: 0/6
+   654 | D:2      | Learned a level 2 spell: Throw Flame
+   663 | D:2      | Reached XP level 3. HP: 19/19 MP: 0/7
+   871 | D:1      | Reached skill level 3 in Conjurations
+  1593 | D:2      | Reached XP level 4. HP: 22/24 MP: 2/8
+  1711 | D:2      | Reached skill level 4 in Conjurations
+  1771 | D:2      | Gained mutation: You can fly. [Tengu growth]
+  1771 | D:2      | Reached XP level 5. HP: 18/28 MP: 4/10
+  2167 | D:3      | Found a bloodstained altar of Trog.
+  2173 | D:3      | Learned a level 2 spell: Throw Flame
+  2185 | D:3      | Found a snail-covered altar of Cheibriados.
+  2281 | D:3      | Found a radiant altar of Vehumet.
+  2295 | D:2      | Reached skill level 5 in Conjurations
+  2867 | D:3      | Reached XP level 6. HP: 32/32 MP: 4/11
+  2931 | D:3      | Became a worshipper of Vehumet
+  3257 | D:4      | Got a pitted leather armour
+  3268 | D:4      | Identified the cursed +1 leather armour "Tyidor" {rF++ rN+ Dex+3} (You found it on level 4 of the Dungeon)
+  4230 | D:5      | Entered Level 5 of the Dungeon
+  4363 | D:5      | Learned a level 3 spell: Conjure Flame
+  4368 | D:5      | Reached * piety under Vehumet
+  4368 | D:5      | Offered knowledge of Magic Dart by Vehumet.
+  4368 | D:5      | Reached skill level 6 in Conjurations
+  4602 | D:5      | Reached skill level 5 in Fire Magic
+  4609 | D:5      | Learned a level 1 spell: Magic Dart
+  4630 | D:5      | Reached XP level 7. HP: 26/36 MP: 1/13
+  4761 | D:5      | Learned a level 4 spell: Sticky Flame
+  4813 | D:5      | Reached skill level 7 in Conjurations
+  5423 | D:5      | Reached skill level 8 in Conjurations
+  5629 | D:5      | Found a staircase to the Ecumenical Temple.
+  5727 | D:6      | Reached XP level 8. HP: 42/42 MP: 12/15
+  5752 | D:6      | Reached skill level 1 in Fighting
+  6180 | D:6      | Found a shimmering altar of Xom.
+  6180 | D:6      | Found a basalt altar of Yredelemnul.
+  6236 | D:6      | Reached skill level 5 in Spellcasting
+  6347 | D:6      | Reached skill level 9 in Conjurations
+  6525 | D:6      | Reached XP level 9. HP: 27/51 MP: 7/18
+  7086 | D:7      | Noticed a kobold demonologist
+  7090 | D:7      | Noticed a kobold demonologist
+  7093 | D:7      | Noticed a sixfirhy
+  7095 | D:7      | Noticed a rust devil
+  7097 | D:7      | HP: 2/51 [sixfirhy[a kobold demonologist] (7)]
+  7097 | D:7      | Mangled by a sixfirhy
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Conjurations   |  2     3  4  5  6  8  9    |  9.4
+Fire Magic     |           4     5     6  7 |  7.1
+Spellcasting   |              3     4  5    |  5.6
+Fighting       |                       3    |  3.5
+Dodging        |                            |  2.1
+Stealth        |                            |  2.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |    10 |       |       ||    10
+       Kick              |       |    10 |    13 ||    23
+       Dagger            |       |     8 |    39 ||    47
+       Spear             |       |    28 |       ||    28
+       Peck              |       |     6 |     5 ||    11
+ Cast: Flame Tongue      |    44 |    98 |    69 ||   211
+       Throw Flame       |    11 |    17 |    61 ||    89
+       Magic Dart        |       |     9 |     1 ||    10
+       Conjure Flame     |       |       |     1 ||     1
+       Sticky Flame      |       |       |     3 ||     3
+ Abil: Fly               |       |     1 |     1 ||     2
+  Use: Scroll            |     3 |     5 |       ||     8
+       Potion            |       |     2 |     3 ||     5
+ Stab: Sleeping          |       |     4 |       ||     4
+  Eat: Chunk             |     3 |     7 |     9 ||    19
+       Ration            |       |     1 |       ||     1
+Armor: Robe              |     3 |    21 |       ||    24
+       Leather armour    |       |     7 |     3 ||    10
+Dodge: Dodged            |    19 |    87 |    18 ||   124
+

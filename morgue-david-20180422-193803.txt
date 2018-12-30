@@ -1,0 +1,218 @@
+ Dungeon Crawl Stone Soup version 0.21.1 (tiles) character file.
+
+126 david the Conjurer (level 5, 0/28 HPs)
+             Began as a Tengu Fire Elementalist on Apr 22, 2018.
+             Succumbed to an orc's poison
+             ... on level 3 of the Dungeon.
+             The game lasted 00:15:32 (2113 turns).
+
+david the Conjurer (Tengu Fire Elementalist)        Turns: 2113, Time: 00:15:32
+
+Health: 0/28       AC:  4    Str:  9    XL:     5   Next: 9%
+Magic:  4/10       EV: 13    Int: 16    God:    
+Gold:   162        SH:  0    Dex: 16    Spells: 3/9 levels left
+
+rFire    . . .     SeeInvis .   f - +0 short sword
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   n - +1 pair of gloves
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.09/turn              (no ring)
+MPRegen  0.12/turn              (no ring)
+
+@: lethally poisoned (0 -> -2)
+A: beak, talons 3, agile 1, wild magic 1, evolution 1, MP-powered wands, able to
+fly 1
+a: Fly
+
+
+You were on level 3 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 162 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ f - a +0 short sword (weapon)
+ j - a +0 short sword
+Armour
+ a - a +0 robe (worn)
+ n - a +1 pair of gloves (worn)
+Scrolls
+ d - a scroll of enchant weapon {unknown}
+ g - a scroll of magic mapping
+ h - 3 scrolls of enchant armour
+Books
+ b - a book of Flames   
+   
+    Spells                           Type                      Level
+    a - Flame Tongue                 Conjuration/Fire              1
+    b - Throw Flame                  Conjuration/Fire              2
+    c - Conjure Flame                Conjuration/Fire              3
+    d - Inner Flame                  Hexes/Fire                    3
+    e - Sticky Flame                 Conjuration/Fire              4
+    f - Fireball                     Conjuration/Fire              5
+Comestibles
+ c - 6 rations
+ m - 4 chunks of flesh
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 2.8 Spellcasting
+ * Level 4.5 Conjurations
+ + Level 4.1 Fire Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      ###..        5%          1    #......
+b - Conjure Flame         Conj/Fire      ###.....     14%         3    ###....
+c - Throw Flame           Conj/Fire      ###...       8%          2    ##.....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Gozag
+Qazlal
+Wu Jian
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+You can fly.
+You are agile. (Dex +2)
+Your spells are a little harder to cast, but a little more powerful.
+You evolve.
+You expend magic power (3 MP) to strengthen your wands.
+
+
+Message History
+
+You feel your magical essence link to your wands.
+You feel agile.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+You aren't carrying any potions.
+As you read the scroll labeled XEIVVAOPHU, it crumbles to dust.
+It is a scroll of enchant armour.
+Your +0 pair of gloves glows green for a moment.
+As you read the scroll labeled ZAEJOESOAM, it crumbles to dust.
+You smell tea. It was a scroll of random uselessness.
+There is a lethal amount of poison in your body!
+There is a lethal amount of poison in your body!
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+Unknown command.
+You die...
+
+.†.###..#......(##.......#...# #.#   ..#
+...  #..#...........#.##...#.# #.###...#
+    ....#.......#........###.###.#.....#
+   #..#.#.......#.#.##.### #....o..#
+  ....#................#   ###...###
+ .................######    ###g.#
+ ........#........###########....#
+.....###....................#.#..#
+       #####................#.#..#
+         ................g....#..#
+        ..............o.o...###..#
+        <..##.......######### #..#
+        .## #...........#     #..#
+            ########..#.##    ####
+                   ##.#..#
+                    #.)#@#
+                    ##).(#
+                     #####
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An orc priest (D:2)
+  2 adders
+  An adder skeleton (D:2)
+  2 worms
+  2 dart slugs
+  10 orcs
+  4 bats
+  2 giant cockroaches (D:2)
+  3 goblins
+  5 hobgoblins
+  3 jackals
+  9 kobolds
+  2 quokkas (D:2)
+  2 frilled lizards
+  8 rats
+56 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | david the Tengu Fire Elementalist began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+    44 | D:1      | Reached XP level 2. HP: 7/15 MP: 0/6
+   418 | D:2      | Found an opulent altar of Gozag.
+   446 | D:2      | Reached XP level 3. HP: 19/19 MP: 2/7
+   541 | D:2      | Found an ornate altar of the Wu Jian Council.
+   639 | D:2      | Learned a level 3 spell: Conjure Flame
+   692 | D:2      | Found a stormy altar of Qazlal.
+   694 | D:2      | Noticed a water elemental
+   696 | D:2      | Noticed an earth elemental
+   696 | D:2      | Noticed an air elemental
+   696 | D:2      | Noticed a fire elemental
+   723 | D:2      | Learned a level 2 spell: Throw Flame
+  1150 | D:2      | Reached XP level 4. HP: 14/24 MP: 5/8
+  2050 | D:3      | Gained mutation: You can fly. [Tengu growth]
+  2050 | D:3      | Reached XP level 5. HP: 23/28 MP: 5/10
+  2099 | D:3      | Gained mutation: Your spells are a little harder to cast, but a little more powerful. [potion of mutation]
+  2099 | D:3      | Gained mutation: You evolve. [potion of mutation]
+  2099 | D:3      | Gained mutation: You expend magic power (3 MP) to strengthen your wands. [potion of mutation]
+  2099 | D:3      | Gained mutation: You are agile. (Dex +2) [potion of mutation]
+  2109 | D:3      | HP: 1/28 [poisoned by an orc]
+  2113 | D:3      | Succumbed to an orc's poison
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Conjurations   |  2  3     4 |  4.5
+Fire Magic     |           4 |  4.1
+Dodging        |             |  2.1
+Stealth        |             |  2.0
+Spellcasting   |             |  2.8
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |     2 |       ||     2
+       Short sword       |    10 |    22 ||    32
+       Kick              |     4 |     3 ||     7
+       Peck              |     1 |     1 ||     2
+ Cast: Flame Tongue      |    52 |    29 ||    81
+       Throw Flame       |     4 |     8 ||    12
+       Conjure Flame     |       |     3 ||     3
+  Use: Scroll            |     2 |     2 ||     4
+       Potion            |       |     4 ||     4
+  Eat: Chunk             |     2 |     1 ||     3
+       Ration            |       |     1 ||     1
+Armor: Robe              |     8 |     8 ||    16
+       Skin              |       |    18 ||    18
+Dodge: Dodged            |    36 |    52 ||    88
+

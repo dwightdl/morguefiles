@@ -1,0 +1,227 @@
+ Dungeon Crawl Stone Soup version 0.21.1 (tiles) character file.
+
+144 innerpeace the Conjurer (level 5, -5/28 HPs)
+             Began as a Tengu Conjurer on Apr 25, 2018.
+             Slain by a centaur (6 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:04:39 (2935 turns).
+
+innerpeace the Conjurer (Tengu Conjurer)            Turns: 2935, Time: 00:04:40
+
+Health: -5/28      AC:  2    Str:  8    XL:     5   Next: 26%
+Magic:  0/10       EV: 12    Int: 17    God:    
+Gold:   114        SH:  0    Dex: 14    Spells: 0/10 levels left
+
+rFire    . . .     SeeInvis .   k - +0 spear
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.09/turn              (no ring)
+MPRegen  0.12/turn              (no ring)
+
+@: no status effects
+A: beak, talons 3, able to fly 1
+a: Fly
+
+
+You were on level 3 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 114 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ k - a +0 spear (weapon)
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ m - an uncursed ring of flight {unknown}
+Scrolls
+ d - a scroll of noise
+ e - a scroll of fog
+ h - a scroll of random uselessness
+ i - a scroll of blinking
+ n - a scroll of teleportation {unknown}
+ p - 3 scrolls of remove curse {unknown}
+ r - a scroll of magic mapping {unknown}
+Potions
+ f - a potion of mutation {unknown}
+ g - a potion of agility {unknown}
+ j - a potion of flight {unknown}
+ l - a potion of brilliance {unknown}
+ o - a potion of curing
+ q - a potion of might {unknown}
+ s - a potion of heal wounds {unknown}
+ t - a potion of ambrosia {unknown}
+Books
+ b - a book of Conjurations   
+   
+    Spells                           Type                      Level
+    a - Magic Dart                   Conjuration                   1
+    b - Searing Ray                  Conjuration                   2
+    c - Dazzling Spray               Conjuration/Hexes             3
+    d - Fulminant Prism              Conjuration/Hexes             4
+    e - Force Lance                  Conjuration/Translocation     4
+    f - Iskenderun's Mystic Blast    Conjuration                   4
+Comestibles
+ c - 3 rations
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 3.1 Spellcasting
+ * Level 7.6 Conjurations
+
+
+You couldn't memorise any spells.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           ####         1%          1    None
+b - Searing Ray           Conj           ####..       1%          2    ##.....
+c - Iskenderun's Mystic   Conj           ####....     8%          4    ####...
+d - Dazzling Spray        Conj/Hex       ###...       11%         3    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Nemelex Xobeh
+Okawaru
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+You can fly.
+
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Magic Dart
+Press: ? - help, Shift-Dir - straight line, f/p - centaur
+Aim: a centaur, wielding a shortbow (moderately wounded)
+The magic dart hits the centaur.
+The centaur is moderately wounded.
+The centaur unwields an uncursed shortbow.
+The centaur completely misses you. The centaur hits you.
+You hit the centaur but do no damage. You claw the centaur.
+The centaur is heavily wounded.
+The centaur hits you.
+You hit the centaur.
+The centaur is severely wounded.
+The centaur misses you. x2
+You hit the centaur. You peck the centaur, but do no damage.
+The centaur is severely wounded.
+The centaur hits you!
+* * * LOW HITPOINT WARNING * * *
+The centaur hits you.
+You die...
+
+######......#.#
+     #......# #
+     #......#
+     #......#
+     #......#
+     ###.#.##
+       #.#.#
+       #.#.#
+       #.#.#
+       #.#.#
+       #.#.#
+         #.#
+         #.#                ..  #.
+         #.#               .... #.
+         #(#               ....##.
+         #@#          ..........#.
+         #c#         .............
+         ...         .......†##.#.
+        .....        ........##...
+       #......        .........#..
+       #.......        #.......#..
+       #........       #.[.....#..
+       .........#      #..........
+                       #.##..###..
+                       #.##..###..
+                  ######..........
+                  #...............
+                  #.####.....#....
+                  #.#  #..........
+                  #.#  #.....###.#
+
+
+You could see a centaur.
+
+Vanquished Creatures
+  4 adders (D:3)
+  2 oozes
+  4 worms
+  4 dart slugs
+  A leopard gecko (D:1)
+  6 orcs (D:3)
+  2 ball pythons
+  9 bats
+  A giant cockroach (D:1)
+  6 goblins
+  9 hobgoblins
+  9 jackals
+  4 kobolds
+  4 frilled lizards
+  9 rats
+74 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | innerpeace the Tengu Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   319 | D:1      | Reached XP level 2. HP: 14/15 MP: 3/6
+   439 | D:1      | Found a sparkling altar of Nemelex Xobeh.
+   487 | D:1      | Reached skill level 6 in Conjurations
+   627 | D:1      | Reached XP level 3. HP: 19/19 MP: 2/7
+  1683 | D:2      | Reached XP level 4. HP: 24/24 MP: 1/9
+  1746 | D:2      | Learned a level 2 spell: Searing Ray
+  1751 | D:2      | Learned a level 4 spell: Iskenderun's Mystic Blast
+  2311 | D:3      | Reached skill level 7 in Conjurations
+  2653 | D:3      | Gained mutation: You can fly. [Tengu growth]
+  2653 | D:3      | Reached XP level 5. HP: 28/28 MP: 6/10
+  2841 | D:3      | Learned a level 3 spell: Dazzling Spray
+  2858 | D:3      | Found an iron altar of Okawaru.
+  2927 | D:3      | Noticed a centaur
+  2935 | D:3      | HP: 1/28 [centaur (8)]
+  2935 | D:3      | Slain by a centaur
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Conjurations   |     6     7 |  7.6
+Spellcasting   |           3 |  3.1
+Dodging        |             |  2.1
+Stealth        |             |  2.0
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |     4 |       ||     4
+       Kick              |     4 |     3 ||     7
+       Peck              |     2 |     4 ||     6
+       Dagger            |    13 |       ||    13
+       Spear             |       |    11 ||    11
+ Cast: Magic Dart        |    82 |    77 ||   159
+       Searing Ray       |       |     4 ||     4
+  Use: Scroll            |       |     4 ||     4
+  Eat: Chunk             |     3 |     4 ||     7
+Armor: Robe              |    11 |     1 ||    12
+Dodge: Dodged            |    31 |    13 ||    44
+

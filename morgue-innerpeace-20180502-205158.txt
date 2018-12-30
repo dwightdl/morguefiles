@@ -1,0 +1,307 @@
+ Dungeon Crawl Stone Soup version 0.21.1 (tiles) character file.
+
+1005 innerpeace the Gusty (level 8, -2/41 HPs)
+             Began as a Tengu Air Elementalist on May 2, 2018.
+             Was a Follower of Vehumet.
+             Slain by an orc warrior
+             ... wielding a +0 war axe
+              (20 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:12:27 (4732 turns).
+
+innerpeace the Gusty (Tengu Air Elementalist)       Turns: 4732, Time: 00:12:28
+
+Health: -2/41      AC:  4    Str:  8    XL:     8   Next: 20%
+Magic:  23/25      EV: 16    Int: 17    God:    Vehumet [*.....]
+Gold:   16         SH:  4    Dex: 16    Spells: 7/17 levels left
+
+rFire    . . .     SeeInvis .   j - +3 dagger (venom)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  +   C - +0 cloak
+rCorr    .         Harm     .   i - +0 pair of gloves
+MR       .....                  (boots unavailable)
+Stlth    ++........             r - +4 amulet of reflection
+HPRegen  0.13/turn              s - +3 ring of evasion
+MPRegen  0.19/turn              d - ring of magical power
+
+@: very slightly contaminated
+A: beak, talons 3, able to fly 1
+a: Fly, Renounce Religion
+
+
+You were on level 5 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was aware of your devotion.
+You were very hungry.
+
+You visited 2 branches of the dungeon, and saw 7 of its levels.
+You also visited: Sewer.
+
+You collected 247 gold pieces.
+You spent 231 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ h - a +0 spear
+ j - a +3 dagger of venom (weapon)
+Armour
+ a - a +0 robe (worn)
+ i - a +0 pair of gloves (worn)
+ v - a +0 ring mail of fire resistance
+ C - a +0 cloak (worn)
+Jewellery
+ d - a ring of magical power (right hand)
+ r - a +4 amulet of reflection (around neck)
+ s - a +3 ring of evasion (left hand)
+Scrolls
+ k - 3 scrolls of remove curse
+ l - a scroll of amnesia
+ m - a scroll of enchant armour {unknown}
+ n - a scroll of noise {unknown}
+ o - 4 scrolls of teleportation
+ q - a scroll of silence {unknown}
+ y - 2 scrolls of fog
+Potions
+ e - a potion of cancellation {unknown}
+ f - 2 potions of heal wounds
+ g - 4 potions of curing
+ p - a potion of degeneration {unknown}
+ t - 4 potions of flight
+ u - 2 potions of mutation
+ w - a potion of agility {unknown}
+ z - 2 potions of lignification {unknown}
+ A - 2 potions of invisibility {unknown}
+Books
+ b - a book of Air   
+   
+    Spells                           Type                      Level
+    a - Shock                        Conjuration/Air               1
+    b - Swiftness                    Charms/Air                    2
+    c - Static Discharge             Conjuration/Air               3
+    d - Airstrike                    Air                           4
+    e - Lightning Bolt               Conjuration/Air               5
+Comestibles
+ c - 14 rations
+
+
+   Skills:
+ + Level 2.6 Armour
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 5.0 Spellcasting
+ + Level 6.7 Conjurations
+ + Level 7.8 Air Magic
+
+
+You had 7 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Shock                 Conj/Air       ####         1%          1    None
+b - Swiftness             Chrm/Air       ###.....     4%          2    #......
+c - Static Discharge      Conj/Air       ####....     2%          3    ###....
+d - Airstrike             Air            ####......   5%          4    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)             Temple (1/1) D:4         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:4 :   D:5 =
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+You can fly.
+
+
+Message History
+
+Items here: )) ††
+a dagger; a hand axe; an orc corpse x2
+Butcher an orc corpse? [(y)es/(c)hoosy/(n)o/(a)ll/(e)dible/(q)uit/?]
+You butcher the orc corpse.
+The orc shouts!
+You butcher the orc corpse.
+The orc warrior hits you with a war axe!
+Items here: %% ))
+a dagger; a hand axe; 3 chunks of flesh; 2 chunks of flesh
+There is a stone staircase leading up here.
+The orc warrior hits you with a war axe!
+You climb upwards.
+There is a stone staircase leading down here.
+Casting: Shock
+Confirm with . or Enter, or press ? or * to list all spells.
+You miscast Swiftness.
+You are very lightly contaminated with residual magic.
+Nothing appears to happen.
+The orc warrior hits you with a war axe!!
+You die...
+
+   ############               #######
+   #..........#               #.....#
+   #..........#     ###########.....#
+   #..........##### #.........#.....#######
+   #####.###......###..................∩..##
+       #.# ######..##.........##..####..#..#
+       #.#      ##..#.>.......##..# ##.###..
+  ######.#       ##.o####.######..# #..####.
+  #....#.#        ##@.##..# ##....###.....).
+  #....#.#         ##.##.## #..##.##..#####.
+  #....#.#          #.##.#  #.##......#   #.
+  #....#.############.##.# ##.#...##.##   #.
+  #..).#...............#.###....#.##.###  ##
+  #....#.###########.(........###.#....#####
+  #....#..#        ##.##....### #.#......#..
+  #....##.##    #####.#......#  #.#....#....
+  ###..##..##   #........###.## #.#..###.###
+    ##......##  #..##...## #..# #(...###.# #
+##########...#####.....##  ##.###..#..#..###
+#...#    ##....##....#..#####...........>.).
+#...#     ##.#....#....................)####
+#...########.###......#.#######..#......####
+#...........(...........................)...
+
+
+You could see an orc warrior.
+
+Vanquished Creatures
+  An ice beast (D:5)
+  2 ogres (D:5)
+  2 centaurs (D:5)
+  A big kobold (Sewer)
+  Blork the orc (D:4)
+  The ghost of innerpeace the Stinger, a weakling DsVM (D:3)
+  2 hounds (D:5)
+  A centaur skeleton (D:4)
+  2 orc wizards
+  3 worker ants
+  Robin (D:4)
+  3 adders
+  3 gnolls (D:3)
+  2 river rats (Sewer)
+  An adder zombie (D:5)
+  An adder skeleton (D:4)
+  A worm (D:2)
+  A dart slug (D:3)
+  A leopard gecko (D:2)
+  12 orcs
+  6 bats
+  5 giant cockroaches
+  15 goblins
+  11 hobgoblins
+  2 jackals (Sewer)
+  A quokka (D:4)
+  4 ball pythons
+  5 frilled lizards
+  11 kobolds
+  A leopard gecko skeleton (D:4)
+  A quokka skeleton (D:4)
+  6 rats
+110 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | innerpeace the Tengu Air Elementalist began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   206 | D:1      | Reached XP level 2. HP: 15/15 MP: 3/6
+   585 | D:2      | Reached XP level 3. HP: 14/19 MP: 0/7
+  1024 | D:2      | Found a glowing silver altar of Zin.
+  1025 | D:2      | Noticed an angel
+  1482 | D:3      | Reached XP level 4. HP: 24/24 MP: 5/9
+  1524 | D:3      | Reached skill level 5 in Air Magic
+  1534 | D:3      | Learned a level 2 spell: Swiftness
+  1538 | D:3      | Learned a level 3 spell: Static Discharge
+  1639 | D:3      | Noticed innerpeace's ghost (weakling DsVM)
+  1741 | D:3      | Killed innerpeace's ghost
+  1975 | D:3      | Found a shattered altar of Ashenzari.
+  2036 | D:3      | Gained mutation: You can fly. [Tengu growth]
+  2036 | D:3      | Reached XP level 5. HP: 28/28 MP: 5/10
+  2335 | D:4      | Found a glowing drain.
+  2391 | Sewer    | Entered a sewer
+  2508 | Sewer    | Noticed a big kobold
+  2524 | Sewer    | Killed a big kobold
+  2524 | Sewer    | Reached skill level 6 in Air Magic
+  2524 | Sewer    | Reached XP level 6. HP: 30/32 MP: 3/12
+  2640 | Sewer    | Found a glowing silver altar of Zin.
+  2784 | D:4      | Found a staircase to the Ecumenical Temple.
+  2784 | D:4      | Noticed Robin
+  2815 | D:4      | Killed Robin
+  2941 | Temple   | Entered the Ecumenical Temple
+  2949 | Temple   | Became a worshipper of Vehumet
+  2984 | D:4      | Reached skill level 5 in Conjurations
+  3124 | D:4      | Found Tubagh's Book Boutique.
+  3250 | D:4      | Noticed Blork the orc
+  3264 | D:4      | Killed Blork the orc
+  3264 | D:4      | Reached XP level 7. HP: 17/36 MP: 6/14
+  3617 | D:5      | Entered Level 5 of the Dungeon
+  3622 | D:5      | Reached skill level 7 in Air Magic
+  3674 | D:5      | Found Sykhlousm's Jewellery Boutique.
+  3681 | D:5      | Bought a +3 ring of evasion for 231 gold pieces
+  3777 | D:5      | Learned a level 4 spell: Airstrike
+  3790 | D:5      | Reached skill level 1 in Armour
+  3808 | D:5      | Found a blossoming altar of Fedhas.
+  4117 | D:5      | Found a glowing golden altar of the Shining One.
+  4161 | D:5      | Reached XP level 8. HP: 8/41 MP: 16/16
+  4640 | D:5      | Reached skill level 5 in Spellcasting
+  4725 | D:6      | Reached * piety under Vehumet
+  4725 | D:6      | Offered knowledge of Sandblast by Vehumet.
+  4732 | D:5      | Slain by an orc warrior
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Conjurations   |     2  3     4  5  6    |  6.7
+Air Magic      |           5  6     7    |  7.8
+Spellcasting   |           3     4     5 |  5.0
+Armour         |                    2    |  2.6
+Dodging        |                         |  2.1
+Stealth        |                         |  2.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Dagger            |    39 |    49 |    29 ||   117
+       Kick              |    13 |    10 |     6 ||    29
+       Peck              |     1 |     8 |     4 ||    13
+ Cast: Shock             |    27 |    75 |    40 ||   142
+       Static Discharge  |       |       |     2 ||     2
+ Abil: Fly               |       |     1 |       ||     1
+  Use: Scroll            |     2 |     7 |     4 ||    13
+       Potion            |       |       |     1 ||     1
+ Stab: Sleeping          |     3 |     3 |     2 ||     8
+  Eat: Chunk             |     2 |     5 |     4 ||    11
+Armor: Robe              |    15 |    15 |     3 ||    33
+Dodge: Dodged            |    29 |    48 |    26 ||   103
+Block: Other             |       |       |     3 ||     3
+       Reflection        |       |       |     1 ||     1
+

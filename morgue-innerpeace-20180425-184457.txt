@@ -1,0 +1,209 @@
+ Dungeon Crawl Stone Soup version 0.21.1 (tiles) character file.
+
+116 innerpeace the Grasshopper (level 4, -2/23 HPs)
+             Began as a Spriggan Warper on Apr 25, 2018.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (12 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:09:41 (3884 turns).
+
+innerpeace the Grasshopper (Spriggan Warper)        Turns: 3884, Time: 00:09:41
+
+Health: -2/23      AC:  2    Str:  8    XL:     4   Next: 70%
+Magic:  11/11      EV: 18    Int: 14    God:    
+Gold:   132        SH:  0    Dex: 15    Spells: 1/11 levels left
+
+rFire    . . .     SeeInvis +   a - +0 short sword
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.07/turn              (no ring)
+MPRegen  0.12/turn              (no ring)
+
+@: very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You were hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 132 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 short sword (weapon)
+Missiles
+ e - 5 tomahawks of dispersal (quivered)
+Armour
+ b - a +0 robe (worn)
+Jewellery
+ k - an uncursed ring of stealth {unknown}
+Scrolls
+ d - 2 scrolls of blinking
+ g - a scroll of magic mapping {unknown}
+ h - 2 scrolls of teleportation
+ i - a scroll of amnesia
+ l - 2 scrolls of remove curse
+ p - a scroll of fog
+Potions
+ j - a potion of flight
+ m - 2 potions of curing
+ n - a potion of heal wounds
+ o - a potion of agility {unknown}
+ q - a potion of mutation {unknown}
+Books
+ c - a book of Spatial Translocations   
+   
+    Spells                           Type                      Level
+    a - Blink                        Translocation                 2
+    b - Shroud of Golubria           Charms/Translocation          2
+    c - Lesser Beckoning             Translocation                 3
+    d - Gell's Gravitas              Translocation                 3
+    e - Teleport Other               Translocation                 3
+    f - Passage of Golubria          Translocation                 4
+Comestibles
+ f - 6 rations
+
+
+   Skills:
+ + Level 2.6 Fighting
+ * Level 3.5 Short Blades
+ - Level 1.0 Throwing
+ - Level 3.5 Dodging
+ + Level 4.1 Spellcasting
+ + Level 4.6 Translocations
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Blink                 Tloc           N/A          4%          2    ##.....
+b - Gell's Gravitas       Tloc           ###.......   9%          3    ###....
+c - Shroud of Golubria    Chrm/Tloc      #.........   11%         2    ##.....
+d - Teleport Other        Tloc           ###.....     9%          3    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need consume almost no food.
+
+
+Message History
+
+You start resting.
+You are feeling hungry.
+There is a stone staircase leading down, spattered with blood here.
+You climb downwards. The orc priest closely misses you.
+There is a stone staircase leading up here.
+You hit the orc priest but do no damage.
+The orc priest mumbles some strange prayers to Beogh against you.
+Pain shoots through your body!
+You closely miss the orc priest. The orc priest closely misses you.
+You hit the orc priest.
+The orc priest is moderately wounded.
+The orc priest barely misses you.
+You hit the orc priest but do no damage.
+The orc priest is moderately wounded.
+You barely miss the orc priest.
+The orc priest is moderately wounded.
+The orc priest calls down the wrath of Beogh upon you.
+Beogh smites you!
+Ouch! That really hurt!
+You die...
+
+ .........
+  .......#
+   ...#...
+    .....#
+     ....#
+######...######
+.......o.......
+      #@.#
+      #..#
+      #...#
+      ......
+      .......
+     #....(....
+     #.........
+     ##.#######
+
+
+You could see an orc priest.
+
+Vanquished Creatures
+  5 adders (D:2)
+  2 oozes
+  2 dart slugs (D:1)
+  3 leopard geckos
+  2 orcs (D:2)
+  4 bats
+  A giant cockroach (D:2)
+  3 goblins
+  10 hobgoblins
+  3 quokkas (D:2)
+  7 frilled lizards
+  2 kobolds (D:2)
+  13 rats
+57 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | innerpeace the Spriggan Warper began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 5/5
+   481 | D:1      | Reached XP level 2. HP: 7/15 MP: 7/7
+   637 | D:1      | Learned a level 2 spell: Blink
+  1242 | D:1      | Reached XP level 3. HP: 18/18 MP: 8/8
+  1256 | D:1      | Learned a level 3 spell: Gell's Gravitas
+  1259 | D:1      | Learned a level 2 spell: Shroud of Golubria
+  2243 | D:2      | Reached XP level 4. HP: 14/23 MP: 6/10
+  2274 | D:2      | Learned a level 3 spell: Teleport Other
+  3884 | D:3      | Killed from afar by an orc priest
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Spellcasting   |  3        4 |  4.1
+Fighting       |     2       |  2.6
+Short Blades   |        3    |  3.5
+Throwing       |             |  1.0
+Dodging        |             |  3.5
+Translocations |             |  4.6
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Short sword       |   175 |   120 ||   295
+ Cast: Blink             |     2 |       ||     2
+       Shroud of Golubri |     4 |     4 ||     8
+       Gell's Gravitas   |     3 |       ||     3
+       Teleport Other    |       |     3 ||     3
+  Use: Scroll            |       |     7 ||     7
+       Potion            |       |     1 ||     1
+ Stab: Sleeping          |     4 |       ||     4
+  Eat: Ration            |       |     1 ||     1
+Armor: Robe              |    16 |     3 ||    19
+Dodge: Dodged            |   136 |    97 ||   233
+

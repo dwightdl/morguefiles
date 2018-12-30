@@ -1,0 +1,268 @@
+innerpeace
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(23, 41, D:1)
+  a +0 dagger
+(26, -10, D:1)
+  21 stones
+(33, 19, D:1)
+  a +0 ring mail
+(34, 9, D:1)
+  a +0 mace
+(36, -11, D:1)
+  13 arrows
+(36, 3, D:1)
+  20 stones
+(40, -10, D:1)
+  18 sling bullets
+(40, 20, D:1)
+  a +0 dagger
+(48, -10, D:1)
+  a +0 club
+(53, 39, D:1)
+  a +0 robe
+(54, -11, D:1)
+  a +0 scale mail
+
+Level 2 of the Dungeon
+(13, 18, D:2)
+  a +0 scale mail
+(15, -15, D:2)
+  a +0 club
+(20, 27, D:2)
+  24 sling bullets
+(24, -20, D:2)
+  a +0 robe
+(31, 27, D:2)
+  a +0 short sword
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 dagger
+(22, 5, D:3)
+  a +0 dagger
+(26, -27, D:3)
+  5 needles of confusion
+(28, 30, D:3)
+  a +0 short sword
+(29, -27, D:3)
+  a +0 ring mail
+(29, -26, D:3)
+  a +0 club
+(32, 12, D:3)
+  a +0 short sword
+(35, 13, D:3)
+  a +0 plate armour
+  a +0 spear
+(36, 12, D:3)
+  a stone
+(36, 13, D:3)
+  a stone
+(36, 14, D:3)
+  a +0 dagger
+(40, -17, D:3)
+  38 stones
+  a +0 hunting sling
+(40, -8, D:3)
+  a +0 dagger
+(46, 2, D:3)
+  a -3 spear
+  a -1 mace
+(51, -20, D:3)
+  a stone
+(53, -28, D:3)
+  a +1 dagger of protection
+(53, -13, D:3)
+  4 stones
+(53, -12, D:3)
+  6 stones
+(54, -23, D:3)
+  a stone
+(54, -15, D:3)
+  3 stones
+(55, -29, D:3)
+  4 stones
+  a +0 hunting sling
+(55, -16, D:3)
+  a stone
+(56, -14, D:3)
+  2 stones
+(57, -22, D:3)
+  4 stones
+(60, -27, D:3)
+  a stone
+(60, -25, D:3)
+  a cursed +0 club
+(60, -23, D:3)
+  a stone
+(61, -32, D:3)
+  a +0 club
+(61, -29, D:3)
+  a stone
+(61, -27, D:3)
+  a stone
+(61, -26, D:3)
+  a stone
+(61, -25, D:3)
+  a stone
+(62, -32, D:3)
+  a +0 leather armour
+  4 stones
+  a +0 hunting sling
+(62, -7, D:3)
+  3 stones
+(64, -21, D:3)
+  a +0 pair of gloves
+(64, -20, D:3)
+  11 arrows
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  23 stones
+(9, -8, D:4)
+  13 stones
+(14, -8, D:4)
+  a +0 hand axe
+(15, -19, D:4)
+  18 sling bullets
+(17, -33, D:4)
+  a +0 mace
+(24, -29, D:4)
+  a +0 whip of pain
+(24, 27, D:4)
+  a potion of degeneration
+(26, -29, D:4)
+  a +0 halberd
+(32, -11, D:4)
+  9 sling bullets
+(32, 16, D:4)
+  a +0 plate armour
+(35, -24, D:4)
+  a +0 shield
+(36, 14, D:4)
+  a +0 large shield
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  16 stones
+(1, 35, D:5)
+  11 sling bullets
+(3, 34, D:5)
+  a +0 robe
+(6, 35, D:5)
+  a +1 pair of gloves
+(10, 22, D:5)
+  21 arrows
+(11, 19, D:5)
+  a +0 dagger
+  a +0 robe
+(15, 18, D:5)
+  a +0 hand axe
+  a +0 dagger
+  a +0 hunting sling
+(34, 29, D:5)
+  a +0 mace
+(34, 40, D:5)
+  a +0 mace
+(34, 41, D:5)
+  a +0 mace
+(35, 37, D:5)
+  a +0 mace
+(35, 38, D:5)
+  a +4 quarterstaff of chaos
+(36, 35, D:5)
+  a +0 mace
+(36, 36, D:5)
+  a +0 mace
+(39, 6, D:5)
+  a +0 hand axe
+
+Level 6 of the Dungeon
+[Shop] Kewkaiju's Distillery
+  a potion of heal wounds (60 gold)
+  a potion of resistance (120 gold)
+  a potion of haste (120 gold)
+  a potion of agility (48 gold)
+  a potion of heal wounds (60 gold)
+  a potion of invisibility (96 gold)
+[Shop] Varchasup's Antique Armour Shoppe
+  a +2 leather armour of poison resistance (320 gold)
+  a +0 chain mail (90 gold)
+  a +2 chain mail of cold resistance (430 gold)
+  a +2 ring mail of fire resistance (420 gold)
+  a +2 robe (254 gold)
+  a +2 plate armour of fire resistance (800 gold)
+  a +0 ring mail (80 gold)
+  a +0 chain mail (90 gold)
+  a +0 chain mail (90 gold)
+(0, 0, D:6)
+  10 stones
+(6, -23, D:6)
+  a +0 dagger of holy wrath
+(6, 3, D:6)
+  a +0 spear
+(7, -10, D:6)
+  13 stones
+(9, -45, D:6)
+  20 bolts
+(13, -23, D:6)
+  a +0 ring mail
+(25, -32, D:6)
+  a +0 hand axe
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  26 arrows
+(16, 7, D:7)
+  a +0 giant spiked club
+(19, -14, D:7)
+  a +0 short sword
+(22, -5, D:7)
+  2 arrows
+(23, -16, D:7)
+  a +0 leather armour
+  a +1 flail of protection
+(23, -1, D:7)
+  a +0 hand axe
+  a +0 club
+  a +0 chain mail of magic resistance
+  a +0 leather armour
+(24, -17, D:7)
+  a cursed -2 leather armour
+  a +1 dagger of venom
+(24, -4, D:7)
+  a +0 shortbow
+  15 arrows
+(27, -5, D:7)
+  a +0 spear
+  a +0 leather armour
+(27, -2, D:7)
+  a +0 halberd
+  a +0 spear
+(32, -4, D:7)
+  a +0 cloak
+(34, -26, D:7)
+  17 arrows
+(34, 9, D:7)
+  a +0 ring mail
+(36, -21, D:7)
+  a +0 flail
+(38, -21, D:7)
+  a +0 giant club
+(43, 3, D:7)
+  2 arrows
+(44, -16, D:7)
+  21 stones
+(46, -25, D:7)
+  a +0 giant spiked club
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  10 gold pieces
+(5, 1, D:8)
+  a scorpion corpse
+(8, -2, D:8)
+  9 bolts
+

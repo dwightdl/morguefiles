@@ -1,0 +1,182 @@
+ Dungeon Crawl Stone Soup version 0.21.1 (tiles) character file.
+
+28 david the Caller (level 3, -1/19 HPs)
+             Began as a Tengu Summoner on Apr 23, 2018.
+             Slain by a jackal (2 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:02:00 (857 turns).
+
+david the Caller (Tengu Summoner)                    Turns: 857, Time: 00:02:00
+
+Health: -1/19      AC:  2    Str:  8    XL:     3   Next: 14%
+Magic:  1/8        EV: 12    Int: 16    God:    
+Gold:   58         SH:  0    Dex: 14    Spells: 6/7 levels left
+
+rFire    . . .     SeeInvis .   g - +0 mace
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.11/turn              (no ring)
+
+@: hasted, very quick
+A: beak, talons 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 58 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ g - a +0 mace (weapon)
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ e - a scroll of identify {unknown}
+Potions
+ h - a potion of heal wounds {unknown}
+ i - a potion of curing {unknown}
+Books
+ b - a book of Callings   
+   
+    Spells                           Type                      Level
+    a - Summon Small Mammal          Summoning                     1
+    b - Call Imp                     Summoning                     2
+    c - Call Canine Familiar         Summoning                     3
+    d - Summon Guardian Golem        Hexes/Summoning               3
+    e - Summon Lightning Spire       Summoning/Air                 4
+    f - Summon Ice Beast             Ice/Summoning                 4
+Comestibles
+ c - 2 rations
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 2.7 Spellcasting
+ + Level 5.4 Summonings
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Summon Small Mammal   Summ           ###.         1%          1    #......
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+
+
+Message History
+
+* * * LOW HITPOINT WARNING * * *
+You hit the jackal.
+You kill the jackal!
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+You completely miss the jackal.
+The jackal is lightly wounded.
+The jackal barely misses you. x2
+You barely miss the jackal. Your kick misses the jackal.
+The jackal is lightly wounded.
+The jackal misses you. The jackal barely misses you. The jackal closely misses you.
+You miss the jackal.
+The jackal is lightly wounded.
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal barely misses you. The jackal misses you.
+You hit the jackal.
+You kill the jackal!
+The jackal bites you.
+You die...
+
+        #####
+        #@hs#
+      ###†#.#
+#.#####.#.#.###h.##
+#....>.........h...
+#####.#...#....s...
+ ####.#.#######.##.       #..
+.........#....#.#         #.#
+#####.##.....##.#         #.#
+   ##.#..#.#..#.# #########.+
+   ........#..#.# #.........#
+   ##.#.......#.# #.........##+##
+   ...###.##.##.###..............
+  ##..............'..............
+   # ##.#.#...#.###..............
+      #.#...#.#.# ######.........
+
+
+You could see a jackal and a giant cockroach.
+
+Vanquished Creatures
+  An ooze (D:1)
+  A leopard gecko (D:1)
+  4 bats (D:1)
+  A giant cockroach (D:1)
+  3 jackals (D:1)
+  2 kobolds (D:1)
+  A frilled lizard (D:1)
+  2 rats (D:1)
+15 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  5 hobgoblins (D:1)
+  2 frilled lizards (D:1)
+  A goblin (D:1)
+  3 rats (D:1)
+11 creatures vanquished.
+
+Grand Total: 26 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | david the Tengu Summoner began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+    31 | D:1      | Reached skill level 5 in Summonings
+    56 | D:1      | Reached XP level 2. HP: 11/15 MP: 1/6
+   847 | D:1      | Reached XP level 3. HP: 9/19 MP: 0/7
+   857 | D:1      | Slain by a jackal
+
+Skill      XL: |  1 |
+---------------+----+-----
+Summonings     |  5 |  5.4
+Dodging        |    |  2.1
+Stealth        |    |  2.0
+Spellcasting   |    |  2.7
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    24
+       Kick              ||    10
+       Peck              ||     8
+       Mace              ||    32
+ Cast: Summon Small Mamm ||    35
+  Use: Potion            ||     1
+ Stab: Sleeping          ||     1
+Armor: Robe              ||    15
+Dodge: Dodged            ||    55
+

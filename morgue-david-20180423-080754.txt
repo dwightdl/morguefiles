@@ -1,0 +1,204 @@
+ Dungeon Crawl Stone Soup version 0.21.1 (tiles) character file.
+
+107 david the Chiller (level 4, -2/30 HPs)
+             Began as a Merfolk Ice Elementalist on Apr 23, 2018.
+             Was an Initiate of Vehumet.
+             Slain by an ice beast (4 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:05:37 (2118 turns).
+
+david the Chiller (Merfolk Ice Elementalist)        Turns: 2118, Time: 00:05:38
+
+Health: -2/30      AC:  2    Str:  8    XL:     4   Next: 85%
+Magic:  3/9        EV: 13    Int: 15    God:    Vehumet [......]
+Gold:   92         SH:  0    Dex: 14    Spells: 3/9 levels left
+
+rFire    . . .     SeeInvis .   g - +0 short sword (curse)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.10/turn              (no ring)
+MPRegen  0.11/turn              (no ring)
+
+@: lethally poisoned (-2 -> -4), flying
+A: change form in water, swift swim, stealthy swim
+a: Renounce Religion
+
+
+You were on level 3 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was noncommittal.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 92 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ g - a cursed +0 short sword (weapon)
+ l - a +0 spear
+ m - a +0 dagger of draining
+ o - a +1 trident of freezing
+Armour
+ a - a +0 robe (worn)
+Wands
+ i - a wand of paralysis (15)
+Scrolls
+ d - a scroll of noise
+ h - 2 scrolls of immolation
+ n - a scroll of enchant weapon
+ r - a scroll of identify
+Potions
+ f - 2 potions of ambrosia
+ j - a potion of cancellation
+ k - 2 potions of haste
+ q - a potion of might {unknown}
+ s - a potion of magic {unknown}
+Books
+ b - a book of Frost   
+   
+    Spells                           Type                      Level
+    a - Freeze                       Ice                           1
+    b - Throw Frost                  Conjuration/Ice               2
+    c - Ozocubu's Armour             Charms/Ice                    3
+    d - Throw Icicle                 Conjuration/Ice               4
+    e - Summon Ice Beast             Ice/Summoning                 4
+Comestibles
+ c - 6 rations
+ p - a chunk of flesh
+
+
+   Skills:
+ - Level 2.6 Dodging
+ - Level 2.1 Stealth
+ + Level 3.4 Spellcasting
+ - Level 0.7 Conjurations
+ + Level 4.8 Ice Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Freeze                Ice            ###.         2%          1    None
+b - Throw Frost           Conj/Ice       ##....       10%         2    ##.....
+c - Ozocubu's Armour      Chrm/Ice       #.......     22%         3    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Dithmenos
+Vehumet
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't have enough magic to cast that spell.
+You see here a hand axe.
+Okay, then.
+Okay, then.
+It was a potion of haste. You feel yourself speed up. The ice beast hits you. The ice beast freezes you.
+* * * LOW HITPOINT WARNING * * *
+The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+It was a potion of cancellation.
+Your magical effects are unravelling.
+You feel magically purged.
+Your magical contamination has completely faded away.
+You feel yourself slow down.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The ice beast closely misses you. The adder closely misses you.
+It was a potion of flight.
+You feel very buoyant.
+You fly up into the air. The ice beast hits you.
+You die...
+
+ ##.....................# #
+....##............##.#..#.#
+...........#.........#..#.###
+######.......###..###........
+     #.....#.###..........###
+######.######.........[.###
+#g#.#...#.#.####.####..##
+##.#..#..#.##  #    #..#
+#.#g.###..#.#       #<.#
+##..##.##..##       #..######
+#..##...##..#       #........
+#.##.....##.#       #.######.
+#..##...##..#       #.#
+##..##)##..##       #.#
+#.#gY#.#..#.#       #.#
+##.#S@...#.##       #.#
+#.#.#...#.#.#       #.#
+#############       #..
+                    ###
+
+
+You could see an ice beast, an adder and a goblin.
+
+Vanquished Creatures
+  A worker ant (D:3)
+  An adder (D:2)
+  2 dart slugs
+  3 leopard geckos
+  4 orcs
+  5 giant cockroaches
+  9 goblins
+  7 hobgoblins
+  3 jackals (D:1)
+  6 kobolds
+  2 quokkas (D:2)
+  2 ball pythons
+  4 bats
+  3 frilled lizards
+  2 rats
+54 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | david the Merfolk Ice Elementalist began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   133 | D:1      | Reached XP level 2. HP: 19/19 MP: 1/5
+   567 | D:1      | Reached XP level 3. HP: 22/24 MP: 1/6
+   673 | D:1      | Reached skill level 4 in Ice Magic
+   709 | D:1      | Learned a level 2 spell: Throw Frost
+   713 | D:1      | Learned a level 3 spell: Ozocubu's Armour
+  1289 | D:2      | Found a shadowy altar of Dithmenos.
+  1291 | D:2      | Found a radiant altar of Vehumet.
+  1339 | D:2      | Became a worshipper of Vehumet
+  1565 | D:1      | Reached XP level 4. HP: 23/30 MP: 3/8
+  1989 | D:3      | Noticed an ice beast
+  2118 | D:3      | Slain by an ice beast
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Ice Magic      |        4 |  4.8
+Spellcasting   |        3 |  3.4
+Dodging        |          |  2.6
+Stealth        |          |  2.1
+Conjurations   |          |  0.7
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |     7 |       ||     7
+       Short sword       |    19 |    20 ||    39
+ Cast: Freeze            |    51 |    19 ||    70
+       Throw Frost       |     2 |     3 ||     5
+  Use: Scroll            |     4 |       ||     4
+       Potion            |       |     3 ||     3
+ Stab: Sleeping          |     2 |     2 ||     4
+  Eat: Chunk             |     2 |     3 ||     5
+Armor: Robe              |    10 |     7 ||    17
+Dodge: Dodged            |    39 |    28 ||    67
+

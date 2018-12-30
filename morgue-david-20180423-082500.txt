@@ -1,0 +1,196 @@
+ Dungeon Crawl Stone Soup version 0.21.1 (tiles) character file.
+
+52 david the Chiller (level 3, -1/24 HPs)
+             Began as a Merfolk Ice Elementalist on Apr 23, 2018.
+             Slain by a sky beast (5 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:03:39 (1430 turns).
+
+david the Chiller (Merfolk Ice Elementalist)        Turns: 1430, Time: 00:03:39
+
+Health: -1/24      AC:  2    Str:  8    XL:     3   Next: 85%
+Magic:  0/7        EV: 13    Int: 15    God:    
+Gold:   108        SH:  0    Dex: 14    Spells: 2/8 levels left
+
+rFire    . . .     SeeInvis .   a - +0 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   f - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.08/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: very slightly contaminated
+A: change form in water, swift swim, stealthy swim
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 108 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 dagger (weapon)
+ b - a +0 hunting sling of velocity
+Missiles
+ q - 36 stones (quivered)
+Armour
+ f - a +0 robe (worn)
+Jewellery
+ r - a cursed ring of teleportation {unknown}
+Scrolls
+ g - a scroll of fog {unknown}
+ i - 3 scrolls of identify {unknown}
+ j - a scroll of random uselessness {unknown}
+ l - 2 scrolls of remove curse {unknown}
+ m - a scroll of noise {unknown}
+ o - 2 scrolls of teleportation {unknown}
+Potions
+ d - 3 potions of agility {unknown}
+ e - a potion of heal wounds {unknown}
+ h - a potion of lignification {unknown}
+ k - a potion of curing {unknown}
+ n - a potion of brilliance {unknown}
+Books
+ p - a book of Frost   
+   
+    Spells                           Type                      Level
+    a - Freeze                       Ice                           1
+    b - Throw Frost                  Conjuration/Ice               2
+    c - Ozocubu's Armour             Charms/Ice                    3
+    d - Throw Icicle                 Conjuration/Ice               4
+    e - Summon Ice Beast             Ice/Summoning                 4
+Comestibles
+ c - 5 rations
+
+
+   Skills:
+ - Level 2.6 Dodging
+ - Level 2.1 Stealth
+ + Level 3.0 Spellcasting
+ - Level 0.7 Conjurations
+ + Level 4.3 Ice Magic
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Freeze                Ice            ###.         3%          1    #......
+b - Throw Frost           Conj/Ice       #.....       11%         2    ##.....
+c - Ozocubu's Armour      Chrm/Ice       #.......     24%         3    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Message History
+
+Something hits you. Something shocks you.
+Casting: Freeze
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Freeze
+Press: ? - help, Shift-Dir - straight line
+You freeze something. Something hits you but does no damage.
+Casting: Freeze
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Freeze
+Press: ? - help, Shift-Dir - straight line
+You freeze something. Something hits you. Something shocks you.
+* * * LOW HITPOINT WARNING * * *
+Casting: Freeze
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't have enough magic to cast that spell.
+a - a +0 dagger (weapon)
+Something hits you.
+* * * LOW HITPOINT WARNING * * *
+Something shocks you.
+You die...
+
+ ........#### #.....###...#..<..#
+ ...........###.....# ###.(.....#
+ ........##..##.....#   ###.....#
+ .........##...###..##    #.....#
+ ..........###.# #...#    #.....#
+ ###.#.#...###.###.#.#    ##.####
+#  #.#.###...........#  ####.#
+.###........###.##.######....#
+.......###..# #.##.   #...####
+......## ##.# #.##.   #.###
+.#...##   #.# #.##.   #.#
+ #....##  #.###.###.  #.#
+##..#..####......##..##.###
+...###...####.............#
+.#.# ###.##...##.........##
+.#.#   #....### ##...>..@#
+.#.# #.).####    ####...{#
+.#.#...#.#       ........#
+.#...###.#       ###......
+.#..   ...        .....#..
+...... ...       ##..###(#.
+...#......       ...#  #(##
+...#  ...        ###   ((.
+...#
+.....
+...#..
+...###
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  2 adders (D:2)
+  4 giant cockroaches (D:1)
+  4 goblins (D:1)
+  4 hobgoblins
+  3 jackals (D:2)
+  5 kobolds
+  4 bats
+  3 frilled lizards (D:1)
+  2 rats (D:1)
+31 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | david the Merfolk Ice Elementalist began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   119 | D:1      | Reached XP level 2. HP: 9/19 MP: 0/5
+   924 | D:1      | Reached XP level 3. HP: 24/24 MP: 1/6
+   999 | D:2      | Noticed a sky beast
+  1019 | D:2      | Reached skill level 4 in Ice Magic
+  1040 | D:2      | Learned a level 2 spell: Throw Frost
+  1044 | D:2      | Learned a level 3 spell: Ozocubu's Armour
+  1430 | D:2      | Slain by a sky beast
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Ice Magic      |        4 |  4.3
+Spellcasting   |        3 |  3.0
+Dodging        |          |  2.6
+Stealth        |          |  2.1
+Conjurations   |          |  0.7
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||     6
+       Dagger            ||    15
+ Fire: Hunting sling     ||     4
+ Cast: Freeze            ||    46
+       Throw Frost       ||     3
+  Eat: Chunk             ||     2
+Armor: Robe              ||    11
+Dodge: Dodged            ||    35
+

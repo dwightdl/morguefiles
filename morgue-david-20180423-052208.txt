@@ -1,0 +1,178 @@
+ Dungeon Crawl Stone Soup version 0.21.1 (tiles) character file.
+
+4 david the Stinger (level 1, -1/13 HPs)
+             Began as a Formicid Venom Mage on Apr 23, 2018.
+             Slain by a leopard gecko (5 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:00:45 (84 turns).
+
+david the Stinger (Formicid Venom Mage)               Turns: 84, Time: 00:00:45
+
+Health: -1/13      AC:  2    Str: 12    XL:     1   Next: 66%
+Magic:  0/3        EV: 12    Int: 14    God:    
+Gold:   0          SH:  0    Dex: 11    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis +   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: permanent stasis, dig shafts and tunnels, four strong arms, antennae 3
+a: Dig, Shaft Self
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ d - an uncursed ring of protection from cold {unknown}
+Books
+ b - a Young Poisoner's Handbook   
+   
+    Spells                           Type                      Level
+    a - Sting                        Conjuration/Poison            1
+    b - Poisonous Vapours            Poison/Air                    2
+    c - Mephitic Cloud               Conjuration/Poison/Air        3
+    d - Olgreb's Toxic Radiance      Poison                        4
+    e - Venom Bolt                   Conjuration/Poison            5
+Comestibles
+ c - a ration
+
+
+   Skills:
+ - Level 1.7 Dodging
+ - Level 2.4 Stealth
+ * Level 2.3 Spellcasting
+ + Level 1.0 Conjurations
+ * Level 4.1 Poison Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sting                 Conj/Pois      #...         8%          1    #......
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot be hasted, slowed, berserked, paralysed or teleported.
+You can dig through walls and to a lower floor.
+Your four strong arms can wield two-handed weapons with a shield.
+You have a pair of large antennae on your head. (SInv)
+
+
+Message History
+
+The jackal bites you. The jackal barely misses you.
+You hit the jackal.
+The jackal is severely wounded.
+The jackal barely misses you.
+The jackal barely misses you.
+The draconian roars!
+You hit the jackal.
+You kill the jackal!
+The leopard gecko closely misses you.
+There is an open door here.
+Casting: Sting
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Sting
+Press: ? - help, Shift-Dir - straight line, f - leopard gecko
+Aim: a leopard gecko (clinging)
+The sting hits the leopard gecko. The leopard gecko is poisoned.
+The leopard gecko is moderately wounded.
+The leopard gecko bites you.
+The leopard gecko bites you.
+You die...
+
+ #####
+ #.@.#
+ #.l.#
+###'###
+#K#.#n#
+###.###
+#H#.#6#
+###.###
+#d#.#M#
+###.###
+#9#.#o#
+###.###
+#i#.#f#
+###.###
+#g#.#p#
+###.###
+
+
+You could see a leopard gecko.
+
+Vanquished Creatures
+  2 jackals (D:1)
+  2 bats (D:1)
+4 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | david the Formicid Venom Mage began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+     2 | D:1      | Noticed a ghoul
+     4 | D:1      | Noticed a minotaur
+     4 | D:1      | Noticed a demonspawn
+     6 | D:1      | Noticed a draconian
+     8 | D:1      | Noticed a gargoyle
+    10 | D:1      | Noticed a spriggan
+    10 | D:1      | Noticed a vine stalker
+    12 | D:1      | Noticed a dwarf
+    12 | D:1      | Noticed a halfling
+    14 | D:1      | Noticed a vampire
+    14 | D:1      | Noticed a formicid
+    16 | D:1      | Noticed a troll
+    19 | D:1      | Noticed an octopode
+    19 | D:1      | Noticed a naga
+    21 | D:1      | Noticed an ogre
+    21 | D:1      | Noticed a merfolk
+    23 | D:1      | Noticed an elf
+    23 | D:1      | Noticed a human
+    25 | D:1      | Noticed a demigod
+    25 | D:1      | Noticed a felid
+    27 | D:1      | Noticed a tengu
+    27 | D:1      | Noticed a centaur
+    64 | D:1      | Reached skill level 1 in Conjurations
+    84 | D:1      | Slain by a leopard gecko
+
+Skill      XL: |  1 |
+---------------+----+-----
+Conjurations   |  1 |  1.0
+Dodging        |    |  1.7
+Stealth        |    |  2.4
+Spellcasting   |    |  2.3
+Poison Magic   |    |  4.1
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    17
+ Cast: Sting             ||     7
+Armor: Robe              ||     7
+Dodge: Dodged            ||    29
+

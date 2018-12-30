@@ -1,0 +1,231 @@
+innerpeace
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+  4 stones
+(4, 11, D:1)
+  a +0 short sword
+(5, -7, D:1)
+  a stone
+(13, -15, D:1)
+  a +0 club
+(13, 12, D:1)
+  a +0 club
+(19, -14, D:1)
+  a +0 chain mail
+(26, -2, D:1)
+  a +1 helmet
+(27, -19, D:1)
+  13 stones
+(42, -8, D:1)
+  9 poisoned needles
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 whip
+(6, 4, D:2)
+  17 sling bullets
+(10, -12, D:2)
+  a +0 hunting sling
+(24, -32, D:2)
+  18 stones
+(29, -30, D:2)
+  9 bolts
+(35, -29, D:2)
+  a +0 club
+(35, -24, D:2)
+  a +0 club
+(39, -31, D:2)
+  a +0 leather armour
+(39, -22, D:2)
+  a +0 dagger
+(41, 10, D:2)
+  a stone
+(41, 14, D:2)
+  a +0 hand axe
+(42, -31, D:2)
+  a +0 chain mail
+(48, 3, D:2)
+  3 stones
+
+Level 3 of the Dungeon
+(5, -29, D:3)
+  a +0 club
+(5, 1, D:3)
+  16 arrows
+(7, 19, D:3)
+  a +0 hand crossbow
+(17, -25, D:3)
+  2 stones
+(17, 10, D:3)
+  a +0 hand axe
+(17, 21, D:3)
+  a +0 whip
+(18, -25, D:3)
+  a stone
+  a +3 short sword
+(21, -4, D:3)
+  a +1 dagger of holy wrath
+  a +0 robe
+(23, -4, D:3)
+  a +0 trident
+(24, -26, D:3)
+  a stone
+(24, -4, D:3)
+  a +0 mace
+(25, -4, D:3)
+  a +0 club
+(26, 8, D:3)
+  a +0 dagger
+(30, -7, D:3)
+  a cursed -1 spear
+(32, 7, D:3)
+  a +0 flail
+(40, -1, D:3)
+  25 bolts
+(47, -26, D:3)
+  14 stones
+(51, -33, D:3)
+  a +0 flail
+(51, -32, D:3)
+  a +0 short sword
+(51, -30, D:3)
+  a +0 mace
+  a +0 leather armour
+(53, -26, D:3)
+  a +0 club
+(56, -19, D:3)
+  13 stones
+(57, -39, D:3)
+  a +0 pair of gloves
+(61, -1, D:3)
+  a +0 large shield
+(64, -20, D:3)
+  a +0 helmet
+
+Level 4 of the Dungeon
+[Shop] Tubagh's Book Boutique
+  a Young Poisoner's Handbook (520 gold)
+  a book of Maledictions (325 gold)
+  a book of Beasts (715 gold)
+  a book of Misfortune (260 gold)
+  a book of Ice (845 gold)
+  a book of Conjurations (390 gold)
+  a book of Necromancy (390 gold)
+  a book of Changes (325 gold)
+  a book of Misfortune (260 gold)
+  a book of Debilitation (520 gold)
+  a book of Geomancy (455 gold)
+(0, 0, D:4)
+  a +0 leather armour
+(2, -13, D:4)
+  a +2 hand axe of draining
+  a +0 robe
+(27, -16, D:4)
+  a +0 hand axe
+(32, -18, D:4)
+  10 stones
+(47, -16, D:4)
+  a +0 plate armour
+(48, -4, D:4)
+  a +0 club
+(48, 10, D:4)
+  a +0 leather armour
+(50, 3, D:4)
+  18 arrows
+(50, 20, D:4)
+  29 stones
+  a +0 club
+  a +0 hunting sling
+(50, 22, D:4)
+  a stone
+  a cursed -3 club
+  a +0 club
+(50, 23, D:4)
+  a +0 club
+  a +0 dagger
+  a +0 club
+  a +0 club
+  a +0 helmet
+  a +0 animal skin
+  a +0 club
+
+Level 5 of the Dungeon
+[Shop] Sykhlousm's Jewellery Boutique
+  an uncursed ring of flight (192 gold)
+  an uncursed ring of protection from magic (275 gold)
+  an uncursed amulet of guardian spirit (330 gold)
+  an uncursed amulet of magic regeneration (330 gold)
+  an uncursed ring of protection from cold (275 gold)
+  an uncursed ring of see invisible (165 gold)
+  an uncursed ring of stealth (192 gold)
+  an uncursed amulet of harm (330 gold)
+  an uncursed ring of wizardry (330 gold)
+(0, 0, D:5)
+  a +0 club
+(7, 10, D:5)
+  15 poisoned needles
+(15, 34, D:5)
+  a +0 war axe
+(16, 1, D:5)
+  14 stones
+(19, 13, D:5)
+  an arrow
+(20, 14, D:5)
+  a +0 shortbow
+  14 arrows
+(22, 19, D:5)
+  7 arrows
+(25, 24, D:5)
+  a +0 whip
+(27, 11, D:5)
+  18 stones
+(27, 18, D:5)
+  a +0 war axe
+(28, 5, D:5)
+  17 stones
+(34, -8, D:5)
+  an uncursed ring of teleportation
+(34, 8, D:5)
+  a +0 club
+  a +0 short sword
+(35, 10, D:5)
+  a +0 giant spiked club
+  a +0 dagger
+  a +0 robe
+(35, 11, D:5)
+  a +0 hand axe
+  19 stones
+(36, 11, D:5)
+  a cursed -3 giant spiked club
+(37, -4, D:5)
+  a +0 trident
+(37, 7, D:5)
+  a +0 club
+  a +0 rapier
+(42, -4, D:5)
+  a +0 chain mail
+(42, 34, D:5)
+  16 stones
+(43, 1, D:5)
+  an arrow
+(44, 0, D:5)
+  an arrow
+(44, 1, D:5)
+  an arrow
+(47, -3, D:5)
+  a +0 shortbow
+  16 arrows
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 dagger
+  a +0 hand axe
+  3 chunks of flesh
+  2 chunks of flesh
+(0, 3, D:6)
+  a +0 robe
+
+the Ecumenical Temple
+

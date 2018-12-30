@@ -1,0 +1,296 @@
+ASSERT(!invalid_monster(mon_act)) in 'state.cc' at line 456 failed.
+
+Version: Dungeon Crawl Stone Soup 0.21.1
+Platform: unix
+Bits: 64
+Game mode: normal
+Tiles: yes
+
+Command line: crawl-tiles
+
+RC options:
+restart_after_game = true
+
+
+Crash caused by signal #6: Aborted
+
+Obtained 20 stack frames.
+crawl-tiles(+0x67e6ab) [0x5563fe1286ab]: 
+crawl-tiles(+0x237a7f) [0x5563fdce1a7f]: 
+/lib/x86_64-linux-gnu/libc.so.6(+0x354b0) [0x7f821cd374b0]: 
+/lib/x86_64-linux-gnu/libpthread.so.0(raise+0x29) [0x7f821d0dd269]: 
+crawl-tiles(+0x716cbb) [0x5563fe1c0cbb]: 
+crawl-tiles(+0x228fd3) [0x5563fdcd2fd3]: 
+crawl-tiles(+0x71c92c) [0x5563fe1c692c]: 
+crawl-tiles(+0x432849) [0x5563fdedc849]: 
+crawl-tiles(+0x27a7fc) [0x5563fdd247fc]: 
+crawl-tiles(+0x27ac5c) [0x5563fdd24c5c]: 
+crawl-tiles(+0x27c8bf) [0x5563fdd268bf]: 
+crawl-tiles(+0x27decc) [0x5563fdd27ecc]: 
+crawl-tiles(+0x284b7b) [0x5563fdd2eb7b]: 
+crawl-tiles(+0x28a3c2) [0x5563fdd343c2]: 
+crawl-tiles(+0x28c98b) [0x5563fdd3698b]: 
+crawl-tiles(+0x2bd721) [0x5563fdd67721]: 
+crawl-tiles(+0x71352a) [0x5563fe1bd52a]: 
+crawl-tiles(main+0xdf6) [0x5563fdc28596]: 
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf0) [0x7f821cd22830]: 
+crawl-tiles(_start+0x2a) [0x5563fdc45c6a]: 
+
+Trying to run gdb.
+GNU gdb (Ubuntu 7.11.1-0ubuntu1~16.5) 7.11.1
+Copyright (C) 2016 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word".
+[New LWP 2086]
+[New LWP 2087]
+[New LWP 2088]
+[New LWP 2089]
+[New LWP 2090]
+[New LWP 2091]
+[New LWP 2092]
+[New LWP 2093]
+[New LWP 2097]
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+0x00007f821d0dcf7b in __waitpid (pid=2733, stat_loc=0x0, options=0) at ../sysdeps/unix/sysv/linux/waitpid.c:29
+#0  0x00007f821d0dcf7b in __waitpid (pid=2733, stat_loc=0x0, options=0) at ../sysdeps/unix/sysv/linux/waitpid.c:29
+        resultvar = 18446744073709551104
+        sc_cancel_oldtype = 0
+#1  0x00005563fdccd50b in ?? ()
+No symbol table info available.
+#2  0x00005563fdce1a9d in ?? ()
+No symbol table info available.
+#3  <signal handler called>
+No locals.
+#4  0x00007f821d0dd269 in raise (sig=6) at ../sysdeps/unix/sysv/linux/pt-raise.c:35
+        resultvar = 0
+        pid = <optimized out>
+#5  0x00005563fe1c0cbb in ?? ()
+No symbol table info available.
+#6  0x00005563fdcd2fd3 in ?? ()
+No symbol table info available.
+#7  0x00005563fe1c692c in ?? ()
+No symbol table info available.
+#8  0x00005563fdedc849 in ?? ()
+No symbol table info available.
+#9  0x00005563fdd247fc in ?? ()
+No symbol table info available.
+#10 0x00005563fdd24c5c in ?? ()
+No symbol table info available.
+#11 0x00005563fdd268bf in ?? ()
+No symbol table info available.
+#12 0x00005563fdd27ecc in ?? ()
+No symbol table info available.
+#13 0x00005563fdd2eb7b in ?? ()
+No symbol table info available.
+#14 0x00005563fdd343c2 in ?? ()
+No symbol table info available.
+#15 0x00005563fdd3698b in ?? ()
+No symbol table info available.
+#16 0x00005563fdd67721 in ?? ()
+No symbol table info available.
+#17 0x00005563fe1bd52a in ?? ()
+No symbol table info available.
+#18 0x00005563fdc28596 in main ()
+No symbol table info available.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 6.3.0 20170516 on Feb  1 2018 at 07:54:03
+Build platform: x86_64-linux-gnu
+Platform: x86_64-linux-gnu
+CFLAGS: -O2 -fdebug-prefix-map=/build/crawl-0.21.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wl,-z,relro -Wdate-time -D_FORTIFY_SOURCE=2 -flto=jobserver -fwhole-program -fno-fat-lto-objects -pipe -DUSE_TILE -DUSE_TILE_LOCAL -DUSE_SDL -DUSE_GL -DUSE_FT -D_REENTRANT -Wall -Wformat-security -Wundef -Wno-array-bounds -Wno-format-zero-length -Wmissing-declarations -Wredundant-decls -Wno-tautological-unsigned-enum-zero-compare -Wno-parentheses -Wwrite-strings -Wshadow -pedantic -Wuninitialized -Iutil -I. -isystem /usr/include/lua5.1 -Irltiles -isystem /usr/include/freetype2 -isystem /usr/include/SDL2 -DWIZARD -DASSERTS -DPROPORTIONAL_FONT="/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf" -DMONOSPACED_FONT="/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf" -D_REENTRANT -DCLUA_BINDINGS -DSAVE_DIR_PATH="~/.crawl" -DDATA_DIR_PATH="/usr/share/crawl/" -D_GNU_SOURCE -D_DEFAULT_SOURCE -isystem /usr/include/ncursesw
+LDFLAGS: -rdynamic -fuse-ld=gold -O2 -fdebug-prefix-map=/build/crawl-0.21.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wl,-z,relro -Wdate-time -D_FORTIFY_SOURCE=2 -flto=jobserver -fwhole-program -fno-fat-lto-objects 
+>>>>>>>>>>>
+
+Place info:
+branch = 0, depth = 1
+
+Level id: D:1
+Currently generating level.
+Vault being placed: arrival_zaba_pyramid
+Level build method =  random_map_for_place, level layout type  = , absdepth0 = 0
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 0, terminal_resized: 0
+io_inited: 1, need_save: 1, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+
+prev_cmd = CMD_NO_CMD
+repeat_cmd = CMD_NO_CMD
+
+Monster 'DEAD MONSTER' (0, 0) <OoB> [midx = 5] currently acting:
+
+Others monsters acting:
+    Monster 'DEAD MONSTER' (0, 0) <OoB> [midx = 5]
+Player:
+{{{{{{{{{{{
+Name:    [david]
+Species: Tengu
+Job:     Summoner
+
+HP: 10/10; mods: 0/0
+MP: 4/4; mod: 0
+Stats: 8 (8) 15 (15) 14 (14)
+Position: (0, 0) <OoB>, god: No God (0), turn_is_over: 0, banished: 0
+
+Skills (mode: manual)
+Name            | can_train | train | training | level | points | progress
+Fighting        |     X     |   0   |     0    |    0  |      0 | 0/50
+Short Blades    |           |   0   |     0    |    0  |      0 | 0/42
+Long Blades     |           |   0   |     0    |    0  |      0 | 0/42
+Axes            |           |   0   |     0    |    0  |      0 | 0/42
+Maces & Flails  |           |   0   |     0    |    0  |      0 | 0/42
+Polearms        |           |   0   |     0    |    0  |      0 | 0/42
+Staves          |           |   0   |     0    |    0  |      0 | 0/42
+Slings          |           |   0   |     0    |    0  |      0 | 0/50
+Bows            |           |   0   |     0    |    0  |      0 | 0/42
+Crossbows       |           |   0   |     0    |    0  |      0 | 0/42
+Throwing        |     X     |   0   |     0    |    0  |      0 | 0/50
+Armour          |     X     |   0   |     0    |    0  |      0 | 0/42
+Dodging         |     X     |   1   |    25    |    2  |    151 | 25/126
+Stealth         |     X     |   1   |    25    |    2  |    127 | 1/126
+Shields         |           |   0   |     0    |    0  |      0 | 0/50
+Unarmed Combat  |     X     |   0   |     0    |    0  |      0 | 0/42
+Spellcasting    |     X     |   1   |    25    |    2  |    179 | 1/178
+Conjurations    |           |   0   |     0    |    0  |      0 | 0/29
+Hexes           |           |   0   |     0    |    0  |      0 | 0/84
+Charms          |           |   0   |     0    |    0  |      0 | 0/70
+Summonings      |     X     |   1   |    25    |    4  |    501 | 148/177
+Necromancy      |           |   0   |     0    |    0  |      0 | 0/42
+Translocations  |           |   0   |     0    |    0  |      0 | 0/70
+Transmutations  |           |   0   |     0    |    0  |      0 | 0/70
+Fire Magic      |           |   0   |     0    |    0  |      0 | 0/42
+Ice Magic       |           |   0   |     0    |    0  |      0 | 0/59
+Air Magic       |           |   0   |     0    |    0  |      0 | 0/29
+Earth Magic     |           |   0   |     0    |    0  |      0 | 0/84
+Poison Magic    |           |   0   |     0    |    0  |      0 | 0/50
+Invocations     |           |   0   |     0    |    0  |      0 | 0/59
+Evocations      |           |   0   |     0    |    0  |      0 | 0/50
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+    #59: 1
+
+Mutations:
+    beak: 1 (innate)
+    talons: 3 (innate)
+
+Inventory bugs:
+
+Equipment:
+    eq slot #6, inv slot #0: +0 robe
+
+}}}}}}}}}}}
+
+
+Map:
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################.............###################################
+##############################...#####+#####...#################################
+#############################..####..#..#.####..################################
+###########################...######.....#.####...##############################
+##########################..#####.#.#.....#.#.###..#############################
+#########################..###.##.....#.....#.####..############################
+########################..##.#.#....#...#.....#.###..###########################
+########################.##.......#.#..###......#.##.###########################
+#######################..##......#...........#...###..##########################
+#######################.###..#....#........#..##..###.##########################
+######################..##..#.###.##....###.#......##..#########################
+#####################..######.###.#.#..########..#..##..########################
+#####################..#...+...+....+...+....+...+...#..########################
+#####################.##+###...##+###...###+##...###+##.########################
+#####################.#....##+##....##+##....##+##....#.########################
+#####################.#.<..#...#..##############################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+clua stack:
+
+[C], function do_commands, line -1
+autofight.lua, function attack_melee, line 292
+autofight.lua, function attack, line 380
+autofight.lua, function (null), line 400
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>

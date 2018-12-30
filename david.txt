@@ -1,0 +1,204 @@
+ Dungeon Crawl Stone Soup version 0.21.1 (tiles) character file.
+
+david the Firebug (Tengu Fire Elementalist)          Turns: 917, Time: 00:10:24
+
+Health: 19/19      AC:  2    Str:  8    XL:     3   Next: 91%
+Magic:  6/7        EV: 12    Int: 16    God:    
+Gold:   128        SH:  0    Dex: 14    Spells: 1/7 levels left
+
+rFire    . . .     SeeInvis .   f - +0 short sword
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: no status effects
+A: beak, talons 3
+a: no special abilities
+
+
+You are on level 2 of the Dungeon.
+You are hungry.
+
+You have visited 1 branch of the dungeon, and seen 2 of its levels.
+
+You have collected 128 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ f - a +0 short sword (weapon)
+ j - a short sword
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ d - a scroll labeled WIENOY KYPINO
+ g - a scroll of magic mapping
+ h - 4 scrolls labeled XEIVVAOPHU
+ l - a scroll labeled ZAEJOESOAM
+Potions
+ e - a potion of lignification
+ i - a smoky red potion
+ k - an amethyst potion
+Books
+ b - a book of Flames   
+   
+    Spells                           Type                      Level
+    a - Flame Tongue                 Conjuration/Fire              1
+    b - Throw Flame                  Conjuration/Fire              2
+    c - Conjure Flame                Conjuration/Fire              3
+    d - Inner Flame                  Hexes/Fire                    3
+    e - Sticky Flame                 Conjuration/Fire              4
+    f - Fireball                     Conjuration/Fire              5
+Comestibles
+ c - 6 rations
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 2.5 Spellcasting
+ * Level 3.5 Conjurations
+ + Level 3.8 Fire Magic
+
+
+You have one spell level left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      ##...        4%          1    #......
+b - Conjure Flame         Conj/Fire      ##......     13%         3    ###....
+c - Throw Flame           Conj/Fire      ##....       6%          2    ##.....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+Gozag
+Qazlal
+Wu Jian
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+
+
+Message History
+
+Aim: a hobgoblin, wielding a club (lightly wounded)
+The flame tongue hits the hobgoblin.
+You kill the hobgoblin!
+Things that are here:
+a club; a hobgoblin corpse
+You now have 128 gold pieces (gained 11).
+l - a scroll labeled ZAEJOESOAM
+A rat comes into view.
+Casting: Flame Tongue
+Confirm with . or Enter, or press ? or * to list all spells.
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+The rat barely misses you.
+You completely miss the rat. You peck the rat, but do no damage. The rat closely misses you.
+You hit the rat. You claw the rat, but do no damage.
+The rat is severely wounded.
+The rat misses you.
+You hit the rat.
+You kill the rat!
+No target in view!
+Saving game... please wait.
+
+                   #.#.#
+                   #.#.#
+                   #.#.#
+      ##############.#.###### ######## #####
+      #............_.#.....<# #......# #....
+      #..............#......# #......# #....
+      #.............[#......# #......# #....
+      #..............#......# #......# #....
+      #.......###.#..#......# #......###....
+#######.......###.#..#...#### #......##.....
+#......................#.#    #......##...).
+#.............##.......#.#    #.........##.#
+#........###.....#...#.#.######......####..#
+#.>....#....##...#...#..........####....#.##
+##########...#...#.......########  ####...#
+   #...# ##.(......†@....########     ##..#
+   #...#####.(.......#........[.#      #..#
+   #........(...#.#..#...######.#    ###..##
+   #...#####.#.(#.#....#..#   #.#    #.<...#
+   #...#  ##.##........#÷.#   #.###  #.....#
+   #...# ##(.#...(._...#÷.##  #...####....†#
+   #...# #..##...#....##...#  ###..........#
+   #...###.###..###...##.#.###  ######......
+   ##.###.)....## #...##.#...#       #......
+    #.###..###.#  #...##.###.#####   #......
+    #.....## #.# ##.##...# #.....#   #......
+    #).#.##  #.# #.....### #####.### #.....#
+    #....##  #.# #..<..#       #...# #.....#
+    #.....####.###....############.#########
+ ####.................÷)†...................
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  An adder (D:2)
+  An adder skeleton (D:2)
+  A worm (D:2)
+  2 dart slugs
+  3 bats
+  2 giant cockroaches (D:2)
+  3 goblins
+  3 hobgoblins
+  9 kobolds
+  2 quokkas (D:2)
+  2 frilled lizards
+  7 rats
+36 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | david the Tengu Fire Elementalist began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+    44 | D:1      | Reached XP level 2. HP: 7/15 MP: 0/6
+   418 | D:2      | Found an opulent altar of Gozag.
+   446 | D:2      | Reached XP level 3. HP: 19/19 MP: 2/7
+   541 | D:2      | Found an ornate altar of the Wu Jian Council.
+   639 | D:2      | Learned a level 3 spell: Conjure Flame
+   692 | D:2      | Found a stormy altar of Qazlal.
+   694 | D:2      | Noticed a water elemental
+   696 | D:2      | Noticed an earth elemental
+   696 | D:2      | Noticed an air elemental
+   696 | D:2      | Noticed a fire elemental
+   723 | D:2      | Learned a level 2 spell: Throw Flame
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Conjurations   |  2  3 |  3.5
+Dodging        |       |  2.1
+Stealth        |       |  2.0
+Spellcasting   |       |  2.5
+Fire Magic     |       |  3.8
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||     2
+       Short sword       ||    10
+       Kick              ||     4
+       Peck              ||     1
+ Cast: Flame Tongue      ||    48
+       Throw Flame       ||     4
+  Use: Scroll            ||     2
+Armor: Robe              ||     5
+Dodge: Dodged            ||    16
+

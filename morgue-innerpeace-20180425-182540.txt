@@ -1,0 +1,112 @@
+ Dungeon Crawl Stone Soup version 0.21.1 (tiles) character file.
+
+0 innerpeace the Firebug (level 1, 13/13 HPs)
+             Began as a Demonspawn Fire Elementalist on Apr 25, 2018.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:10 (0 turns).
+
+innerpeace the Firebug (Demonspawn Fire Elementalist)  Turns: 0, Time: 00:00:10
+
+Health: 13/13      AC:  2    Str:  8    XL:     1   Next: 0%
+Magic:  3/3        EV: 12    Int: 16    God:    
+Gold:   0          SH:  0    Dex: 13    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Books
+ b - a book of Flames   
+   
+    Spells                           Type                      Level
+    a - Flame Tongue                 Conjuration/Fire              1
+    b - Throw Flame                  Conjuration/Fire              2
+    c - Conjure Flame                Conjuration/Fire              3
+    d - Inner Flame                  Hexes/Fire                    3
+    e - Sticky Flame                 Conjuration/Fire              4
+    f - Fireball                     Conjuration/Fire              5
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 1.7 Dodging
+ + Level 1.7 Stealth
+ + Level 2.0 Spellcasting
+ + Level 1.0 Conjurations
+ + Level 2.6 Fire Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      #....        10%         1    #......
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, innerpeace the Demonspawn Fire Elementalist.
+It is said that the Orb of Zot exists deep within this dungeon.
+Press ? for a list of commands and other information.
+Found a ration.
+Found a staircase leading out of the dungeon.
+Enter note: 
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu? (Confirm with "yes".) 
+
+ #P≈≈≈≈≈≈≈≈≈P#
+ #.P≈≈≈≈≈≈≈P.#
+.#..P≈≈≈≈≈P..#
+.....P≈≈≈P...#
+......P≈P....#.
+.......P.......
+...............
+.......@.......
+...............
+.......P.......
+##....P≈P......
+ #...P≈≈≈P..%..
+ #..P≈≈≈≈≈P....
+ #.P≈≈≈≈≈≈≈P...
+ #P≈≈≈≈≈≈≈≈≈P..
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | innerpeace the Demonspawn Fire Elementalist began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+     0 | D:1      | Quit the game
+

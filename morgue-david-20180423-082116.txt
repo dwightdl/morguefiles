@@ -1,0 +1,205 @@
+ Dungeon Crawl Stone Soup version 0.21.1 (tiles) character file.
+
+141 david the Chiller (level 5, 0/35 HPs)
+             Began as a Merfolk Ice Elementalist on Apr 23, 2018.
+             Slain by a hippogriff (2 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:08:44 (3911 turns).
+
+david the Chiller (Merfolk Ice Elementalist)        Turns: 3911, Time: 00:08:44
+
+Health: 0/35       AC:  9    Str:  9    XL:     5   Next: 24%
+Magic:  1/10       EV: 13    Int: 15    God:    
+Gold:   129        SH:  0    Dex: 14    Spells: 5/11 levels left
+
+rFire    . . .     SeeInvis .   m - +0 spear
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   j - +0 helmet
+rElec    .         Reflect  .   h - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.11/turn              (no ring)
+MPRegen  0.12/turn              (no ring)
+
+@: icy armour, slow
+A: change form in water, swift swim, stealthy swim
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 129 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ f - a +1 dagger of venom
+ l - a +1 short sword of holy wrath
+ m - a +0 spear (weapon)
+Armour
+ a - a +0 robe (worn)
+ h - a +0 cloak (worn)
+ j - a +0 helmet (worn)
+Jewellery
+ e - an uncursed ring of protection from cold {unknown}
+Scrolls
+ k - a scroll of amnesia {unknown}
+ n - 2 scrolls of enchant armour
+ o - a scroll of fog
+ p - 2 scrolls of fear {unknown}
+ r - a scroll of enchant weapon {unknown}
+ s - a scroll of remove curse
+ u - a scroll of identify {unknown}
+Potions
+ d - a potion of curing {unknown}
+ g - a potion of ambrosia {unknown}
+ i - a potion of mutation {unknown}
+ q - a potion of flight {unknown}
+ t - a potion of heal wounds {unknown}
+Books
+ b - a book of Frost   
+   
+    Spells                           Type                      Level
+    a - Freeze                       Ice                           1
+    b - Throw Frost                  Conjuration/Ice               2
+    c - Ozocubu's Armour             Charms/Ice                    3
+    d - Throw Icicle                 Conjuration/Ice               4
+    e - Summon Ice Beast             Ice/Summoning                 4
+Comestibles
+ c - 8 rations
+
+
+   Skills:
+ + Level 1.1 Polearms
+ - Level 2.6 Dodging
+ - Level 2.1 Stealth
+ * Level 3.6 Spellcasting
+ - Level 0.7 Conjurations
+ * Level 5.0 Ice Magic
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Freeze                Ice            ###.         2%          1    None
+b - Throw Frost           Conj/Ice       ##....       9%          2    ##.....
+c - Ozocubu's Armour      Chrm/Ice       ##......     21%         3    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Dithmenos
+
+Message History
+
+Press: ? - help, Shift-Dir - straight line, f/p - hippogriff
+Aim: a hippogriff (moderately wounded)
+You freeze the hippogriff.
+The hippogriff is heavily wounded.
+The hippogriff closely misses you. x2
+The hippogriff claws you but does no damage.
+You hit the hippogriff but do no damage.
+The hippogriff is heavily wounded.
+The hippogriff closely misses you.
+The hippogriff pecks you but does no damage.
+The hippogriff claws you.
+* * * LOW HITPOINT WARNING * * *
+Okay, then.
+Found a cyan potion.
+Okay, then.
+You see here a cyan potion.
+The hippogriff bites you!
+* * * LOW HITPOINT WARNING * * *
+The hippogriff pecks you.
+You die...
+
+######################
+.......@HK.........(.#
+####################.#
+                   #(##  ##
+         ###########H.#...#.
+         ........H..........
+        #.#####..####......#
+        #....##..#   .K..###
+           #.....#   #..##
+         ....##H##    ..#
+        #.#.  #.#     ..#
+        #.#.###.#     ..##
+        #.......#   ##...##
+        ........#  ##.....##
+ ##     ###.#.#.# ##.......##
+ ..     ###.....###.........###
+
+
+You could see a hippogriff and a kobold.
+
+Vanquished Creatures
+  Robin (D:2)
+  5 adders
+  A worm (D:2)
+  2 dart slugs (D:1)
+  A leopard gecko (D:3)
+  5 orcs (D:3)
+  A giant cockroach (D:2)
+  13 goblins
+  11 hobgoblins
+  2 jackals (D:2)
+  9 kobolds
+  A quokka (D:2)
+  4 bats
+  7 frilled lizards
+  9 rats
+72 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | david the Merfolk Ice Elementalist began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   297 | D:1      | Reached XP level 2. HP: 19/19 MP: 3/5
+  1155 | D:2      | Reached skill level 4 in Ice Magic
+  1155 | D:2      | Reached XP level 3. HP: 23/24 MP: 1/7
+  1243 | D:2      | Noticed Robin
+  1374 | D:1      | Learned a level 2 spell: Throw Frost
+  1378 | D:1      | Learned a level 3 spell: Ozocubu's Armour
+  1471 | D:2      | Killed Robin
+  1563 | D:2      | Reached XP level 4. HP: 26/30 MP: 4/8
+  2191 | D:2      | Found a shadowy altar of Dithmenos.
+  2428 | D:3      | Noticed a hippogriff
+  3309 | D:3      | Reached XP level 5. HP: 35/35 MP: 4/10
+  3828 | D:3      | Reached skill level 1 in Polearms
+  3828 | D:3      | Reached skill level 5 in Ice Magic
+  3911 | D:3      | Slain by a hippogriff
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Ice Magic      |     4        5 |  5.0
+Spellcasting   |        3       |  3.6
+Polearms       |              1 |  1.1
+Dodging        |                |  2.6
+Stealth        |                |  2.1
+Conjurations   |                |  0.7
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    10 |       ||    10
+       Spear             |       |    72 ||    72
+ Cast: Freeze            |    40 |    71 ||   111
+       Throw Frost       |       |     4 ||     4
+       Ozocubu's Armour  |       |     2 ||     2
+  Use: Scroll            |     1 |     6 ||     7
+ Stab: Sleeping          |       |     7 ||     7
+  Eat: Chunk             |     1 |     9 ||    10
+Armor: Robe              |    14 |    26 ||    40
+Dodge: Dodged            |    26 |    67 ||    93
+

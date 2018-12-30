@@ -1,0 +1,340 @@
+ Dungeon Crawl Stone Soup version 0.21.1 (tiles) character file.
+
+2222 innerpeace the Zephyrmancer (level 9, -11/45 HPs)
+             Began as a Tengu Air Elementalist on Apr 26, 2018.
+             Mangled by an orc warrior
+             ... wielding a +0 short sword
+              (12 damage)
+             ... on level 6 of the Dungeon on Apr 29, 2018.
+             The game lasted 00:22:19 (7722 turns).
+
+innerpeace the Zephyrmancer (TeAE)                  Turns: 7722, Time: 00:22:20
+
+Health: -11/45     AC:  9    Str:  9    XL:     9   Next: 35%
+Magic:  6/19       EV: 11    Int: 19    God:    
+Gold:   257        SH:  0    Dex: 14    Spells: 5/20 levels left
+
+rFire    . . .     SeeInvis .   C - +0 spear (venom)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     + . .     Faith    .   v - +2 ring mail {rN+}
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   w - +0 pair of gloves
+MR       .....                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.15/turn              (no ring)
+MPRegen  0.16/turn              (no ring)
+
+@: swift, very quick
+A: beak, talons 3, able to fly 1
+a: Fly
+
+
+You were on level 6 of the Dungeon.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 7 of its levels.
+You also visited: Sewer.
+
+You collected 257 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ C - a +0 spear of venom (weapon)
+Armour
+ v - a +2 ring mail of positive energy (worn)
+ w - a +0 pair of gloves (worn)
+ A - the -5 buckler of Dogma {Dex+3 Slay+2}
+   (You found it on level 5 of the Dungeon)   
+   
+   It affects your dexterity (+3).
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+2).
+Jewellery
+ y - an uncursed amulet of rage
+Wands
+ a - a wand of polymorph (24)
+Scrolls
+ d - 3 scrolls of enchant weapon
+ e - a scroll of immolation
+ h - 2 scrolls of amnesia
+ j - a scroll of teleportation
+ l - 2 scrolls of remove curse
+ m - 3 scrolls of fog
+ n - 4 scrolls of fear
+ o - 3 scrolls of blinking
+ p - 3 scrolls of magic mapping
+ B - a scroll of enchant armour {unknown}
+Potions
+ f - a potion of heal wounds {unknown}
+ g - a potion of flight {unknown}
+ i - 5 potions of curing
+ k - a potion of lignification {unknown}
+ q - a potion of haste {unknown}
+ t - a potion of invisibility {unknown}
+ x - a potion of might {unknown}
+Books
+ b - a book of Air   
+   
+    Spells                           Type                      Level
+    a - Shock                        Conjuration/Air               1
+    b - Swiftness                    Charms/Air                    2
+    c - Static Discharge             Conjuration/Air               3
+    d - Airstrike                    Air                           4
+    e - Lightning Bolt               Conjuration/Air               5
+Comestibles
+ c - 12 rations
+
+
+   Skills:
+ + Level 4.6 Armour
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 6.2 Spellcasting
+ + Level 8.5 Conjurations
+ + Level 9.4 Air Magic
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Shock                 Conj/Air       ####         1%          1    None
+b - Swiftness             Chrm/Air       ###.....     6%          2    None
+c - Static Discharge      Conj/Air       #####...     1%          3    ##.....
+d - Airstrike             Air            #####.....   5%          4    ####...
+e - Lightning Bolt        Conj/Air       #####.....   19%         5    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)             Temple (1/1) D:4         
+
+Altars:
+Ashenzari
+Dithmenos
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Sif Muna
+Trog
+Uskayaw
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+You can fly.
+
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Shock
+Press: ? - help, Shift-Dir - straight line, f/p - orc warrior
+Aim: an orc warrior, wielding a short sword and wearing a plate armour (severely wounded)
+The zap misses the orc warrior.
+The orc warrior hits you but does no damage.
+Casting: Shock
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Shock
+Press: ? - help, Shift-Dir - straight line, f/p - orc warrior
+Aim: an orc warrior, wielding a short sword and wearing a plate armour (severely wounded)
+The zap hits the orc warrior.
+The orc warrior is almost dead.
+The orc warrior hits you with a short sword!
+* * * LOW HITPOINT WARNING * * *
+Casting: Shock
+Confirm with . or Enter, or press ? or * to list all spells.
+You feel quick.
+The orc warrior hits you with a short sword!
+You die...
+
+      #.#                  #....#
+      #.#                  #....###
+      #.# ########         #....)..
+      #.###......#         #....###
+      #...'......#         #......#
+      #####......#         ##+#.#.#
+          #.)....#          #.#.#.#
+          #......#          #.#.#.#
+          #......#          #.#.#.#
+          #)######          #.#.#.#
+          #.#               #.#...#
+      #####.######          #.##..#
+      #..........#          #.##..#
+      #..........#          #.....#
+      #.....><...#          #####.#
+      #####@.....########       #.#
+          #o#+##........#   #####.#
+          #.#.##........#   #.....#
+          #.#.##........#   #.#####
+          #)..###.......#   #.###.#
+          ##............#   #......
+           #.#####'###+##   ######.
+           #.#.....=.#.#         #.
+    ########.#.#...#.#.###########.
+   ##.)..o..............)))........
+  ##.#######.###.#.###.#########.#.
+ ##.##     #.....#.....#       #...
+ #..#      #############       ####
+ #.##
+#..
+
+
+You could see an orc warrior.
+
+Vanquished Creatures
+  Menkaure (D:6)
+  An orc warrior (D:6)
+  A black bear (D:6)
+  6 ogres
+  A centaur (D:6)
+  A big kobold (Sewer)
+  2 bullfrogs (D:6)
+  2 scorpions (D:6)
+  2 howler monkeys
+  A jelly (D:5)
+  5 hounds
+  6 orc priests
+  5 orc wizards
+  A worker ant (D:4)
+  A hound skeleton (D:6)
+  A worker ant zombie (D:6)
+  10 gnolls
+  10 adders
+  2 river rats
+  2 shadow imps (D:6)
+  7 oozes
+  2 adder skeletons (D:6)
+  8 worms
+  3 leopard geckos
+  26 orcs
+  10 giant cockroaches
+  6 goblins
+  3 hobgoblins
+  6 jackals
+  11 kobolds
+  A quokka (D:4)
+  4 ball pythons
+  9 bats
+  3 frilled lizards
+  A jackal skeleton (D:4)
+  A leopard gecko skeleton (D:4)
+  A quokka skeleton (D:5)
+  12 rats
+  A spectral orc (D:2)
+176 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 plants (D:5)
+2 creatures vanquished.
+
+Grand Total: 178 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | innerpeace the Tengu Air Elementalist began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   210 | D:1      | Reached XP level 2. HP: 15/15 MP: 1/6
+   690 | D:1      | Reached XP level 3. HP: 19/19 MP: 2/7
+  1531 | D:2      | Noticed an ogre
+  1803 | D:2      | Reached skill level 5 in Air Magic
+  1803 | D:2      | Reached XP level 4. HP: 18/24 MP: 3/9
+  1937 | D:2      | Found a basalt altar of Yredelemnul.
+  1996 | D:2      | Found a glowing golden altar of the Shining One.
+  2372 | D:2      | Learned a level 2 spell: Swiftness
+  2376 | D:2      | Learned a level 3 spell: Static Discharge
+  2448 | D:2      | Killed an ogre
+  2448 | D:2      | Gained mutation: You can fly. [Tengu growth]
+  2448 | D:2      | Reached XP level 5. HP: 28/28 MP: 2/11
+  2648 | D:3      | Found a glowing drain.
+  2663 | Sewer    | Entered a sewer
+  2801 | Sewer    | Reached XP level 6. HP: 32/32 MP: 4/12
+  2966 | Sewer    | Reached skill level 6 in Air Magic
+  3472 | D:3      | Found an iron altar of Okawaru.
+  3535 | D:3      | Reached skill level 5 in Conjurations
+  4411 | D:4      | Reached XP level 7. HP: 36/36 MP: 6/14
+  4517 | D:4      | Found a bloodstained altar of Trog.
+  4623 | D:4      | Reached skill level 7 in Air Magic
+  4672 | D:4      | Learned a level 4 spell: Airstrike
+  5461 | D:4      | Reached skill level 1 in Armour
+  5527 | D:4      | Found a staircase to the Ecumenical Temple.
+  5539 | Temple   | Entered the Ecumenical Temple
+  5757 | D:4      | Reached skill level 5 in Spellcasting
+  5757 | D:4      | Reached XP level 8. HP: 41/41 MP: 9/16
+  5876 | D:5      | Entered Level 5 of the Dungeon
+  6112 | D:5      | Reached skill level 8 in Air Magic
+  6218 | D:5      | Found a shattered altar of Ashenzari.
+  6222 | D:5      | Saw a vision of the Swamp and the Snake Pit.
+  6222 | D:5      | Noticed a naga mage
+  6222 | D:5      | Noticed a mana viper
+  6222 | D:5      | Noticed an alligator
+  6222 | D:5      | Noticed an alligator
+  6222 | D:5      | Noticed a mana viper
+  6222 | D:5      | Noticed an anaconda
+  6222 | D:5      | Noticed a hornet
+  6222 | D:5      | Noticed a naga mage
+  6223 | D:5      | Noticed a black mamba
+  6223 | D:5      | Noticed a black mamba
+  6223 | D:5      | Noticed a naga mage
+  6224 | D:5      | Noticed a shock serpent
+  6225 | D:5      | Noticed an alligator
+  6225 | D:5      | Noticed an alligator
+  6254 | D:5      | Got a slimy buckler
+  6260 | D:5      | Identified the cursed -5 buckler of Dogma {Dex+3 Slay+2} (You found it on level 5 of the Dungeon)
+  6481 | D:5      | Found an ornate altar of the Wu Jian Council.
+  7152 | D:6      | Noticed Menkaure
+  7165 | D:6      | Killed Menkaure
+  7293 | D:6      | Reached XP level 9. HP: 45/45 MP: 11/18
+  7295 | D:6      | Reached skill level 9 in Air Magic
+  7304 | D:6      | Learned a level 5 spell: Lightning Bolt
+  7721 | D:6      | HP: 1/45 [orc warrior/short sword (13)]
+  7722 | D:6      | Mangled by an orc warrior
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Conjurations   |     2  3  4     5  6  7  8 |  8.5
+Air Magic      |        5        6  7  8  9 |  9.4
+Spellcasting   |           3     4  5     6 |  6.2
+Armour         |                    1  3  4 |  4.6
+Dodging        |                            |  2.1
+Stealth        |                            |  2.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |     5 |       |       ||     5
+       Club              |    22 |       |       ||    22
+       Kick              |     7 |     4 |    12 ||    23
+       Short sword       |     9 |     9 |    19 ||    37
+       Peck              |     4 |     6 |     2 ||    12
+       Dagger            |       |    31 |     5 ||    36
+       Rapier            |       |       |     9 ||     9
+       Spear             |       |       |    18 ||    18
+ Cast: Shock             |    52 |   142 |   231 ||   425
+       Static Discharge  |       |     1 |     3 ||     4
+       Swiftness         |       |       |     3 ||     3
+ Abil: Fly               |       |     2 |       ||     2
+  Use: Scroll            |     1 |     6 |     9 ||    16
+       Potion            |       |     2 |       ||     2
+ Stab: Sleeping          |     1 |     1 |     1 ||     3
+  Eat: Chunk             |     2 |     6 |    11 ||    19
+       Ration            |       |     1 |       ||     1
+Armor: Robe              |    14 |    20 |     7 ||    41
+       Ring mail         |       |       |    33 ||    33
+Dodge: Dodged            |    34 |    57 |    68 ||   159
+

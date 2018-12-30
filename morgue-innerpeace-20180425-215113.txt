@@ -1,0 +1,299 @@
+ Dungeon Crawl Stone Soup version 0.21.1 (tiles) character file.
+
+1695 innerpeace the Zephyrmancer (level 9, -3/45 HPs)
+             Began as a Tengu Air Elementalist on Apr 25, 2018.
+             Was an Initiate of Vehumet.
+             Hit by a tomahawk thrown by an orc warrior (6 damage)
+             ... on level 6 of the Dungeon.
+             The game lasted 00:23:26 (9717 turns).
+
+innerpeace the Zephyrmancer (TeAE)                  Turns: 9717, Time: 00:23:26
+
+Health: -3/45      AC:  4    Str:  9    XL:     9   Next: 3%
+Magic:  8/19       EV: 15    Int: 19    God:    Vehumet [......]
+Gold:   146        SH:  5    Dex: 14    Spells: 5/20 levels left
+
+rFire    . . .     SeeInvis .   p - +0 short sword (elec)
+rCold    . . .     Gourm    .   h - +0 buckler
+rNeg     + . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   q - +1 hat
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   k - +0 pair of gloves
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.15/turn              s - ring of positive energy
+MPRegen  0.16/turn              (no ring)
+
+@: swift, flying quickly and evasively, very quick
+A: beak, talons 3, able to fly 1
+a: Renounce Religion
+
+
+You were on level 6 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was noncommittal.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 7 of its levels.
+
+You collected 236 gold pieces.
+You spent 90 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ n - a +0 dagger of venom
+ p - a +0 short sword of electrocution (weapon)
+Armour
+ a - a +0 robe (worn)
+ h - a +0 buckler (worn)
+ k - a +0 pair of gloves (worn)
+ q - a +1 hat (worn)
+Jewellery
+ s - a ring of positive energy (left hand)
+Wands
+ f - a wand of disintegration (1)
+Scrolls
+ e - 2 scrolls of fog
+ o - 2 scrolls of teleportation
+ r - a scroll of magic mapping
+ t - a scroll of blinking {unknown}
+ w - a scroll of identify
+Potions
+ d - 2 potions of brilliance
+ g - 2 potions of resistance
+ i - a potion of lignification {unknown}
+ j - a potion of cancellation {unknown}
+ l - a potion of mutation
+ m - a potion of might {unknown}
+ u - a potion of haste {unknown}
+Books
+ b - a book of Air   
+   
+    Spells                           Type                      Level
+    a - Shock                        Conjuration/Air               1
+    b - Swiftness                    Charms/Air                    2
+    c - Static Discharge             Conjuration/Air               3
+    d - Airstrike                    Air                           4
+    e - Lightning Bolt               Conjuration/Air               5
+Comestibles
+ c - 13 rations
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ - Level 4.0 Shields
+ * Level 6.1 Spellcasting
+ + Level 7.5 Conjurations
+ + Level 8.5 Air Magic
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Shock                 Conj/Air       ####         1%          1    None
+b - Swiftness             Chrm/Air       ###.....     2%          2    None
+c - Static Discharge      Conj/Air       #####...     1%          3    ##.....
+d - Airstrike             Air            #####.....   3%          4    ####...
+e - Lightning Bolt        Conj/Air       #####.....   11%         5    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)             Temple (1/1) D:6         
+
+Altars:
+Ashenzari
+Cheibriados
+Elyvilon
+Fedhas
+Makhleb
+Nemelex Xobeh
+Okawaru
+Ru
+Trog
+Vehumet
+Yredelemnul
+Zin
+
+Annotations:
+D:2 Sigmund
+D:5 Grinder
+D:6 david's ghost, novice TeVM
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+You can fly.
+
+
+Message History
+
+Press: ? - help, Shift-Dir - straight line, f/p - centaur
+Aim: a centaur, wielding a shortbow (almost dead)
+The zap hits the centaur.
+You kill the centaur!
+Vehumet accepts your kill.
+You have reached level 9!
+Your experience leads to an increase in your attributes!
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel clever.
+You swoop lightly up into the air. You feel very comfortable in the air. You feel somewhat more hungry. The orc warrior throws a tomahawk. The tomahawk hits you!
+* * * LOW HITPOINT WARNING * * *
+Okay, then.
+Casting: Shock
+Confirm with . or Enter, or press ? or * to list all spells.
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+Casting: Shock
+Confirm with . or Enter, or press ? or * to list all spells.
+You feel quick. The orc warrior throws a tomahawk. The tomahawk closely misses you.
+The orc warrior throws a tomahawk. The tomahawk hits you.
+You die...
+
+##.#######.         ..#.........
+...........          .†.........
+##.########          #..........
+ #.#                 #..........
+ #.#                ##.........####
+ #.#              ###...#...>.....##
+ #.#             ##....#............
+ #.#            ##...####...........
+ #.#          ###...## #............
+##.#         ##.....#  #.(..........
+#..#        ##.<....## #....o.).....
+#.##      ###........# #...(###....#
+..#      ##..........# #(...#    ..#
+..########...#.......# #....#      .
+#..##................###....#
+#....................##.@..##
+#..)).............#####....#
+#...<...............###....#
+#..........................#
+##.###################[#.###
+ ###                 #####
+
+
+You could see an orc warrior.
+
+Vanquished Creatures
+  An ice beast (D:5)
+  4 ogres (D:5)
+  2 centaurs
+  A bullfrog (D:6)
+  The ghost of innerpeace the Grasshopper, an amateur SpWr (D:3)
+  2 howler monkeys (D:6)
+  2 hounds
+  3 orc priests (D:5)
+  2 jellies (D:5)
+  A centaur skeleton (D:4)
+  2 iguanas
+  5 orc wizards
+  4 worker ants
+  A hound skeleton (D:5)
+  2 worker ant zombies
+  10 adders
+  6 gnolls
+  A shadow imp (D:6)
+  An ooze (D:1)
+  3 adder skeletons (D:4)
+  5 worms
+  2 dart slugs
+  9 leopard geckos
+  25 orcs
+  6 giant cockroaches
+  16 goblins
+  7 hobgoblins
+  4 jackals
+  7 kobolds
+  4 quokkas (D:2)
+  7 bats
+  3 frilled lizards
+  A leopard gecko skeleton (D:5)
+  10 rats
+160 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc (D:6)
+1 creature vanquished.
+
+Grand Total: 161 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | innerpeace the Tengu Air Elementalist began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+    83 | D:1      | Reached XP level 2. HP: 6/15 MP: 0/6
+   563 | D:1      | Reached XP level 3. HP: 19/19 MP: 4/7
+   946 | D:2      | Noticed Sigmund
+  1174 | D:2      | Reached XP level 4. HP: 24/24 MP: 6/8
+  1178 | D:2      | Reached skill level 5 in Air Magic
+  1541 | D:2      | Found a shattered altar of Ashenzari.
+  1701 | D:2      | Reached skill level 1 in Shields
+  2366 | D:3      | Noticed innerpeace's ghost (amateur SpWr)
+  2911 | D:3      | Learned a level 2 spell: Swiftness
+  2915 | D:3      | Learned a level 3 spell: Static Discharge
+  3023 | D:3      | Gained mutation: You can fly. [Tengu growth]
+  3023 | D:3      | Reached XP level 5. HP: 28/28 MP: 3/10
+  3089 | D:3      | Killed innerpeace's ghost
+  3494 | D:3      | Reached XP level 6. HP: 27/32 MP: 4/11
+  4101 | D:3      | Found a sparkling altar of Nemelex Xobeh.
+  4599 | D:4      | Learned a level 4 spell: Airstrike
+  4638 | D:4      | Reached skill level 6 in Air Magic
+  4675 | D:4      | Found Zin's Purification Station.
+  4675 | D:4      | Found a glowing silver altar of Zin.
+  4697 | D:4      | Bought a potion of curing for 90 gold pieces
+  5380 | D:4      | Reached XP level 7. HP: 26/36 MP: 1/13
+  5527 | D:4      | Found an iron altar of Okawaru.
+  5637 | D:4      | Reached skill level 5 in Conjurations
+  5740 | D:5      | Entered Level 5 of the Dungeon
+  5804 | D:4      | HP: 1/36 [something/magic dart (8)]
+  6199 | D:5      | HP: 1/36 [worm (8)]
+  6570 | D:5      | Reached skill level 7 in Air Magic
+  6718 | D:5      | Reached XP level 8. HP: 4/41 MP: 1/15
+  7404 | D:5      | Learned a level 5 spell: Lightning Bolt
+  7448 | D:5      | Reached skill level 5 in Spellcasting
+  7540 | D:5      | Noticed Grinder
+  7972 | D:5      | Reached skill level 8 in Air Magic
+  8743 | D:6      | Noticed david's ghost (novice TeVM)
+  9027 | D:6      | Found a staircase to the Ecumenical Temple.
+  9034 | Temple   | Entered the Ecumenical Temple
+  9111 | Temple   | Became a worshipper of Vehumet
+  9711 | D:6      | Reached XP level 9. HP: 18/45 MP: 13/19
+  9712 | D:6      | HP: 2/45 [orc warrior/tomahawk (16)]
+  9717 | D:6      | Hit by a tomahawk thrown by an orc warrior
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Conjurations   |  2     3     4     6  7 |  7.5
+Air Magic      |           5     6  7  8 |  8.5
+Shields        |           1  2     4    |  4.0
+Spellcasting   |              3     4  6 |  6.1
+Dodging        |                         |  2.1
+Stealth        |                         |  2.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Dagger            |     7 |    13 |       ||    20
+       Kick              |     3 |     9 |     6 ||    18
+       Peck              |     2 |     4 |     3 ||     9
+       Spear             |       |     9 |       ||     9
+       Short sword       |       |    25 |    31 ||    56
+ Cast: Shock             |    53 |   152 |   180 ||   385
+       Static Discharge  |       |     6 |       ||     6
+       Swiftness         |       |       |     3 ||     3
+ Abil: Fly               |       |       |     5 ||     5
+  Use: Scroll            |       |     7 |     5 ||    12
+       Potion            |       |     3 |     1 ||     4
+ Stab: Sleeping          |       |     3 |     1 ||     4
+  Eat: Chunk             |     1 |    13 |    12 ||    26
+       Ration            |       |       |     1 ||     1
+Armor: Robe              |       |    10 |    19 ||    29
+Dodge: Dodged            |    10 |    41 |    33 ||    84
+Block: Buckler           |       |    15 |    18 ||    33
+

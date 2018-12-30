@@ -1,0 +1,185 @@
+ Dungeon Crawl Stone Soup version 0.21.1 (tiles) character file.
+
+31 david the Chiller (level 3, 0/24 HPs)
+             Began as a Merfolk Ice Elementalist on Apr 23, 2018.
+             Succumbed to an adder's poison
+             ... on level 1 of the Dungeon.
+             The game lasted 00:02:02 (878 turns).
+
+david the Chiller (Merfolk Ice Elementalist)         Turns: 878, Time: 00:02:03
+
+Health: 0/24       AC:  2    Str:  9    XL:     3   Next: 22%
+Magic:  4/6        EV: 13    Int: 19    God:    
+Gold:   24         SH:  0    Dex: 14    Spells: 5/6 levels left
+
+rFire    . . .     SeeInvis +   g - +0 spear
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.08/turn              h - ring of see invisible
+MPRegen  0.10/turn              (no ring)
+
+@: brilliant, lethally poisoned (0 -> -2)
+A: change form in water, swift swim, stealthy swim
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 24 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ g - a +0 spear (weapon)
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ h - a ring of see invisible (left hand)
+Books
+ b - a book of Frost   
+   
+    Spells                           Type                      Level
+    a - Freeze                       Ice                           1
+    b - Throw Frost                  Conjuration/Ice               2
+    c - Ozocubu's Armour             Charms/Ice                    3
+    d - Throw Icicle                 Conjuration/Ice               4
+    e - Summon Ice Beast             Ice/Summoning                 4
+Comestibles
+ c - 5 rations
+
+
+   Skills:
+ + Level 1.1 Polearms
+ - Level 2.6 Dodging
+ - Level 2.1 Stealth
+ + Level 2.4 Spellcasting
+   Level 0.7 Conjurations
+ * Level 4.2 Ice Magic
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Freeze                Ice            ####         1%          1    #......
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Annotations:
+D:2 Sigmund
+
+Message History
+
+Aim: an adder (almost dead)
+You freeze the adder.
+You kill the adder!
+Your Polearms skill increases to level 1!
+You have reached level 3!
+Your experience leads to an increase in your attributes!
+Your base attributes are Str 8, Int 14, Dex 14.
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel stronger.
+Okay, then.
+As you read the scroll labeled NAXUSI MEULO, it crumbles to dust.
+It is a scroll of identify.
+You don't have any unidentified items.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+There is a lethal amount of poison in your body!
+Your surroundings suddenly seem different.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+You die...
+
+#.........>##....#.......##.###.#..#####.###.###
+...........##.#####.#....##.# #......# #.# #.###
+#.(...##...##.#   #.#######.####...#.###.###.#..
+###+####...##.#####.#     #..................#.#
+#.....##...##.......#    ########.#.##########.#
+......#######.....########.....................#
+#.....#     #.....# #....#.#####.....###########
+#.....#   ###.....###....#...# #.....##.........
+#.....#   #................#)# #.....##.########
+#.....#   #.....#.#......#.#.# ###......#
+#.....#   #.....#.#.###.##.#.#   ##.....#
+#######   #.....'..........#.#    #.....#
+          #.....#.#.###.####.#######....#
+          #...###.#'###....#.......#...##
+          ##### ##.......#.#....##.#...#######
+                 #......@#.#....##(.......†..#
+                 #.......#......#####........#
+          ########.......+......#   #........#
+          #......#.......#####..#   ##.#.#####
+          #......+......(##.##..# ####.#.#
+          #......#.......##.....# #......##
+          #..............##.##.####.......#
+          #########...#####.##.##.......#.#
+                  #..........#.##.......#.#
+                  #...########.##.....#...#
+                  #...#      #.##.....##..#
+                  #####      #......####..#
+                             #####.....##.##
+                                 #..#.###..#
+                             #####..#.####.#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An adder (D:1)
+  An ooze (D:1)
+  A dart slug (D:1)
+  4 goblins (D:1)
+  A kobold (D:1)
+  7 bats
+  A frilled lizard (D:1)
+  3 rats (D:1)
+19 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | david the Merfolk Ice Elementalist began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   274 | D:1      | Reached XP level 2. HP: 11/19 MP: 0/5
+   730 | D:1      | Reached skill level 4 in Ice Magic
+   852 | D:2      | Noticed Sigmund
+   870 | D:1      | Reached skill level 1 in Polearms
+   870 | D:1      | Reached XP level 3. HP: 2/24 MP: 3/6
+   874 | D:1      | HP: 1/24 [poisoned by an adder]
+   878 | D:1      | Succumbed to an adder's poison
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Ice Magic      |     4 |  4.2
+Polearms       |     1 |  1.1
+Dodging        |       |  2.6
+Stealth        |       |  2.1
+Spellcasting   |       |  2.4
+Conjurations   |       |  0.7
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    13
+       Spear             ||     7
+ Cast: Freeze            ||    23
+  Use: Scroll            ||     2
+       Potion            ||     1
+ Stab: Sleeping          ||     4
+Armor: Robe              ||     6
+Dodge: Dodged            ||    28
+
