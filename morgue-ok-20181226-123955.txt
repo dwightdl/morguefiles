@@ -1,0 +1,210 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+42 ok the Caller (level 3, -1/19 HPs)
+             Began as a Kobold Summoner on Dec 26, 2018.
+             Slain by a hobgoblin (4 damage)
+             ... led by Robin
+             ... on level 2 of the Dungeon.
+             The game lasted 00:02:44 (1540 turns).
+
+ok the Caller (Kobold Summoner)                     Turns: 1540, Time: 00:02:45
+
+Health: -1/19      AC:  2    Str:  5    XL:     3   Next: 77%
+Magic:  1/7        EV: 15    Int: 17    God:    
+Gold:   44         SH:  0    Dex: 15    Spells: 4/8 levels left
+
+rFire    . . .     SeeInvis .   i - +2 dagger (protect)
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: no status effects
+A: small, carnivore
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 44 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ i - a +2 dagger of protection (weapon)
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ b - a cursed -2 ring of strength {unknown}
+Scrolls
+ d - a scroll of random uselessness {unknown}
+ e - 3 scrolls of identify {unknown}
+ f - a scroll of noise {unknown}
+ h - a scroll of teleportation {unknown}
+Potions
+ g - a potion of heal wounds {unknown}
+ j - 2 potions of lignification {unknown}
+ k - 2 potions of curing
+ l - a potion of brilliance {unknown}
+Comestibles
+ c - 5 rations
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.6 Stealth
+ + Level 3.2 Spellcasting
+ + Level 4.6 Summonings
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Summon Small Mammal   Summ           ###.         2%          1    None
+b - Call Canine Familiar  Summ           ###.....     8%          3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Call Imp                 Summ           ###.....     3%          2    ##.....
+ Summon Guardian Golem    Hex/Summ       ##......     21%         3    ###....
+ Summon Ice Beast         Ice/Summ       ##......     54%         4    ####...
+ Summon Lightning Spire   Summ/Air       ##......     54%         4    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+Trog
+
+Annotations:
+D:2 Robin
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are small and have problems with some larger weapons.
+You are carnivorous and can eat meat at any time.
+
+
+Message History
+
+The hobgoblin dies!
+The hobgoblin barely misses your quokka.
+Your quokka closely misses the hobgoblin.
+Your hound closely misses the goblin.
+Your bat hits the hobgoblin but does no damage.
+The hobgoblin closely misses your quokka.
+Robin barely misses your quokka. The goblin hits you but does no damage. Your
+Your bat dies!
+Your bat's corpse disappears in a puff of smoke!
+Your hound closely misses the goblin.
+Robin hits your hound with a whip.
+Your quokka bites the hobgoblin but does no damage.
+The hobgoblin barely misses your hound.
+Casting: Summon Small Mammal (safe; 2% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Your quokka closely misses the hobgoblin.
+Robin roars a battlecry!
+The goblins go into a battle-frenzy!
+The goblin completely misses you. The hobgoblin hits you.
+You die...
+
+#<....##             ##(...............
+#......###            #.###############
+#........#            #..#
+##.##.##.#            ##.#
+ #. #.##.#             #.#            #
+ #. #.##.#             #.#            #
+   ##.##.#             #.##         ###
+   #.....###############..###########..
+   #.....#............................#
+   #.......##############.#############
+   #......####          #.#
+   #.........#####      #.#
+   #.####.##.....#      #.#
+   #.#  #.######.#      #..
+   ....##.######.##     ##.
+  . ........#hg@..###     .
+    ........gggg....#     .#
+    ......)g$.S.r...#
+    ......grg.........#
+    ......g..!......#..
+    .................)..
+    ..[/...?........####
+    ...........>...##
+    ........#.....##
+    .....##########
+    ...>.
+
+
+You could see Robin, an adder, 6 hobgoblins, 2 goblins, a friendly hound and 2
+friendly quokkas.
+
+Vanquished Creatures
+  A worm (D:2)
+  2 goblins
+  3 hobgoblins
+  5 bats
+  4 kobolds
+  2 rats (D:1)
+17 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  An adder (D:2)
+  2 worms (D:2)
+  2 dart slugs
+  A giant cockroach (D:2)
+  2 goblins (D:2)
+  2 hobgoblins
+  2 bats
+  A kobold (D:1)
+  A rat (D:1)
+14 creatures vanquished.
+
+Grand Total: 31 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | ok the Kobold Summoner began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+   521 | D:1      | Reached XP level 2. HP: 15/15 MP: 0/5
+  1242 | D:2      | Reached XP level 3. HP: 7/19 MP: 1/7
+  1365 | D:2      | Learned a level 3 spell: Call Canine Familiar
+  1397 | D:2      | Found a bloodstained altar of Trog.
+  1527 | D:2      | Noticed Robin
+  1540 | D:2      | Slain by a hobgoblin
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Spellcasting   |        3 |  3.2
+Dodging        |          |  2.4
+Stealth        |          |  2.6
+Summonings     |          |  4.6
+
+Action                   || total
+-------------------------++-------
+Melee: Whip              ||    27
+       Unarmed           ||     3
+       Dagger            ||    56
+ Cast: Summon Small Mamm ||    31
+       Call Canine Famil ||     1
+  Use: Potion            ||     1
+ Stab: Sleeping          ||     7
+  Eat: Chunk             ||    11
+Armor: Robe              ||    30
+Dodge: Dodged            ||    93
+

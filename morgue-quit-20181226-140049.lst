@@ -1,0 +1,67 @@
+quit
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 chain mail
+(4, 9, D:1)
+  a +0 club
+(6, 10, D:1)
+  a +0 robe
+(7, -8, D:1)
+  15 stones
+(11, 16, D:1)
+  23 stones
+(14, -11, D:1)
+  17 stones
+(15, -11, D:1)
+  a +0 ring mail
+(18, 24, D:1)
+  a +0 club
+(29, 12, D:1)
+  a +0 ring mail
+(49, 2, D:1)
+  11 stones
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  4 javelins
+(1, 1, D:2)
+  a +0 ring mail
+(4, 4, D:2)
+  a +0 leather armour
+(5, 7, D:2)
+  a +0 leather armour
+(7, 29, D:2)
+  20 arrows
+(9, 4, D:2)
+  a +0 club
+(10, 3, D:2)
+  2 stones
+(15, 1, D:2)
+  a +0 chain mail
+(16, -10, D:2)
+  a +0 scale mail
+(17, 22, D:2)
+  a +0 dagger
+  4 stones
+(21, 9, D:2)
+  22 arrows
+(31, 10, D:2)
+  a +0 robe
+(31, 13, D:2)
+  a +0 flail
+(34, 38, D:2)
+  a +0 hand axe
+(35, 21, D:2)
+  24 stones
+(36, -6, D:2)
+  3 curare-tipped needles
+(48, 11, D:2)
+  a +0 dagger
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +2 war axe of freezing
+(12, 1, D:3)
+  a +2 robe of fire resistance
+

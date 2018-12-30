@@ -1,0 +1,150 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+0 im bad at dcss the Firebug (level 1, 0/10 HPs)
+             Began as a Tengu Fire Elementalist on Dec 24, 2018.
+             Slain by a leopard gecko (5 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:00:14 (62 turns).
+
+im bad at dcss the Firebug (Tengu Fire Elementalist)  Turns: 62, Time: 00:00:15
+
+Health: 0/10       AC:  2    Str:  8    XL:     1   Next: 0%
+Magic:  0/4        EV: 12    Int: 15    God:    
+Gold:   14         SH:  0    Dex: 14    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: beak, talons 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 14 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ b - an uncursed ring of ice {unknown}
+Scrolls
+ d - a scroll of identify {unknown}
+Potions
+ e - 2 potions of degeneration {unknown}
+Comestibles
+ c - a ration
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 2.0 Spellcasting
+ + Level 1.3 Conjurations
+ + Level 3.2 Fire Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      #....        9%          1    #......
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Throw Flame              Conj/Fire      #.....       13%         2    ###....
+ Conjure Flame            Conj/Fire      #.......     26%         3    ###....
+ Inner Flame              Hex/Fire       #.......     34%         3    ###....
+ Sticky Flame             Conj/Fire      #.......     65%         4    #####..
+ Fireball                 Conj/Fire      #.........   94%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+
+
+Message History
+
+Aiming: Flame Tongue (safe; 9% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - leopard gecko
+Aim: a leopard gecko (clinging)
+The flame tongue hits the leopard gecko.
+The leopard gecko is almost dead.
+The leopard gecko bites you.
+Ouch! That really hurt!
+The leopard gecko closely misses you.
+Casting: Flame Tongue (safe; 9% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't have enough magic to cast that spell.
+Unknown command.
+You closely miss the leopard gecko. Your kick misses the leopard gecko.
+The leopard gecko is almost dead.
+The leopard gecko closely misses you.
+You miss the leopard gecko.
+The leopard gecko is almost dead.
+The leopard gecko bites you.
+Ouch! That really hurt!
+You die...
+
+  ############
+   ..........#
+    #.######.#        ###
+    #.l..#.#.#       ##.##
+   ##..@.....####   ##...##
+................#####.....##
+.##.###.#...###............#
+  #   #.##.## ######.......#
+      #.##.#       #.......#
+      #.##.#       #....#..#
+      #.##+#       #.>.##..#
+      #.#          #...##..#
+                   #.......#
+                  ##.#.#####
+               ####....#######
+               +..............
+               ####....#######
+     ## ###       ##..##
+    ##~##~##       ##.#
+
+
+You could see a leopard gecko.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | im bad at dcss the Tengu Fire Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+    62 | D:1      | Slain by a leopard gecko
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||     2
+ Cast: Flame Tongue      ||     4
+Dodge: Dodged            ||     3
+

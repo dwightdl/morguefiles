@@ -1,0 +1,227 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+134 quit the Firebug (level 4, 0/30 HPs)
+             Began as a Demonspawn Fire Elementalist on Dec 29, 2018.
+             Slain by Grinder (7 damage)
+             ... while paralysed by Grinder
+             ... on level 3 of the Dungeon.
+             The game lasted 00:04:15 (3289 turns).
+
+quit the Firebug (Demonspawn Fire Elementalist)     Turns: 3289, Time: 00:04:15
+
+Health: 0/30       AC:  2    Str:  8    XL:     4   Next: 95%
+Magic:  8/8        EV:  2    Int: 18    God:    
+Gold:   245        SH:  0    Dex: 13    Spells: 3/9 levels left
+
+rFire    . . .     SeeInvis .   i - +0 mace
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.10/turn              (no ring)
+MPRegen  0.11/turn              (no ring)
+
+@: paralysed
+A: talons 2
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 245 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ i - a +0 mace (weapon)
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ j - an uncursed ring of resist corrosion {unknown}
+ p - a cursed -3 ring of strength {unknown}
+Wands
+ r - a wand of random effects (20)
+Scrolls
+ d - a scroll of noise {unknown}
+ e - 2 scrolls of identify {unknown}
+ h - 5 scrolls of remove curse {unknown}
+ n - a scroll of amnesia {unknown}
+Potions
+ b - 3 potions of curing {unknown}
+ f - a potion of berserk rage {unknown}
+ g - a potion of magic {unknown}
+ k - 2 potions of brilliance {unknown}
+ l - a potion of might {unknown}
+ m - 2 potions of haste
+ o - 2 potions of degeneration {unknown}
+ q - a potion of flight {unknown}
+ s - a potion of cancellation {unknown}
+Comestibles
+ c - 11 rations
+
+
+   Skills:
+ - Level 1.7 Dodging
+ - Level 1.7 Stealth
+ + Level 3.1 Spellcasting
+ + Level 2.8 Conjurations
+ + Level 3.7 Fire Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      ##...        4%          1    None
+b - Throw Flame           Conj/Fire      ##....       6%          2    ##.....
+c - Conjure Flame         Conj/Fire      ##......     13%         3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Inner Flame              Hex/Fire       #.......     22%         3    ###....
+ Sticky Flame             Conj/Fire      ##......     38%         4    ####...
+ Fireball                 Conj/Fire      ##........   75%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Elyvilon
+Uskayaw
+
+Annotations:
+D:3 Grinder
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have razor-sharp toenails.
+
+
+Message History
+
+A leopard gecko comes into view.
+The leopard gecko hisses angrily.
+A leopard gecko is nearby!
+Grinder comes into view.
+Grinder shouts!
+You barely miss Grinder. Grinder barely misses you. Grinder hits you! You
+An adder comes into view.
+You are too injured to fight recklessly!
+The adder hisses angrily.
+Grinder gestures at you.
+You suddenly lose the ability to move!
+Grinder drinks a potion. Grinder seems to speed up.
+Grinder blinks! Grinder hits you. You writhe in agony.
+Grinder hits you. You writhe in agony.
+* * * LOW HITPOINT WARNING * * *
+The leopard gecko bites you.
+* * * LOW HITPOINT WARNING * * *
+Grinder says, "Tell me all your secrets, or I'll kill you."
+Grinder hits you!
+You die...
+
+#........#####.###.....#......#<..)....#
+###.......%.##.# #....#.#...)######.....
+  #............###............#   #.#...
+  #.>.......................#.#####.#.##
+  #.........#######.......###.....#.#.##
+  ###########   #.................#.#.##
+        ..### ###....##...###....>......
+         ...............### #......#####
+          #..##....##...#####...........
+           #.......................#####
+       ######..............##......##  #
+       .............#...##.....###..#  #
+       ......##.##.....###..#..## #.#  #
+       ..... ##.##..............# #.#  #
+       ....  #.Sl...)...#.....#.###.#
+       ###  ##.#@#.#..#..........##.#
+      #######..#5..#.##.#.}.}.#..##.#
+      #...........##.##..........##.####
+      #..).(............#.....#...(.....
+      #........#..#..##...._....##..#...
+      ########......###.#.....#.###<....
+          #.....#.###.............###...
+        ###.....#.##..#.#.}.}.#.#.......
+        #............##.........#####...
+       ...#.......#####.#..)..#.#   #...
+        #.......................#   ####
+        #............#......#####
+        #............########
+        #............#
+        ######.......#
+
+
+You could see Grinder, an adder and a leopard gecko.
+
+Vanquished Creatures
+  Robin (D:3)
+  6 adders
+  A worm (D:2)
+  2 dart slugs
+  A leopard gecko (D:2)
+  2 ball pythons
+  3 giant cockroaches
+  11 goblins
+  11 hobgoblins
+  2 quokkas
+  5 bats
+  4 frilled lizards
+  3 kobolds
+  10 rats
+62 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | quit the Demonspawn Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   505 | D:1      | Gained mutation: You have sharp toenails. [demonic
+                  | ancestry]
+   505 | D:1      | Reached XP level 2. HP: 19/19 MP: 0/5
+  1592 | D:2      | Reached XP level 3. HP: 21/24 MP: 0/6
+  1944 | D:2      | Found a hide-covered altar of Uskayaw.
+  2248 | D:3      | Gained mutation: You have razor-sharp toenails. [demonic
+                  | ancestry]
+  2248 | D:3      | Reached XP level 4. HP: 24/30 MP: 4/8
+  2464 | D:3      | Noticed Robin
+  2665 | D:2      | Learned a level 2 spell: Throw Flame
+  2669 | D:2      | Learned a level 3 spell: Conjure Flame
+  2817 | D:3      | Killed Robin
+  3053 | D:3      | Found a white marble altar of Elyvilon.
+  3279 | D:3      | Noticed Grinder
+  3284 | D:3      | Paralysed by Grinder for 7 turns
+  3289 | D:3      | Slain by Grinder
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Fire Magic     |     3       |  3.7
+Conjurations   |        2    |  2.8
+Spellcasting   |           3 |  3.1
+Dodging        |             |  1.7
+Stealth        |             |  1.7
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |     9 |       ||     9
+       Club              |    13 |       ||    13
+       Kick              |     5 |     1 ||     6
+       Mace              |     3 |     7 ||    10
+       Dagger            |     1 |       ||     1
+ Cast: Flame Tongue      |    61 |    44 ||   105
+  Eat: Chunk             |     5 |     3 ||     8
+Armor: Robe              |     8 |     6 ||    14
+Dodge: Dodged            |    30 |    30 ||    60
+

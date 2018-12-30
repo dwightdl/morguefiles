@@ -1,0 +1,211 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+60 ok the Firebug (level 3, 0/24 HPs)
+             Began as a Demonspawn Fire Elementalist on Dec 26, 2018.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (11 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:03:49 (2309 turns).
+
+ok the Firebug (Demonspawn Fire Elementalist)       Turns: 2309, Time: 00:03:50
+
+Health: 0/24       AC:  6    Str:  8    XL:     3   Next: 82%
+Magic:  3/7        EV: 11    Int: 17    God:    
+Gold:   117        SH:  0    Dex: 13    Spells: 1/7 levels left
+
+rFire    + . .     SeeInvis .   b - +0 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   p - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  g - +2 pair of boots
+Stlth    ++........             (no amulet)
+HPRegen  0.08/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: no status effects
+A: claws 1, fire resistance 1
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 117 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 hunting sling of freezing
+ b - a +0 dagger (weapon)
+ n - a cursed -1 rapier
+Missiles
+ k - 6 stones (quivered)
+Armour
+ g - a +2 pair of boots (worn)
+ p - a +0 leather armour (worn)
+Jewellery
+ h - a cursed ring of attention {unknown}
+Scrolls
+ e - 2 scrolls of remove curse {unknown}
+ i - 2 scrolls of teleportation {unknown}
+ l - 2 scrolls of amnesia {unknown}
+ m - a scroll of enchant armour {unknown}
+ o - a scroll of random uselessness {unknown}
+ q - a scroll of blinking {unknown}
+Potions
+ d - a potion of invisibility {unknown}
+ f - a potion of curing {unknown}
+ j - a potion of might {unknown}
+Comestibles
+ c - 5 rations
+
+
+   Skills:
+ - Level 1.7 Dodging
+ - Level 1.7 Stealth
+ + Level 2.7 Spellcasting
+ + Level 2.2 Conjurations
+ + Level 3.3 Fire Magic
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      ##...        9%          1    #......
+b - Throw Flame           Conj/Fire      ##....       13%         2    ##.....
+c - Conjure Flame         Conj/Fire      ##......     26%         3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Inner Flame              Hex/Fire       #.......     36%         3    ###....
+ Sticky Flame             Conj/Fire      ##......     63%         4    #####..
+ Fireball                 Conj/Fire      ##........   93%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Qazlal
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have sharp fingernails.
+Your flesh is heat resistant. (rF+)
+
+
+Message History
+
+The flame tongue hits the orc priest.
+The orc priest is severely wounded.
+Casting: Flame Tongue (safe; 9% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Flame Tongue (safe; 9% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - orc priest
+Aim: an orc priest, wielding a mace and wearing a leather armour (severely
+The flame tongue hits the orc priest.
+The orc priest is severely wounded.
+The orc priest closely misses you.
+Casting: Flame Tongue (safe; 9% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Flame Tongue (safe; 9% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - orc priest
+Aim: an orc priest, wielding a mace and wearing a leather armour (severely
+The flame tongue hits the orc priest.
+The orc priest is almost dead.
+The orc priest mumbles some strange prayers to Beogh against you.
+Beogh smites you!
+You die...
+
+#####
+#...######
+#........##########################
+#.............%...................####
+#...######...)###################....#
+#####    #.##.......#########   ####.#   ###
+         #..#######....@oo..########.###....
+         #......###########..).......>...^..
+         ###.....###      ##########..##>..(
+           #####...##              ##.#   ##
+               ##...#               #.#
+                ##..##              #.#
+                 ##..###            #.####
+                  #..%.###       ####....#
+                  ##.(...#       #.....#.#
+                   ###.#.##      #.##.## #
+                     #.#..#     ##.##.#
+               #######.##.##   ##..##.#
+              (............#   #..###.#
+               ...####.##### ###.## #.#
+              .##.#  #.#  ####.oo#  #$#
+
+
+You could see an orc priest and an orc.
+
+Vanquished Creatures
+  3 adders
+  A worm (D:2)
+  An orc (D:3)
+  2 bats
+  4 giant cockroaches
+  4 goblins
+  5 hobgoblins
+  5 kobolds
+  2 frilled lizards (D:2)
+  3 rats
+30 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | ok the Demonspawn Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   721 | D:1      | Gained mutation: You have sharp fingernails. [demonic
+                  | ancestry]
+   721 | D:1      | Reached XP level 2. HP: 19/19 MP: 0/5
+  1041 | D:2      | Reached skill level 3 in Fire Magic
+  1192 | D:2      | Gained mutation: Your flesh is heat resistant. (rF+)
+                  | [demonic ancestry]
+  1192 | D:2      | Reached XP level 3. HP: 24/24 MP: 4/6
+  1387 | D:2      | Learned a level 2 spell: Throw Flame
+  1391 | D:2      | Learned a level 3 spell: Conjure Flame
+  1463 | D:2      | Found a stormy altar of Qazlal.
+  1465 | D:2      | Noticed an earth elemental
+  1465 | D:2      | Noticed a water elemental
+  1466 | D:2      | Noticed an air elemental
+  1466 | D:2      | Noticed a fire elemental
+  2309 | D:3      | Killed from afar by an orc priest
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Fire Magic     |     3    |  3.3
+Conjurations   |        2 |  2.2
+Dodging        |          |  1.7
+Stealth        |          |  1.7
+Spellcasting   |          |  2.7
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    11
+       Dagger            ||    28
+ Fire: Hunting sling     ||    26
+ Cast: Flame Tongue      ||    34
+       Throw Flame       ||     6
+       Conjure Flame     ||     1
+ Stab: Sleeping          ||     1
+  Eat: Chunk             ||     5
+Armor: Robe              ||     4
+       Leather armour    ||    11
+Dodge: Dodged            ||    26
+

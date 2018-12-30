@@ -1,0 +1,251 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+413 im bad at dcss the Conjurer (level 6, -5/32 HPs)
+             Began as a Tengu Fire Elementalist on Dec 24, 2018.
+             Slain by a hornet zombie (11 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:09:38 (4643 turns).
+
+im bad at dcss the Conjurer (TeFE)                  Turns: 4643, Time: 00:09:39
+
+Health: -5/32      AC:  7    Str:  8    XL:     6   Next: 91%
+Magic:  4/12       EV: 12    Int: 18    God:    
+Gold:   196        SH:  0    Dex: 14    Spells: 1/11 levels left
+
+rFire    . . .     SeeInvis +   d - +0 hand axe
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   B - +2 leather armour {MR+}
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   j - +0 cloak
+rCorr    .         Harm     .   m - +0 pair of gloves
+MR       +....                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.10/turn              l - ring of see invisible
+MPRegen  0.13/turn              q - ring of attention (curse)
+
+@: no status effects
+A: beak, talons 3, able to fly 1
+a: Fly
+
+
+You were on level 5 of the Dungeon.
+You were near starving.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 196 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ d - a +0 hand axe (weapon)
+ r - a cursed -2 flail
+Armour
+ j - a +0 cloak (worn)
+ m - a +0 pair of gloves (worn)
+ n - a +0 buckler
+ B - a +2 leather armour of magic resistance (worn)
+Jewellery
+ a - an uncursed ring of wizardry {unknown}
+ f - an uncursed ring of poison resistance {unknown}
+ l - a ring of see invisible (left hand)
+ o - an uncursed ring of poison resistance {unknown}
+ q - a cursed ring of attention (right hand)
+ y - a +2 amulet of reflection {unknown}
+Wands
+ z - a wand of random effects (24)
+Scrolls
+ b - 2 scrolls of amnesia
+ e - a scroll of teleportation
+ k - 5 scrolls of remove curse
+ p - a scroll of enchant armour {unknown}
+ s - a scroll of fog {unknown}
+ v - 3 scrolls of fear {unknown}
+Potions
+ g - 5 potions of heal wounds
+ h - 2 potions of resistance {unknown}
+ i - 2 potions of curing {unknown}
+ t - 2 potions of flight {unknown}
+ u - 2 potions of lignification {unknown}
+ w - a potion of mutation {unknown}
+ x - a potion of brilliance {unknown}
+ A - 2 potions of invisibility {unknown}
+Comestibles
+ c - 6 rations
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 2.1 Shields
+ + Level 3.4 Spellcasting
+ * Level 6.0 Conjurations
+ + Level 4.8 Fire Magic
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      ###..        2%          1    None
+b - Throw Flame           Conj/Fire      ###...       3%          2    ##.....
+c - Conjure Flame         Conj/Fire      ###.....     8%          3    ###....
+d - Sticky Flame          Conj/Fire      ###.....     24%         4    ####...
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Inner Flame              Hex/Fire       ##......     26%         3    ###....
+ Fireball                 Conj/Fire      ###.......   56%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+Cheibriados
+Makhleb
+Okawaru
+Trog
+Xom
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+You can fly.
+
+
+Message History
+
+* * * LOW HITPOINT WARNING * * *
+Casting: Flame Tongue (safe; 2% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Flame Tongue (safe; 2% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - hornet zombie
+Aim: a hornet zombie (heavily damaged, covered in liquid flames)
+The flame tongue hits the hornet zombie.
+The hornet zombie appears unharmed.
+The hornet zombie is heavily damaged.
+The hornet zombie burns!
+The hornet zombie completely misses you.
+Casting: Flame Tongue (safe; 2% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Flame Tongue (safe; 2% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - hornet zombie
+Aim: a hornet zombie (severely damaged, covered in liquid flames)
+The flame tongue hits the hornet zombie.
+The hornet zombie is severely damaged.
+The hornet zombie burns! The hornet zombie hits you!
+You die...
+
+       . .........o..
+      .#.#.#.).......
+    .................
+  #.#)#.#.#..........
+ ...... ...........>.
+.#.#.#.#.#...........
+.............%.......
+#.#.#.#.#.  #%#
+.........####.#
+...........##.#
+ ..#...@.#.##.#
+   #....Z#....#
+ #...##+#######
+#...
+#..
+#.
+#
+
+
+You could see a hornet zombie (burning).
+
+Vanquished Creatures
+  A necrophage (D:4)
+  2 hounds
+  2 orc wizards (D:4)
+  2 worker ants
+  A hound skeleton (D:4)
+  A worker ant zombie (D:2)
+  3 gnolls (D:2)
+  2 oozes
+  2 worms (D:2)
+  2 dart slugs
+  A leopard gecko (D:3)
+  15 orcs
+  5 bats
+  A giant cockroach (D:3)
+  4 hobgoblins
+  11 jackals
+  8 kobolds
+  3 quokkas
+  A ball python skeleton (D:4)
+  4 frilled lizards
+  7 goblins
+  A jackal skeleton (D:4)
+  6 rats
+85 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | im bad at dcss the Tengu Fire Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   376 | D:1      | Reached skill level 2 in Conjurations
+   576 | D:1      | Reached XP level 2. HP: 11/15 MP: 6/6
+  1375 | D:2      | Reached XP level 3. HP: 19/19 MP: 7/7
+  1381 | D:2      | Reached skill level 3 in Conjurations
+  1671 | D:2      | Learned a level 2 spell: Throw Flame
+  1675 | D:2      | Learned a level 3 spell: Conjure Flame
+  1734 | D:2      | Reached XP level 4. HP: 15/24 MP: 0/8
+  2016 | D:2      | Reached skill level 4 in Conjurations
+  2544 | D:3      | Found a shimmering altar of Xom.
+  2546 | D:3      | Found a bloodstained altar of Trog.
+  2546 | D:3      | Found a radiant altar of Vehumet.
+  2548 | D:3      | Found an iron altar of Okawaru.
+  2548 | D:3      | Found a snail-covered altar of Cheibriados.
+  2548 | D:3      | Found a burning altar of Makhleb.
+  3355 | D:3      | Gained mutation: You can fly. [Tengu growth]
+  3355 | D:3      | Reached XP level 5. HP: 26/28 MP: 6/10
+  3600 | D:4      | Reached skill level 1 in Shields
+  3606 | D:4      | Learned a level 4 spell: Sticky Flame
+  3801 | D:4      | Noticed a necrophage
+  3807 | D:4      | Killed a necrophage
+  3807 | D:4      | Reached skill level 5 in Conjurations
+  3807 | D:4      | Reached XP level 6. HP: 32/32 MP: 3/11
+  4464 | D:5      | Entered Level 5 of the Dungeon
+  4482 | D:5      | Reached skill level 6 in Conjurations
+  4643 | D:5      | Slain by a hornet zombie
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Conjurations   |  2     3  4  5  6 |  6.0
+Fire Magic     |           4       |  4.8
+Shields        |              1  2 |  2.1
+Spellcasting   |              3    |  3.4
+Dodging        |                   |  2.1
+Stealth        |                   |  2.0
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Hand axe          |    36 |    67 ||   103
+       Kick              |    11 |    17 ||    28
+       Peck              |     4 |    12 ||    16
+ Cast: Flame Tongue      |    39 |    56 ||    95
+       Throw Flame       |     1 |    19 ||    20
+       Conjure Flame     |     1 |     1 ||     2
+       Sticky Flame      |       |     2 ||     2
+  Use: Scroll            |       |     5 ||     5
+       Potion            |       |     1 ||     1
+ Stab: Sleeping          |     1 |       ||     1
+  Eat: Chunk             |     3 |     9 ||    12
+Armor: Robe              |     9 |     9 ||    18
+       Leather armour    |     4 |    17 ||    21
+Dodge: Dodged            |    32 |    79 ||   111
+Block: Buckler           |       |     1 ||     1
+

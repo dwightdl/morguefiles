@@ -1,0 +1,297 @@
+im bad at dcss
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 robe
+(5, -5, D:1)
+  20 bolts
+(9, 5, D:1)
+  a stone
+(11, 5, D:1)
+  a stone
+(11, 9, D:1)
+  a +0 helmet
+(12, 3, D:1)
+  a stone
+(13, 12, D:1)
+  24 bolts
+(14, 2, D:1)
+  a stone
+(19, 29, D:1)
+  a +0 dagger
+(23, 26, D:1)
+  a +0 club
+(31, -3, D:1)
+  25 sling bullets
+(36, 3, D:1)
+  16 stones
+(37, -1, D:1)
+  a +0 short sword
+(38, 4, D:1)
+  a +0 dagger
+(39, -4, D:1)
+  a cursed +0 club
+(41, -7, D:1)
+  a +0 whip
+(44, 18, D:1)
+  a +0 club
+(44, 20, D:1)
+  21 stones
+(44, 21, D:1)
+  a +0 dagger
+(45, -6, D:1)
+  24 bolts
+(45, 34, D:1)
+  a +0 scale mail
+(47, 24, D:1)
+  25 sling bullets
+(50, 32, D:1)
+  a +0 mace
+(58, -8, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(10, 2, D:2)
+  a +0 club
+(18, 29, D:2)
+  17 stones
+(18, 35, D:2)
+  a +0 dagger
+(19, 6, D:2)
+  a +0 quarterstaff
+(23, 34, D:2)
+  a cursed -2 club
+(24, 29, D:2)
+  a +0 club
+(29, 26, D:2)
+  a +0 short sword
+(29, 27, D:2)
+  a +2 dagger of venom
+(33, 14, D:2)
+  a +0 club
+  a +0 hunting sling
+  18 stones
+(34, 1, D:2)
+  a +0 dagger
+(37, 14, D:2)
+  a stone
+(40, 32, D:2)
+  a stone
+(44, 34, D:2)
+  a +0 whip
+(46, 6, D:2)
+  21 sling bullets
+
+Level 3 of the Dungeon
+(3, 34, D:3)
+  a +0 trident
+(3, 35, D:3)
+  a +0 flail
+  a +0 ring mail
+(4, 21, D:3)
+  a +0 helmet
+(6, 10, D:3)
+  a stone
+(7, 11, D:3)
+  a +0 club
+(11, 39, D:3)
+  a javelin
+(11, 46, D:3)
+  a javelin
+  a +0 leather armour
+(12, 45, D:3)
+  a +0 robe
+(17, 23, D:3)
+  a +0 robe
+(21, 39, D:3)
+  a +0 club
+(25, 6, D:3)
+  a +0 war axe
+(44, 3, D:3)
+  19 stones
+(45, 38, D:3)
+  a +0 falchion
+
+Level 4 of the Dungeon
+[Shop] Oruomoik's Antique Armour Emporium
+  a +0 robe (14 gold)
+  a +0 ring mail (84 gold)
+  a +0 large shield (94 gold)
+  a +0 ring mail (84 gold)
+  a +1 pair of boots (241 gold)
+  a +0 robe (14 gold)
+  a +0 scale mail (84 gold)
+  a +1 ring mail of fire resistance (336 gold)
+  a +0 scale mail (84 gold)
+  the +2 leather armour of the Peculiar People {*Drain MR++ MP+9} (854 gold)
+    It affects your resistance to hostile enchantments.
+    It affects your magic capacity (+9).
+    It causes draining when unequipped.
+(0, 0, D:4)
+  a +0 dagger
+  a +0 robe
+(6, 6, D:4)
+  a +0 giant spiked club
+(7, 5, D:4)
+  a +0 dagger
+  a +0 robe
+(13, 1, D:4)
+  a +0 dagger
+(16, -19, D:4)
+  a +2 vampiric short sword
+(16, 1, D:4)
+  a +1 flail of crushing
+  a +0 leather armour
+(17, -19, D:4)
+  a +0 club
+(17, -18, D:4)
+  a +0 dagger
+  a +0 robe
+  a +3 flail
+  a +0 ring mail
+(20, -29, D:4)
+  a +0 short sword
+(35, -15, D:4)
+  a cursed -1 hunting sling
+(36, -16, D:4)
+  a cursed +0 pair of boots
+(38, -13, D:4)
+  a +0 club
+(38, -12, D:4)
+  a +0 short sword
+  a +0 animal skin
+  a +0 helmet
+  a cursed +0 club
+(40, -24, D:4)
+  18 bolts
+(40, -12, D:4)
+  12 poisoned needles
+(42, -7, D:4)
+  a +0 dagger
+  a +0 dagger
+(43, -8, D:4)
+  2 stones
+(43, -7, D:4)
+  a +0 club
+  a +1 dagger of venom
+(43, -5, D:4)
+  a stone
+  a +0 club
+(43, -4, D:4)
+  a +0 hunting sling
+  a +0 club
+  17 stones
+(45, -3, D:4)
+  21 stones
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 mace
+(2, 12, D:5)
+  a +0 shortbow
+(4, -2, D:5)
+  a +0 robe
+(11, -33, D:5)
+  13 sling bullets
+(26, -1, D:5)
+  a +0 ring mail
+(30, 2, D:5)
+  12 stones
+(32, -25, D:5)
+  a +0 spear
+(32, 16, D:5)
+  a +0 giant club
+(34, -13, D:5)
+  a +0 dagger
+  a +0 robe
+(34, -3, D:5)
+  a +0 robe
+(42, -2, D:5)
+  7 sling bullets
+(53, -21, D:5)
+  a +0 short sword
+(54, 5, D:5)
+  a +0 dagger
+  a +0 robe
+(56, 5, D:5)
+  a +0 shortbow
+
+Level 6 of the Dungeon
+(1, 33, D:6)
+  a +0 centaur barding
+(4, 29, D:6)
+  a +0 scale mail
+(8, 37, D:6)
+  a scarf of cloud immunity
+(11, 33, D:6)
+  a +0 short sword
+(11, 34, D:6)
+  a +0 long sword
+  a +0 plate armour
+  a +0 dagger
+  a +0 robe
+(11, 35, D:6)
+  a +0 club
+  a +0 leather armour
+(12, 4, D:6)
+  12 stones
+(15, 5, D:6)
+  a +0 pair of gloves
+(21, -8, D:6)
+  a +0 club
+(28, -13, D:6)
+  19 stones
+(33, 7, D:6)
+  14 stones
+(35, 39, D:6)
+  a +2 helmet
+(40, -18, D:6)
+  24 bolts
+(40, 3, D:6)
+  a +0 hand axe
+(42, -12, D:6)
+  27 stones
+(47, 15, D:6)
+  25 sling bullets
+(50, -16, D:6)
+  a book of Changes
+
+Level 7 of the Dungeon
+(20, -20, D:7)
+  16 poisoned needles
+(22, 8, D:7)
+  a +0 giant spiked club
+(24, 12, D:7)
+  a +0 rapier
+(31, -23, D:7)
+  a +0 leather armour
+(37, 17, D:7)
+  18 stones
+(41, 8, D:7)
+  a +0 rapier
+(46, -9, D:7)
+  14 sling bullets
+(52, 5, D:7)
+  a +0 shortbow
+(56, -18, D:7)
+  a +0 robe of fire resistance
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +3 trident of piercing (still there?)
+  a +2 pair of boots of stealth (still there?)
+(1, 0, D:8)
+  a potion of heal wounds
+  a gnoll corpse
+(6, 2, D:8)
+  17 poisoned needles
+(9, -4, D:8)
+  a jackal corpse
+  a jackal corpse
+  a jackal corpse
+  a water moccasin skeleton
+(17, -8, D:8)
+  a scarf of repulsion
+(23, 2, D:8)
+  18 sling bullets
+

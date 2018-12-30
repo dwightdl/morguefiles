@@ -1,0 +1,182 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+18 quit the Firebug (level 2, 6/19 HPs)
+             Began as a Demonspawn Fire Elementalist on Dec 26, 2018.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:34 (731 turns).
+
+quit the Firebug (Demonspawn Fire Elementalist)      Turns: 731, Time: 00:01:34
+
+Health: 6/19       AC:  2    Str:  8    XL:     2   Next: 48%
+Magic:  0/5        EV: 12    Int: 16    God:    
+Gold:   39         SH:  0    Dex: 13    Spells: 4/5 levels left
+
+rFire    . . .     SeeInvis .   b - -3 dagger (curse)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: powered by death 1
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 39 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ b - a cursed -3 dagger (weapon)
+ f - a +3 dagger
+Armour
+ a - a +0 robe (worn)
+Potions
+ d - a potion of flight
+ e - a potion of lignification {unknown}
+Comestibles
+ c - 2 rations
+
+
+   Skills:
+ - Level 1.7 Dodging
+ - Level 1.7 Stealth
+ + Level 2.3 Spellcasting
+ + Level 1.6 Conjurations
+ + Level 3.0 Fire Magic
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      #....        8%          1    #......
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Throw Flame              Conj/Fire      #.....       12%         2    ###....
+ Conjure Flame            Conj/Fire      #.......     24%         3    ###....
+ Inner Flame              Hex/Fire       #.......     32%         3    ###....
+ Sticky Flame             Conj/Fire      #.......     61%         4    #####..
+ Fireball                 Conj/Fire      #.........   91%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You regenerate a little health from kills.
+
+
+Message History
+
+The flame tongue misses the ball python.
+The flame tongue hits the kobold.
+The kobold is severely wounded.
+The ball python misses you. The ball python grabs you. The ball python
+You escape the ball python's grasp.
+The ball python bites you but does no damage.
+The ball python grabs you. The ball python constricts you.
+You escape the ball python's grasp.
+A hobgoblin comes into view. It is wielding a club.
+You closely miss the kobold.
+The kobold is severely wounded.
+The kobold hits you.
+You closely miss the kobold.
+The kobold is severely wounded.
+The hobgoblin shouts!
+The kobold barely misses you.
+You hit the kobold but do no damage.
+The kobold is severely wounded.
+The kobold hits you.
+Are you sure you want to abandon this character and return to the main menu?
+
+ #..####.########...########.##########
+ #..#  #.#8###8##...##8###8#.#
+ #..####.....................#        #
+ #..##.#.....................#        #
+##..##.#.....................#        #
+#......#.#8###8###}###8###8###        #
+###.##.#[####### ####### ###        ###
+  #....#.....# #####.#.###.##       #..
+  ############ #............#       #.#
+              ##............#########.#
+        #######.............#..........
+        ....................#..........
+        ....................#...#..#..#
+        .......S.#####)####.#........00
+        #######K##   #)#    #<.......08
+              #@######%###  #........~0
+        .................#  #...#..#.0#
+        ########.........#  #..........
+               #..g......#  #..........
+               #.........##.#########.#
+               #.......................
+               #.........########..#.#.
+               #.........######.%.>..#.
+               .................##.###.
+               .#...............##.# #.
+                ##...####.......##.# #.
+                 #...   #.......##.# #.
+                 #...  .........##.# #.
+                 #..  ..........##.# #.
+                     ...........##.# #)
+
+
+You could see a hobgoblin, a ball python and a kobold.
+
+Vanquished Creatures
+  4 goblins (D:1)
+  A hobgoblin (D:1)
+  3 jackals (D:1)
+  A frilled lizard (D:1)
+  2 kobolds (D:1)
+  6 rats (D:1)
+17 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | quit the Demonspawn Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   394 | D:1      | Gained mutation: You regenerate a little health from kills.
+                  | [demonic ancestry]
+   394 | D:1      | Reached XP level 2. HP: 19/19 MP: 1/5
+   695 | D:1      | Reached skill level 3 in Fire Magic
+   731 | D:1      | Quit the game
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Fire Magic     |     3 |  3.0
+Dodging        |       |  1.7
+Stealth        |       |  1.7
+Spellcasting   |       |  2.3
+Conjurations   |       |  1.6
+
+Action                   || total
+-------------------------++-------
+Melee: Dagger            ||    49
+ Cast: Flame Tongue      ||    22
+  Use: Scroll            ||     5
+ Stab: Sleeping          ||     1
+Armor: Robe              ||    11
+Dodge: Dodged            ||    37
+

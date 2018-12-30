@@ -1,0 +1,327 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+2690 ok the Arsonist (level 9, -10/57 HPs)
+             Began as a Human Fire Elementalist on Dec 26, 2018.
+             Was a Follower of Vehumet.
+             Shot with a sling bullet by Joseph (16 damage)
+             ... on level 7 of the Dungeon.
+             The game lasted 00:16:49 (7922 turns).
+
+ok the Arsonist (Human Fire Elementalist)           Turns: 7922, Time: 00:16:50
+
+Health: -10/57     AC:  5    Str:  8      XL:     9   Next: 96%
+Magic:  19/19      EV: 11    Int: 19      God:    Vehumet [*.....]
+Gold:   161        SH:  2    Dex: 11 (14) Spells: 7/22 levels left
+
+rFire    + . .     SeeInvis .   G - +2 falchion (holy)
+rCold    + . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   q - +0 leather armour {MR+}
+rPois    .         Spirit   .   t - +0 helmet
+rElec    .         Reflect  +   l - scarf {rC+ rF+}
+rCorr    .         Harm     .   u - +0 pair of gloves
+MR       +....                  (no boots)
+Stlth    ++........             n - +2 amulet of reflection
+HPRegen  0.19/turn              w - ring of wizardry
+MPRegen  0.16/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 7 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was aware of your devotion.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 8 of its levels.
+
+You collected 232 gold pieces.
+You spent 71 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ G - a +2 falchion of holy wrath (weapon)
+Armour
+ b - a +2 robe of positive energy
+ l - a scarf of resistance (worn)
+ q - a +0 leather armour of magic resistance (worn)
+ t - a +0 helmet (worn)
+ u - a +0 pair of gloves (worn)
+ C - a +0 cloak
+Jewellery
+ j - an uncursed amulet of regeneration
+ n - a +2 amulet of reflection (around neck)
+ w - a ring of wizardry (left hand)
+Wands
+ z - a wand of random effects (61)
+ A - a wand of acid (9)
+Scrolls
+ a - a scroll of fear
+ e - 2 scrolls of noise
+ m - 4 scrolls of teleportation
+ p - 6 scrolls of remove curse
+ s - a scroll of blinking {unknown}
+ v - 2 scrolls of magic mapping
+ x - a scroll of fog
+ y - 2 scrolls of enchant armour
+ D - 2 scrolls of immolation
+ F - a scroll of enchant weapon {unknown}
+Potions
+ f - a potion of haste
+ g - 2 potions of degeneration {unknown}
+ h - 2 potions of lignification
+ i - 2 potions of agility {unknown}
+ k - 5 potions of curing
+ r - a potion of invisibility {unknown}
+ B - 2 potions of heal wounds {unknown}
+Comestibles
+ c - 8 rations
+
+
+   Skills:
+ - Level 2.0 Dodging
+ - Level 2.0 Stealth
+ + Level 7.0 Spellcasting
+ + Level 7.5 Conjurations
+ + Level 8.1 Fire Magic
+
+
+You had 7 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      #####        1%          1    None
+b - Throw Flame           Conj/Fire      #####.       1%          2    None
+c - Conjure Flame         Conj/Fire      #####...     1%          3    #......
+d - Sticky Flame          Conj/Fire      #####...     2%          4    ###....
+e - Fireball              Conj/Fire      #####.....   7%          5    #####..
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Shock                    Conj/Air       ###.         1%          1    None
+ Inner Flame              Hex/Fire       ###.....     3%          3    #......
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (1/1) D:6         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:4 ?
+
+Annotations:
+D:7 Joseph
+
+Message History
+
+As you read the scroll of teleportation, it crumbles to dust.
+You feel strangely unstable. You feel sick. The killer bee closely misses you.
+The killer bee is lightly wounded.
+The killer bee stings you but does no damage.
+You feel sick.
+Found a glowing long sword.
+The killer bee barely misses you.
+You see here 4 gold pieces.
+You feel sick. The killer bee closely misses you.
+Your surroundings suddenly seem different.
+You feel sick.
+You start resting. You feel sick. x7
+You are no longer poisoned.
+You start resting.
+The sentinel's mark upon you fades away.
+You start resting.
+Joseph is too close now for your liking.
+Okay, then.
+Joseph shoots a sling bullet. The sling bullet hits you!
+You die...
+
+                        ###############
+                        #.............#
+                        #.###########.#
+                        #.#         #.#
+#####                   #.#         #.#
+....#                   #.#         #.#
+....#              ######.###########.#
+....###            #..........[.......#
+......##############.###@##############
+...............[.....@...............
+.......#############.###.#.##.##.###
+.........#   #######@# #.#.##.# .#
+.#####.#.#   #.......# #.#.##.##.#
+.#   #.#.#   #.####### #.#.##....##
+.#   #.#.#   #.#       #.#........###
+.#   #.#.#   #.#       #.###..........
+.# ###.#.#####.#       #......###.####
+)###...#.......####    #####..###.#
+>)................#        #......#    #########
+.#.......########.##########...#########........
+.#######.#  #.............(.....[....).).#######
+.).....#.####.###..##########...######.#.#
+#####)......#.# ##........# #...#    #.#.#
+
+
+You could see Joseph.
+
+Vanquished Creatures
+  Pikel (D:5)
+  Prince Ribbit (D:5)
+  Grinder (D:2)
+  3 slaves (D:5)
+  A black bear (D:7)
+  A necrophage (D:7)
+  A sky beast (D:6)
+  2 ogres
+  A centaur (D:6)
+  5 bullfrogs
+  2 scorpions
+  3 crimson imps
+  A quasit (D:7)
+  2 orc priests
+  5 orc wizards
+  Crazy Yiuf (D:5)
+  A hound (D:5)
+  A jelly (D:7)
+  Ijyb (D:5)
+  5 worker ants
+  An iguana (D:4)
+  A killer bee zombie (D:5)
+  A hound zombie (D:6)
+  A hound skeleton (D:6)
+  8 gnolls
+  10 adders
+  2 shadow imps
+  2 worms (D:3)
+  4 leopard geckos
+  21 orcs
+  5 giant cockroaches
+  6 goblins
+  8 hobgoblins
+  2 jackals (D:2)
+  3 kobolds
+  3 quokkas
+  4 ball pythons
+  8 bats
+  6 frilled lizards
+  A quokka zombie (D:6)
+  12 rats
+148 creatures vanquished.
+
+Vanquished Creatures (others)
+  A howler monkey (D:5)
+  2 jellies (D:5)
+  A leopard gecko (D:5)
+4 creatures vanquished.
+
+Grand Total: 152 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | ok the Human Fire Elementalist began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   244 | D:1      | Reached XP level 2. HP: 17/19 MP: 0/5
+   769 | D:2      | Found a bloodstained altar of Trog.
+   769 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+   770 | D:2      | Found a shimmering altar of Xom.
+   771 | D:2      | Found a basalt altar of Yredelemnul.
+   771 | D:2      | Found an ancient bone altar of Kikubaaqudgha.
+   771 | D:2      | Found a snail-covered altar of Cheibriados.
+  1038 | D:2      | Reached XP level 3. HP: 24/24 MP: 4/6
+  1101 | D:2      | Learned a level 2 spell: Throw Flame
+  1105 | D:2      | Learned a level 3 spell: Conjure Flame
+  1726 | D:3      | Reached XP level 4. HP: 30/30 MP: 1/7
+  2067 | D:3      | Reached XP level 5. HP: 35/35 MP: 2/9
+  2239 | D:3      | Reached skill level 4 in Fire Magic
+  2371 | D:2      | HP: 1/35 [poisoned by an adder]
+  3043 | D:3      | Noticed Grinder
+  3053 | D:3      | Reached XP level 6. HP: 41/41 MP: 11/11
+  3079 | D:2      | Killed Grinder
+  3079 | D:2      | Reached XP level 7. HP: 44/46 MP: 2/13
+  3271 | D:4      | Reached skill level 5 in Fire Magic
+  3293 | D:4      | Learned a level 4 spell: Sticky Flame
+  4116 | D:4      | Found Huqehid's Magic Scroll Boutique.
+  4128 | D:4      | Bought a scroll of magic mapping for 45 gold pieces
+  4128 | D:4      | Bought a scroll of fog for 26 gold pieces
+  4265 | D:4      | Found a glowing silver altar of Zin.
+  4267 | D:4      | Found a shadowy altar of Dithmenos.
+  4269 | D:4      | Found a white marble altar of Elyvilon.
+  4517 | D:5      | Entered Level 5 of the Dungeon
+  4556 | D:5      | Noticed Prince Ribbit
+  4565 | D:5      | Killed Prince Ribbit
+  4565 | D:5      | Reached skill level 5 in Spellcasting
+  4565 | D:5      | Reached skill level 5 in Conjurations
+  4565 | D:5      | Reached XP level 8. HP: 33/52 MP: 2/15
+  4748 | D:5      | Noticed Ijyb
+  4773 | D:5      | Reached skill level 6 in Fire Magic
+  4932 | D:5      | Learned a level 5 spell: Fireball
+  4936 | D:5      | Noticed Pikel
+  4957 | D:5      | Killed Pikel
+  5086 | D:5      | Found a runed door.
+  5329 | D:5      | Killed Ijyb
+  5329 | D:5      | Reached XP level 9. HP: 57/57 MP: 7/17
+  5617 | D:5      | Noticed Crazy Yiuf
+  5620 | D:5      | Killed Crazy Yiuf
+  5764 | D:6      | Found a staircase to the Ecumenical Temple.
+  5855 | Temple   | Entered the Ecumenical Temple
+  5900 | Temple   | Became a worshipper of Vehumet
+  6117 | D:6      | Reached skill level 7 in Fire Magic
+  6492 | D:6      | Found a burning altar of Makhleb.
+  6492 | D:6      | Found a hide-covered altar of Uskayaw.
+  6493 | D:6      | Found a shattered altar of Ashenzari.
+  7473 | D:7      | Reached * piety under Vehumet
+  7473 | D:7      | Offered knowledge of Shock by Vehumet.
+  7500 | D:7      | Reached skill level 8 in Fire Magic
+  7853 | D:7      | Noticed Joseph
+  7922 | D:7      | Shot with a sling bullet by Joseph
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Conjurations   |        2     3     5  6  7 |  7.5
+Spellcasting   |              3  4  5     7 |  7.0
+Fire Magic     |              4     5  6  8 |  8.1
+Dodging        |                            |  2.0
+Stealth        |                            |  2.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Dagger            |    57 |    54 |    85 ||   196
+       Falchion          |       |       |    52 ||    52
+ Cast: Flame Tongue      |    30 |    37 |   124 ||   191
+       Throw Flame       |     4 |     7 |    33 ||    44
+       Conjure Flame     |       |     1 |     3 ||     4
+       Sticky Flame      |       |       |    19 ||    19
+  Use: Potion            |       |     1 |       ||     1
+       Scroll            |       |       |    10 ||    10
+ Stab: Sleeping          |     7 |     1 |     5 ||    13
+  Eat: Chunk             |     3 |     4 |    19 ||    26
+Armor: Robe              |    13 |     1 |       ||    14
+       Leather armour    |       |    22 |    62 ||    84
+Dodge: Dodged            |    24 |    65 |   137 ||   226
+Block: Other             |       |       |    15 ||    15
+Rpst.: Falchion          |       |       |    21 ||    21
+

@@ -1,0 +1,227 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+303 quit the Firebug (level 6, -3/32 HPs)
+             Began as a Tengu Fire Elementalist on Dec 26, 2018.
+             Slain by an orc
+             ... wielding a +0 whip
+              (7 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:05:37 (3043 turns).
+
+quit the Firebug (Tengu Fire Elementalist)          Turns: 3043, Time: 00:05:38
+
+Health: -3/32      AC:  2    Str:  9    XL:     6   Next: 38%
+Magic:  12/12      EV: 12    Int: 17    God:    
+Gold:   108        SH:  0    Dex: 14    Spells: 6/12 levels left
+
+rFire    . . .     SeeInvis .   d - +9 club
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.10/turn              (no ring)
+MPRegen  0.13/turn              (no ring)
+
+@: no status effects
+A: beak, talons 3, able to fly 1
+a: Fly
+
+
+You were on level 5 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 108 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ d - a +9 club (weapon)
+Armour
+ a - a +0 robe (worn)
+ m - a +0 leather armour
+Jewellery
+ h - an uncursed amulet of regeneration {unknown}
+ n - a +3 ring of evasion {unknown}
+Scrolls
+ f - 3 scrolls of teleportation {unknown}
+ o - a scroll of noise {unknown}
+Potions
+ e - a potion of haste {unknown}
+ g - 2 potions of curing {unknown}
+ i - a potion of degeneration {unknown}
+ j - a potion of might {unknown}
+ k - 2 potions of lignification {unknown}
+ l - a potion of ambrosia {unknown}
+Comestibles
+ b - a chunk of flesh
+ c - 4 rations
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 3.8 Spellcasting
+ + Level 4.7 Conjurations
+ + Level 5.1 Fire Magic
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      ###..        2%          1    None
+b - Throw Flame           Conj/Fire      ###...       3%          2    ##.....
+c - Conjure Flame         Conj/Fire      ###.....     6%          3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Inner Flame              Hex/Fire       ##......     17%         3    ###....
+ Sticky Flame             Conj/Fire      ###.....     22%         4    ####...
+ Blink                    Tloc           N/A          24%         2    ##.....
+ Fireball                 Conj/Fire      ###.......   52%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Cheibriados
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+You can fly.
+
+
+Message History
+
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+The orc wizard hits you with a dagger.
+You hit the orc wizard but do no damage.
+You claw the orc wizard. Your peck misses the orc wizard.
+The orc wizard is moderately wounded.
+The orc wizard closely misses you. The orc barely misses you. x2
+You sock the orc wizard!
+The orc wizard is almost dead.
+The orc wizard hits you with a dagger.
+The orc wizard casts a spell at you.
+The magic dart hits you!
+* * * LOW HITPOINT WARNING * * *
+The orc hits you with a whip.
+* * * LOW HITPOINT WARNING * * *
+The orc barely misses you. The orc wizard hits you with a dagger.
+* * * LOW HITPOINT WARNING * * *
+Okay, then.
+The orc hits you with a whip!
+You die...
+
+       ... #....##.
+    .......#.......
+    .......#.......
+     #....>......#
+..#+##..........#
+................#
+................##
+  ...............#
+ ###.#...........#
+ #..................#
+ #.#..............#...
+ #.....########....[..
+ ###..@## ............
+   #.oo.#.............
+   #..o)#.............
+   #......o.... .....
+   #...........
+   +.#........#
+   +.#........#
+   +.##.......#
+   #. #.....>.#
+      .........
+      .........
+      .........
+
+
+You could see an orc wizard and 2 orcs.
+
+Vanquished Creatures
+  Sigmund (D:2)
+  Jessica (D:2)
+  Robin (D:2)
+  An ooze (D:2)
+  A worm (D:2)
+  6 leopard geckos
+  9 orcs
+  11 bats
+  4 giant cockroaches
+  14 goblins
+  8 hobgoblins
+  4 jackals (D:3)
+  6 kobolds
+  A quokka (D:2)
+  A ball python (D:2)
+  5 frilled lizards
+  7 rats
+81 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | quit the Tengu Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   396 | D:1      | Reached XP level 2. HP: 15/15 MP: 4/6
+   773 | D:1      | Reached XP level 3. HP: 19/19 MP: 4/7
+  1191 | D:2      | Learned a level 2 spell: Throw Flame
+  1195 | D:2      | Learned a level 3 spell: Conjure Flame
+  1325 | D:2      | Noticed Jessica
+  1344 | D:2      | Killed Jessica
+  1344 | D:2      | Reached skill level 4 in Fire Magic
+  1344 | D:2      | Reached XP level 4. HP: 14/24 MP: 0/9
+  1360 | D:2      | Identified Jessica's Catalogue of Translocation
+  1640 | D:2      | Noticed Robin
+  1645 | D:2      | Killed Robin
+  2203 | D:2      | Noticed Sigmund
+  2222 | D:2      | Killed Sigmund
+  2222 | D:2      | Reached skill level 5 in Fire Magic
+  2222 | D:2      | Gained mutation: You can fly. [Tengu growth]
+  2222 | D:2      | Reached XP level 5. HP: 11/28 MP: 9/11
+  2222 | D:2      | Reached XP level 6. HP: 12/32 MP: 9/12
+  2850 | D:3      | Found a snail-covered altar of Cheibriados.
+  3020 | D:3      | You fall through a shaft for 2 floors!
+  3020 | D:5      | Entered Level 5 of the Dungeon
+  3043 | D:5      | Slain by an orc
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Conjurations   |     2  3  4 |  4.7
+Fire Magic     |        4  5 |  5.1
+Spellcasting   |           3 |  3.8
+Dodging        |             |  2.1
+Stealth        |             |  2.0
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Dagger            |    11 |       ||    11
+       Kick              |     4 |    13 ||    17
+       Hand axe          |     9 |       ||     9
+       Club              |       |    76 ||    76
+       Peck              |       |     7 ||     7
+ Cast: Flame Tongue      |    49 |    10 ||    59
+       Conjure Flame     |     1 |     1 ||     2
+       Throw Flame       |     1 |       ||     1
+ Stab: Sleeping          |       |     6 ||     6
+  Eat: Chunk             |     1 |     7 ||     8
+Armor: Robe              |     6 |     9 ||    15
+Dodge: Dodged            |    29 |    55 ||    84
+

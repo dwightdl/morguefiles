@@ -1,0 +1,203 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+49 am5k the Caller (level 3, 0/19 HPs)
+             Began as a Tengu Summoner on Dec 23, 2018.
+             Slain by a ball python (1 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:03:57 (2129 turns).
+
+am5k the Caller (Tengu Summoner)                    Turns: 2129, Time: 00:03:57
+
+Health: 0/19       AC:  3    Str:  8    XL:     3   Next: 77%
+Magic:  8/8        EV:  9    Int: 16    God:    
+Gold:   99         SH:  0    Dex: 14    Spells: 4/8 levels left
+
+rFire    . . .     SeeInvis .   d - +0 hand axe
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   n - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.11/turn              (no ring)
+
+@: lethally poisoned (0 -> -6), constricted
+A: beak, talons 3
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 99 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ d - a +0 hand axe (weapon)
+Armour
+ a - a +0 robe (worn)
+ n - a +0 cloak (worn)
+Jewellery
+ g - a +4 ring of intelligence {unknown}
+Scrolls
+ b - a scroll of blinking {unknown}
+ e - a scroll of remove curse {unknown}
+ f - 3 scrolls of fog {unknown}
+ h - a scroll of random uselessness {unknown}
+ j - a scroll of enchant weapon {unknown}
+Potions
+ i - a potion of lignification {unknown}
+ k - 2 potions of resistance {unknown}
+Comestibles
+ c - 5 rations
+ m - 3 chunks of flesh
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 3.0 Spellcasting
+ + Level 5.7 Summonings
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Summon Small Mammal   Summ           ###.         1%          1    #......
+b - Call Canine Familiar  Summ           ###.....     5%          3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Call Imp                 Summ           ###.....     2%          2    ##.....
+ Summon Guardian Golem    Hex/Summ       ##......     17%         3    ###....
+ Summon Ice Beast         Ice/Summ       ##......     50%         4    #####..
+ Summon Lightning Spire   Summ/Air       ##......     50%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Ashenzari
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+
+
+Message History
+
+The ball python bites you but does no damage.
+The ball python grabs you. The ball python constricts you. The adder bites you.
+You closely miss the ball python. Your kick misses the ball python.
+The ball python is severely wounded.
+You miss the adder.
+The ball python bites you but does no damage.
+The ball python constricts you. The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+You are lethally poisoned!
+The adder poisons you!
+The ball python bites you but does no damage.
+* * * LOW HITPOINT WARNING * * *
+The ball python constricts you. The adder bites you but does no damage.
+You barely miss the ball python. Your kick misses the ball python. Your peck
+The ball python is severely wounded.
+You hit the adder.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+The ball python bites you but does no damage.
+You die...
+
+                 ....#
+                 #.#.#####
+                ##.....!.
+                #..$....#
+                #.......#
+                #.......#
+                #..SS...#
+                #...@...#
+                #.......#
+                ###..####
+ .#.###        ####..####
+ ...... ..     +....>...#
+###.... .      #####)####
+.......#.#+# #.#####.####
+.........#.# #......(...#
+........##.#########.####
+ .......##%..........#
+    #.....)..........#
+    #...^###........##
+    #.##.# #.##.....#
+    #..<.# #.##.....#
+    ####...#.##.....#
+
+
+You could see an adder and a ball python.
+
+Vanquished Creatures
+  2 adders
+  2 worms (D:2)
+  A dart slug (D:1)
+  A leopard gecko (D:3)
+  A giant cockroach (D:2)
+  2 goblins
+  A hobgoblin (D:3)
+  A quokka (D:2)
+  5 bats
+  A frilled lizard (D:1)
+  4 kobolds
+  4 rats
+25 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A worm (D:2)
+  A kobold (D:2)
+  A bat (D:3)
+3 creatures vanquished.
+
+Grand Total: 28 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | am5k the Tengu Summoner began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   334 | D:1      | Noticed a bullfrog
+   375 | D:1      | Reached skill level 5 in Summonings
+   532 | D:1      | Reached XP level 2. HP: 14/15 MP: 6/6
+  1142 | D:2      | Reached XP level 3. HP: 12/19 MP: 2/8
+  1180 | D:2      | Learned a level 3 spell: Call Canine Familiar
+  1613 | D:2      | Found a shattered altar of Ashenzari.
+  2129 | D:3      | Slain by a ball python
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Summonings     |  5       |  5.7
+Spellcasting   |        3 |  3.0
+Dodging        |          |  2.1
+Stealth        |          |  2.0
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    13
+       Hand axe          ||    54
+       Kick              ||    13
+       Peck              ||     4
+ Cast: Summon Small Mamm ||    13
+       Call Canine Famil ||     3
+  Use: Potion            ||     2
+  Eat: Chunk             ||     4
+Armor: Robe              ||    32
+Dodge: Dodged            ||    70
+

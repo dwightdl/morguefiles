@@ -1,0 +1,130 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+0 am5k the Caller (level 1, 10/10 HPs)
+             Began as a Tengu Summoner on Dec 22, 2018.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:42 (3 turns).
+
+am5k the Caller (Tengu Summoner)                       Turns: 3, Time: 00:00:42
+
+Health: 10/10      AC:  2    Str:  8    XL:     1   Next: 0%
+Magic:  4/4        EV: 12    Int: 15    God:    
+Gold:   0          SH:  0    Dex: 14    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: beak, talons 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 2.0 Spellcasting
+ + Level 4.8 Summonings
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Summon Small Mammal   Summ           ###.         3%          1    #......
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Call Imp                 Summ           ###.....     4%          2    ###....
+ Call Canine Familiar     Summ           ###.....     9%          3    ###....
+ Summon Guardian Golem    Hex/Summ       #.......     26%         3    ###....
+ Summon Ice Beast         Ice/Summ       #.......     63%         4    #####..
+ Summon Lightning Spire   Summ/Air       #.......     63%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+
+
+Message History
+
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call
+Welcome back, am5k the Tengu Summoner.
+Press ? for a list of commands and other information.
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call
+Enter note: 
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call
+Unknown command.
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call
+There is a dry fountain here.
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call
+Enter note: 
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call
+Unknown command.
+Lua error: [string "/usr/share/crawl/settings/init.txt"]:8: attempt to call
+Are you sure you want to abandon this character and return to the main menu?
+
+      #+#
+      #.#
+      #.#
+      #.#
+     ##.##
+    ##...##
+   ##..}..##
+####...@...####
+.....}.<.}.....
+####.......####
+   ##..}..##
+    ##...##
+     ##.##
+      #.#
+      #.#
+      #[#
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | am5k the Tengu Summoner began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+     3 | D:1      | Quit the game
+

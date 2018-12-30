@@ -1,0 +1,278 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+1001 ok the Conjurer (level 8, 0/41 HPs)
+             Began as a Tengu Fire Elementalist on Dec 26, 2018.
+             Slain by a bullfrog skeleton (6 damage)
+             ... on level 6 of the Dungeon.
+             The game lasted 00:13:12 (6496 turns).
+
+ok the Conjurer (Tengu Fire Elementalist)           Turns: 6496, Time: 00:13:13
+
+Health: 0/41       AC:  2    Str:  8    XL:     8   Next: 20%
+Magic:  3/16       EV: 15    Int: 17    God:    
+Gold:   254        SH:  0    Dex: 16    Spells: 7/17 levels left
+
+rFire    . . .     SeeInvis .   o - +2 falchion (holy)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.13/turn              (no ring)
+MPRegen  0.15/turn              (no ring)
+
+@: flying quickly and evasively (expiring), drained, quick
+A: beak, talons 3, able to fly 1
+a: no special abilities
+
+
+You were on level 6 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 6 of its levels.
+
+You collected 254 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ o - a +2 falchion of holy wrath (weapon)
+ t - a +1 mace of protection
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ f - an uncursed ring of protection from magic {unknown}
+ m - a cursed -5 ring of dexterity {unknown}
+ q - an uncursed ring of see invisible {unknown}
+ r - a cursed ring of attention {unknown}
+ u - a +5 ring of evasion {unknown}
+ x - an uncursed amulet of the gourmand {unknown}
+Wands
+ y - a wand of flame (13)
+Scrolls
+ d - 2 scrolls of enchant armour
+ l - 4 scrolls of remove curse
+ v - 2 scrolls of magic mapping
+ w - a scroll of teleportation
+Potions
+ e - a potion of haste {unknown}
+ g - a potion of invisibility {unknown}
+ h - 2 potions of curing
+ i - 2 potions of resistance {unknown}
+ j - 2 potions of brilliance {unknown}
+ k - 2 potions of heal wounds {unknown}
+ n - a potion of magic {unknown}
+ p - a potion of lignification {unknown}
+ s - a potion of flight {unknown}
+ A - a potion of agility {unknown}
+Comestibles
+ b - a chunk of flesh
+ c - 11 rations
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0(1.9) Stealth
+ + Level 5.2 Spellcasting
+ + Level 7.0 Conjurations
+ + Level 6.7 Fire Magic
+
+
+You had 7 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      ####.        1%          1    None
+b - Throw Flame           Conj/Fire      ####..       1%          2    #......
+c - Conjure Flame         Conj/Fire      ####....     2%          3    ###....
+d - Sticky Flame          Conj/Fire      ####....     9%          4    ####...
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Throw Frost              Conj/Ice       ###...       4%          2    #......
+ Inner Flame              Hex/Fire       ###.....     11%         3    ###....
+ Freeze                   Ice            #...         14%         1    None
+ Fireball                 Conj/Fire      ####......   22%         5    ######.
+ Throw Icicle             Conj/Ice       ###.....     32%         4    ####...
+ Ozocubu's Armour         Chrm/Ice       #.......     38%         3    ###....
+ Summon Ice Beast         Ice/Summ       #.......     80%         4    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)            
+Temple: D:4-7       
+
+Altars:
+Ashenzari
+Kikubaaqudgha
+
+Shops:
+D:6 %
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+You can fly.
+
+
+Message History
+
+The flame tongue hits the hound.
+The hound is severely wounded.
+The hound closely misses you.
+Casting: Flame Tongue (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't have enough magic to cast that spell.
+Unknown command.
+Casting: Flame Tongue (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Flame Tongue (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - hound
+Aim: a hound (severely wounded)
+The flame tongue hits the hound.
+You kill the hound!
+Your Conjurations skill increases to level 7!
+The bullfrog skeleton hits you.
+* * * LOW HITPOINT WARNING * * *
+You are starting to lose your buoyancy.
+The bullfrog skeleton hits you.
+You die...
+
+.###################.........#.............#....
+.......#...........#.........#...###..##'###....
+...<...#...........#......##########..#.........
+.......#..........(#......#       ....'.........
+.##....##..........+......#      .....#.........
+.########...##.....#......#      .....#.........
+............##.....#......#############.........
+............+......###'##...................#'##
+....>..##...##..........#...................#...
+##############..........#...................#...
+             #.....##...+...................# ..
+             #.....##...#..........o........#
+            .......##...#..........oo....o..####
+           ........####+##########'##...........
+          ..........#....#..........#.Z.........
+          ..........+...@#..........#...........
+                    #...Z#..........#...........
+                   ##....#..........#...........
+                   #.....#..........#...........
+                   #.....#..Z.......#..\........
+                   #.....#..........#...........
+                   ##....##.##.######...........
+                    #....##.##.# #............##
+                    #........#.. #............#
+                    #........#...'............#
+                    #........#...#............#
+                    #######.... .#............#
+                          ..#### #######......#
+                          ..#          #......#
+                          ..#          #...!..#
+
+
+You could see a bullfrog skeleton.
+
+Vanquished Creatures
+  Sigmund (D:2)
+  2 ogres
+  A bullfrog (D:6)
+  4 wights (D:6)
+  A centaur zombie (D:6)
+  A hound (D:6)
+  2 orc priests
+  Terence (D:2)
+  2 worker ants
+  6 adders
+  8 gnolls
+  An ooze (D:4)
+  An adder skeleton (D:5)
+  4 worms
+  3 dart slugs
+  3 leopard geckos
+  6 orcs
+  7 bats
+  5 giant cockroaches
+  3 goblins (D:1)
+  8 hobgoblins
+  5 jackals (D:2)
+  3 quokkas
+  4 ball pythons
+  5 frilled lizards
+  19 kobolds
+  8 rats
+114 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 plants (D:3)
+2 creatures vanquished.
+
+Grand Total: 116 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | ok the Tengu Fire Elementalist began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   144 | D:1      | Reached skill level 2 in Conjurations
+   144 | D:1      | Reached XP level 2. HP: 15/15 MP: 3/6
+   705 | D:1      | Reached XP level 3. HP: 19/19 MP: 5/7
+  1151 | D:2      | Learned a level 2 spell: Throw Flame
+  1155 | D:2      | Learned a level 3 spell: Conjure Flame
+  1229 | D:2      | Reached skill level 3 in Conjurations
+  1229 | D:2      | Reached XP level 4. HP: 21/24 MP: 0/9
+  1350 | D:2      | Noticed Terence
+  1364 | D:2      | Killed Terence
+  1616 | D:2      | Noticed Sigmund
+  1633 | D:2      | Killed Sigmund
+  1633 | D:2      | Reached skill level 4 in Conjurations
+  1633 | D:2      | Reached skill level 5 in Fire Magic
+  1633 | D:2      | Gained mutation: You can fly. [Tengu growth]
+  1633 | D:2      | Reached XP level 5. HP: 23/28 MP: 0/11
+  1633 | D:2      | Reached XP level 6. HP: 26/32 MP: 0/12
+  1924 | D:2      | Found an ancient bone altar of Kikubaaqudgha.
+  2716 | D:3      | Reached skill level 5 in Conjurations
+  3947 | D:4      | Noticed a phantom
+  4169 | D:3      | Learned a level 4 spell: Sticky Flame
+  4346 | D:4      | Reached XP level 7. HP: 36/36 MP: 6/14
+  4939 | D:5      | Entered Level 5 of the Dungeon
+  5038 | D:5      | Reached skill level 6 in Conjurations
+  5278 | D:5      | Found a shattered altar of Ashenzari.
+  6085 | D:6      | Reached XP level 8. HP: 31/41 MP: 1/16
+  6090 | D:6      | Reached skill level 5 in Spellcasting
+  6427 | D:6      | Found Adoothruo's Food Shoppe.
+  6489 | D:6      | Reached skill level 7 in Conjurations
+  6496 | D:6      | Slain by a bullfrog skeleton
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Conjurations   |  2     3  4     5  6  7 |  7.0
+Fire Magic     |        4  5        6    |  6.7
+Spellcasting   |           3     4     5 |  5.2
+Dodging        |                         |  2.1
+Stealth        |                         |  2.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Mace              |    14 |    10 |       ||    24
+       Kick              |     2 |    25 |     6 ||    33
+       Peck              |     2 |    13 |     7 ||    22
+       Falchion          |       |    77 |    23 ||   100
+ Cast: Flame Tongue      |    44 |    59 |    51 ||   154
+       Throw Flame       |     2 |    13 |    24 ||    39
+       Conjure Flame     |       |     4 |     1 ||     5
+       Sticky Flame      |       |     4 |     4 ||     8
+ Abil: Fly               |       |     2 |     1 ||     3
+  Use: Scroll            |       |       |     5 ||     5
+ Stab: Sleeping          |     3 |     3 |       ||     6
+  Eat: Chunk             |     1 |    11 |     9 ||    21
+Armor: Robe              |     2 |    12 |     5 ||    19
+Dodge: Dodged            |    17 |    56 |    21 ||    94
+Rpst.: Falchion          |       |    16 |     8 ||    24
+

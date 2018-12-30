@@ -1,0 +1,388 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+3194 ok the Destroyer (level 9, -1/40 HPs)
+             Began as a Tengu Fire Elementalist on Dec 26, 2018.
+             Was a Follower of Hepliaklqana.
+             Slain by Zitais's ghost (9 damage)
+             ... on level 8 of the Dungeon.
+             The game lasted 00:22:41 (10574 turns).
+
+ok the Destroyer (Tengu Fire Elementalist)         Turns: 10574, Time: 00:22:41
+
+Health: -1/40      AC:  4    Str: 19    XL:     9   Next: 96%
+Magic:  2/21       EV: 15    Int: 18    God:    Hepliaklqana [*.....]
+Gold:   533        SH:  0    Dex: 15    Spells: 13/23 levels left
+
+rFire    . . .     SeeInvis +   u - +3 hand axe {flame, MR+} (curse)
+rCold    + . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   D - +1 leather armour of Camm {rC+ Str+10 Int-3 SInv} (curse)
+rPois    +         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       +....                  (boots unavailable)
+Stlth    ++........             y - amulet of inaccuracy (curse)
+HPRegen  0.13/turn              d - +3 ring of intelligence
+MPRegen  0.17/turn              n - ring of poison resistance
+
+@: flying quickly and evasively, quick
+A: reduced essence, beak, talons 3, able to fly 1
+a: Recall Ancestor, Ancestor Identity, Renounce Religion
+
+
+You were on level 8 of the Dungeon.
+You worshipped Hepliaklqana.
+Hepliaklqana was aware of your devotion.
+You were hungry.
+
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+You also visited: Sewer.
+
+You collected 533 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ q - a +0 lajatang
+ t - a +0 trident
+ u - the cursed +3 hand axe of Cruel Justice (weapon) {flame, MR+}
+   (You found it on level 4 of the Dungeon)   
+   
+   It has been specially enchanted to burn those struck by it, causing extra
+   injury to most foes and up to half again as much damage against particularly
+   susceptible opponents. Big, fiery blades are also staple armaments of
+   hydra-hunters.
+   
+   It affects your resistance to hostile enchantments.
+   It has a curse placed upon it.
+ A - a +1 morningstar of freezing
+ C - a +1 flail of protection
+Armour
+ D - the cursed +1 leather armour of Camm (worn) {rC+ Str+10 Int-3 SInv}
+   (You found it on level 5 of the Dungeon)   
+   
+   It affects your strength (+10).
+   It affects your intelligence (-3).
+   It protects you from cold.
+   It lets you see invisible.
+   It has a curse placed upon it.
+ I - a +0 ring mail of cold resistance
+Jewellery
+ d - a +3 ring of intelligence (left hand)
+ n - a ring of poison resistance (right hand)
+ v - an uncursed ring of flight {unknown}
+ y - a cursed amulet of inaccuracy (around neck)
+ F - a cursed -3 ring of intelligence
+Wands
+ p - a wand of polymorph (22)
+ B - a wand of paralysis (27)
+ G - a wand of flame (28)
+Scrolls
+ a - a scroll of random uselessness {unknown}
+ g - a scroll of enchant armour
+ h - 3 scrolls of teleportation
+ i - a scroll of noise {unknown}
+ k - 2 scrolls of remove curse
+ r - a scroll of fog
+ s - 2 scrolls of immolation
+ x - 5 scrolls of magic mapping {unknown}
+ J - a scroll of blinking {unknown}
+Potions
+ b - 2 potions of heal wounds
+ e - 4 potions of curing
+ f - 3 potions of flight
+ j - a potion of berserk rage
+ l - 2 potions of resistance
+ m - a potion of cancellation {unknown}
+ o - 4 potions of lignification {unknown}
+ w - a potion of might {unknown}
+ z - a potion of brilliance {unknown}
+ E - 2 potions of haste {unknown}
+Comestibles
+ c - 13 rations
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 7.5 Spellcasting
+ + Level 10.2 Conjurations
+ + Level 9.3 Fire Magic
+
+
+You had 13 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      #####        1%          1    None
+b - Throw Flame           Conj/Fire      #####.       1%          2    None
+c - Conjure Flame         Conj/Fire      #####...     1%          3    #......
+d - Sticky Flame          Conj/Fire      #####...     2%          4    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Inner Flame              Hex/Fire       ###.....     5%          3    #......
+ Fireball                 Conj/Fire      #####.....   6%          5    #####..
+ Animate Skeleton         Necr           N/A          12%         1    None
+ Pain                     Necr           #...         12%         1    None
+ Regeneration             Chrm/Necr      #.........   36%         3    #......
+ Vampiric Draining        Necr           #.........   36%         3    #......
+ Animate Dead             Necr           N/A          77%         4    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:6         
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:4 Grinder
+D:8 Zitais's ghost, novice DsFi
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+You can fly.
+Your life essence is reduced to manifest your ancestor. (-10% HP)
+
+
+Message History
+
+Zitais's ghost is engulfed in blazing flames.
+Zitais's ghost hits you.
+* * * LOW HITPOINT WARNING * * *
+Sextus hits Zitais's ghost but does no damage.
+You barely miss Zitais's ghost.
+Zitais's ghost is moderately damaged.
+Zitais's ghost hits you but does no damage.
+Sextus hits Zitais's ghost but does no damage.
+You hit Zitais's ghost but do no damage.
+Your kick misses Zitais's ghost.
+Zitais's ghost is moderately damaged.
+Zitais's ghost misses you.
+Sextus hits Zitais's ghost but does no damage.
+You completely miss Zitais's ghost. Your kick misses Zitais's ghost.
+Zitais's ghost is moderately damaged.
+Zitais's ghost is engulfed in blazing flames.
+Zitais's ghost misses you.
+Sextus hits Zitais's ghost but does no damage. x2
+Zitais's ghost hits you!
+You die...
+
+.......####........................##
+.......)......................####.#
+.......########....................#
+.......########(..............######
+................#.....#>....#.#
+#.###..#.########.#####.#####.#
+#.....##.^..#####..#  #.#   #.#
+#....######.....##.####.### #.#
+.....#    #####...........###.#
+#.##.#        ####.####.#..##.#
+#.####           #..# #.#.###.#
+###              ##.###...# #.##
+#         .#      #.##...## #..#
+#          .      #.....##  ##.##
+           .##    ###....#####..#
+           ..#     ##...@WR..##.#
+           #.#    ##.....###..#.#
+           #.######.....##}##...#
+           #.#.........##...##..#
+          ##.#.#####..##/.%..##.#
+     ######....#......#}..7$..'.#
+  ####.).....#...###..##..!..##.#
+###....#####.#.### #...##...##..#
+#...####  ##..>#   #....##}##...#
+#.###     #...##   ##....###....#
+..#     #.).#.#     ##.........##
+.##  <....###...      #........#
+##  ...###  ###.#     #######.##
+    ##         ..#   #######..#
+#               ...  ........##
+
+
+You could see the friendly Sextus the ancestor and Zitais's ghost.
+
+Vanquished Creatures
+  Sigmund (D:4)
+  An ice beast (D:7)
+  4 orc warriors
+  A sky beast (D:6)
+  5 ogres
+  A centaur (D:5)
+  2 big kobolds
+  A crocodile (D:8)
+  2 bullfrogs
+  2 scorpions
+  A wyvern skeleton (D:6)
+  2 howler monkeys (D:6)
+  3 crimson imps
+  A jelly (D:5)
+  2 hounds
+  2 orc priests
+  3 iguanas
+  6 orc wizards
+  Jessica (D:2)
+  5 worker ants
+  2 hound skeletons
+  2 worker ant zombies
+  A gnoll (D:1)
+  7 adders
+  A river rat (Sewer)
+  2 shadow imps
+  3 oozes
+  5 worms (D:2)
+  3 dart slugs
+  3 leopard geckos
+  27 orcs
+  3 ball pythons
+  8 giant cockroaches
+  4 goblins
+  6 hobgoblins
+  6 jackals
+  17 kobolds
+  3 quokkas (D:2)
+  6 bats
+  8 frilled lizards
+  A quokka skeleton (D:5)
+  11 rats
+175 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  An ogre (D:8)
+  An orc warrior (D:7)
+  A necrophage (D:7)
+  2 crimson imps
+  2 orc priests
+  2 worker ants (D:8)
+  An adder (D:8)
+  2 leopard geckos (D:7)
+  2 orcs (D:7)
+  2 kobolds (D:7)
+16 creatures vanquished.
+
+Vanquished Creatures (others)
+  3 ancestors (D:7)
+3 creatures vanquished.
+
+Grand Total: 194 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | ok the Tengu Fire Elementalist began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   295 | D:1      | Reached XP level 2. HP: 14/15 MP: 3/6
+   307 | D:1      | Reached skill level 2 in Conjurations
+   535 | D:1      | Reached XP level 3. HP: 19/19 MP: 0/7
+  1053 | D:1      | Learned a level 2 spell: Throw Flame
+  1057 | D:1      | Learned a level 3 spell: Conjure Flame
+  1346 | D:2      | Reached skill level 3 in Conjurations
+  1382 | D:2      | Reached XP level 4. HP: 21/24 MP: 4/9
+  1924 | D:2      | Noticed Jessica
+  1934 | D:2      | Killed Jessica
+  2188 | D:2      | Gained mutation: You can fly. [Tengu growth]
+  2188 | D:2      | Reached XP level 5. HP: 9/28 MP: 7/10
+  3107 | D:3      | Reached skill level 4 in Conjurations
+  3453 | D:3      | Found a basalt altar of Yredelemnul.
+  3916 | D:4      | Reached skill level 5 in Fire Magic
+  3916 | D:4      | Reached XP level 6. HP: 32/32 MP: 4/12
+  3941 | D:4      | Got an encrusted hand axe
+  3943 | D:4      | Identified the cursed +3 hand axe of Cruel Justice {flame,
+                  | MR+} (You found it on level 4 of the Dungeon)
+  3951 | D:4      | Found a shadowy altar of Dithmenos.
+  4014 | D:4      | Found a glowing drain.
+  4018 | Sewer    | Entered a sewer
+  4306 | Sewer    | Found a white marble altar of Elyvilon.
+  4410 | D:4      | Noticed an orc warrior
+  4418 | D:4      | Noticed Grinder
+  4629 | D:3      | Learned a level 4 spell: Sticky Flame
+  4636 | D:4      | Noticed Sigmund
+  4642 | D:4      | Killed Sigmund
+  4642 | D:4      | Reached skill level 5 in Conjurations
+  4642 | D:4      | Reached XP level 7. HP: 26/36 MP: 2/14
+  5050 | D:4      | Reached skill level 6 in Conjurations
+  5608 | D:5      | Entered Level 5 of the Dungeon
+  5810 | D:5      | Reached skill level 5 in Spellcasting
+  5810 | D:5      | Reached XP level 8. HP: 31/41 MP: 2/16
+  6220 | D:5      | Reached skill level 7 in Conjurations
+  6255 | D:5      | Got a dazzling leather armour
+  6266 | D:5      | Identified the cursed +1 leather armour of Camm {rC+ Str+10
+                  | Int-3 SInv} (You found it on level 5 of the Dungeon)
+  7146 | D:6      | Found a sacrificial altar of Ru.
+  7146 | D:6      | Found a snail-covered altar of Cheibriados.
+  7158 | D:6      | Found a glowing silver altar of Zin.
+  7628 | D:6      | Reached skill level 8 in Conjurations
+  7935 | D:6      | Reached XP level 9. HP: 37/45 MP: 8/19
+  8393 | D:6      | Found a staircase to the Ecumenical Temple.
+  8400 | Temple   | Entered the Ecumenical Temple
+  8494 | Temple   | Became a worshipper of Hepliaklqana the Forgotten
+  8792 | D:7      | Found a shattered altar of Ashenzari.
+  8792 | D:7      | Found a deep blue altar of Sif Muna.
+  8797 | D:7      | Found a hide-covered altar of Uskayaw.
+  8799 | D:7      | Found a glowing silver altar of Zin.
+  8801 | D:7      | Found a sparkling altar of Nemelex Xobeh.
+  8992 | D:7      | Reached skill level 9 in Conjurations
+  9289 | D:7      | Found a radiant altar of Vehumet.
+ 10194 | D:8      | Noticed Zitais's ghost (novice DsFi)
+ 10218 | D:8      | Reached skill level 10 in Conjurations
+ 10228 | D:8      | Reached * piety under Hepliaklqana
+ 10229 | D:8      | Found an ancient bone altar of Kikubaaqudgha.
+ 10511 | D:8      | Found a runed door.
+ 10574 | D:8      | Slain by Zitais's ghost
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Conjurations   |     2  3     4  5  6  8 10 | 10.2
+Fire Magic     |        4     5     6  7  9 |  9.3
+Spellcasting   |           3     4  5  6  7 |  7.5
+Dodging        |                            |  2.1
+Stealth        |                            |  2.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |     5 |       |       ||     5
+       Kick              |     4 |     5 |    27 ||    36
+       Peck              |     3 |    10 |    14 ||    27
+       Hand axe          |    16 |    22 |   135 ||   173
+       Lajatang          |       |    21 |       ||    21
+ Cast: Flame Tongue      |    45 |    87 |   136 ||   268
+       Conjure Flame     |       |     3 |     4 ||     7
+       Throw Flame       |       |    13 |    45 ||    58
+       Sticky Flame      |       |       |    29 ||    29
+Invok: Recall Ancestor   |       |       |     1 ||     1
+       Ancestor Identity |       |       |     1 ||     1
+ Abil: Fly               |       |     1 |     6 ||     7
+  Use: Scroll            |       |     5 |     7 ||    12
+       Potion            |       |     1 |     2 ||     3
+ Stab: Sleeping          |     3 |     2 |     2 ||     7
+  Eat: Chunk             |     2 |    10 |    24 ||    36
+Armor: Robe              |     7 |     9 |     1 ||    17
+       Leather armour    |       |       |    30 ||    30
+Dodge: Dodged            |    19 |    51 |   128 ||   198
+

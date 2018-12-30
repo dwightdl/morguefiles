@@ -1,0 +1,324 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+1435 im bad at dcss the Destroyer (level 8, -2/41 HPs)
+             Began as a Tengu Fire Elementalist on Dec 26, 2018.
+             Was a Follower of Vehumet.
+             Slain by a hound (5 damage)
+             ... on level 7 of the Dungeon.
+             The game lasted 00:17:53 (8044 turns).
+
+im bad at dcss the Destroyer (TeFE)                 Turns: 8044, Time: 00:17:54
+
+Health: -2/41      AC:  3    Str:  8    XL:     8   Next: 73%
+Magic:  5/17       EV: 15    Int: 19    God:    Vehumet [*.....]
+Gold:   280        SH:  0    Dex: 14    Spells: 8/18 levels left
+
+rFire    . . .     SeeInvis .   z - +0 dagger (protect)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   d - +0 pair of gloves
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.13/turn              (no ring)
+MPRegen  0.15/turn              (no ring)
+
+@: lethally poisoned (-2 -> -3), flying quickly and evasively (expiring), quick
+A: beak, talons 3, able to fly 1
+a: Renounce Religion
+
+
+You were on level 7 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was aware of your devotion.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+
+You collected 280 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ u - a +0 hunting sling of velocity
+ z - a +0 dagger of protection (weapon)
+Armour
+ a - a +0 robe (worn)
+ d - a +0 pair of gloves (worn)
+Jewellery
+ i - an uncursed ring of protection from cold {unknown}
+ o - an uncursed ring of flight {unknown}
+ t - an uncursed ring of fire {unknown}
+ A - an uncursed amulet of regeneration {unknown}
+Wands
+ b - a wand of disintegration (8)
+ q - a wand of flame (20)
+Scrolls
+ h - 2 scrolls of teleportation
+ j - 2 scrolls of enchant weapon
+ k - a scroll of amnesia
+ m - a scroll of fear {unknown}
+ n - a scroll of blinking {unknown}
+ s - a scroll of remove curse {unknown}
+ y - 2 scrolls of fog
+ C - a scroll of noise {unknown}
+ D - a scroll of magic mapping {unknown}
+Potions
+ e - a potion of lignification {unknown}
+ f - a potion of curing {unknown}
+ g - 2 potions of might {unknown}
+ l - a potion of berserk rage {unknown}
+ p - 2 potions of degeneration {unknown}
+ r - 2 potions of haste
+ v - a potion of mutation {unknown}
+ w - a potion of heal wounds {unknown}
+ x - a potion of brilliance {unknown}
+ B - a potion of ambrosia {unknown}
+Comestibles
+ c - 6 rations
+ E - 2 chunks of flesh
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 5.8 Spellcasting
+ + Level 8.0 Conjurations
+ + Level 7.4 Fire Magic
+
+
+You had 8 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      ####.        1%          1    None
+b - Throw Flame           Conj/Fire      ####..       1%          2    None
+c - Conjure Flame         Conj/Fire      ####....     1%          3    ##.....
+d - Sticky Flame          Conj/Fire      ####....     4%          4    ####...
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Sandblast                Erth           #.....       12%         1    None
+ Inner Flame              Hex/Fire       ###.....     8%          3    ##.....
+ Apportation              Tloc           #.....       12%         1    None
+ Confusing Touch          Hex            #.....       12%         1    None
+ Fireball                 Conj/Fire      ####......   13%         5    #####..
+ Confuse                  Hex            #.......     34%         3    ##.....
+ Gell's Gravitas          Tloc           #.........   34%         3    ##.....
+ Petrify                  Tmut/Erth      #.......     75%         4    ####...
+ Metabolic Englaciation   Hex/Ice        #.........   97%         5    #####..
+ Yara's Violent Unravell  Hex/Tmut       #.........   97%         5    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:4         
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:7 Harold
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+You can fly.
+
+
+Message History
+
+An ogre comes into view. It is wielding a giant club.
+An orc comes into view. It is wielding a mace.
+An orc comes into view. It is wielding a trident.
+The adder barely misses you. The gnoll closely misses you.
+An orc comes into view. It is wielding a hand axe.
+The adder hisses angrily. You hear a shout!
+The centaur shoots an arrow. The arrow hits you!
+* * * LOW HITPOINT WARNING * * *
+The sky beast flickers out of sight!
+Deactivating autopickup; reactivate with Ctrl-A.
+A worker ant comes into view.
+The ogre shouts!
+An orc comes into view. It is wielding a war axe.
+The jackal completely misses you.
+A hound comes into view.
+The hound barks!
+The orc wizard casts a spell.
+The orc wizard blinks!
+You barely miss the hound. You feel sick. The adder barely misses you. The
+You die...
+
+                             ..............#
+                             ..............#
+                             ..............#
+                             ..............#
+                             ..#....<......#
+                             ........#######
+                             ......#.#
+                             ......#.#
+                      ............ #.#
+                       ..0....o... #%##
+                ##     ..o.......  #..##
+               .....   ......###....#(.###
+               .....   #o....###..#...@o.#######
+           #.#......## #.....h... ###.o........#
+#### ####.##...#...[.###Oh..##..    ###........#
+...##.....#...........##@#   #.     ...........#
+..............)....(.g.SS# # #    #.##.........#
+......................#Zh#.###      .......[...#
+=).................(...gc......    .############
+.$#+#..........)...g...#....#..   .
+..+   ......#..............o...
+g.#+#.........>...####....@...a
+............#.#####  .......o..
+..........  #.      ......o....
+..a##...    ##     ........o...
+###....           ..####......
+   .###          ##.    #..###
+    #             .      $##
+
+
+You could see Harold, an ogre, a centaur, 2 hounds, an orc wizard, 3 gnolls, 2
+adders, 2 orcs, a bullfrog zombie and a jackal.
+
+Vanquished Creatures
+  Sigmund (D:3)
+  A sky beast (D:6)
+  A phantom (D:5)
+  2 centaurs (D:6)
+  A bullfrog (D:6)
+  3 scorpions
+  A jelly (D:6)
+  A centaur skeleton (D:5)
+  An orc priest (D:3)
+  A hound (D:3)
+  4 iguanas
+  4 orc wizards (D:4)
+  6 worker ants
+  A hound skeleton (D:7)
+  Robin (D:3)
+  A gnoll (D:1)
+  6 adders
+  2 shadow imps (D:6)
+  An adder skeleton (D:4)
+  6 worms
+  5 dart slugs
+  4 leopard geckos
+  17 orcs
+  3 giant cockroaches
+  21 goblins
+  11 hobgoblins
+  13 kobolds
+  A quokka (D:5)
+  2 ball pythons (D:4)
+  3 bats
+  5 frilled lizards
+  10 rats
+140 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | im bad at dcss the Tengu Fire Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   210 | D:1      | Reached skill level 2 in Conjurations
+   210 | D:1      | Reached XP level 2. HP: 13/15 MP: 0/6
+   649 | D:1      | Reached XP level 3. HP: 19/19 MP: 2/7
+   779 | D:1      | Learned a level 2 spell: Throw Flame
+   783 | D:1      | Learned a level 3 spell: Conjure Flame
+  1177 | D:2      | Reached skill level 3 in Conjurations
+  1370 | D:2      | Found an ornate altar of the Wu Jian Council.
+  1400 | D:2      | Reached XP level 4. HP: 24/24 MP: 3/9
+  1757 | D:2      | Found a faded altar of an unknown god.
+  2633 | D:3      | Gained mutation: You can fly. [Tengu growth]
+  2633 | D:3      | Reached XP level 5. HP: 13/28 MP: 2/10
+  3145 | D:3      | Found a sparkling altar of Nemelex Xobeh.
+  3147 | D:3      | Reached skill level 4 in Conjurations
+  3149 | D:3      | Noticed Robin
+  3248 | D:3      | Killed Robin
+  3432 | D:3      | Noticed Sigmund
+  3690 | D:3      | Killed Sigmund
+  3690 | D:3      | Reached skill level 5 in Conjurations
+  3690 | D:3      | Reached skill level 5 in Fire Magic
+  3690 | D:3      | Reached XP level 6. HP: 25/32 MP: 2/12
+  4132 | D:4      | Reached XP level 7. HP: 30/36 MP: 7/14
+  4267 | D:3      | Learned a level 4 spell: Sticky Flame
+  5184 | D:4      | Found a deep blue altar of Sif Muna.
+  5199 | D:4      | Found a staircase to the Ecumenical Temple.
+  5232 | Temple   | Entered the Ecumenical Temple
+  5241 | Temple   | Became a worshipper of Vehumet
+  5275 | D:4      | Reached skill level 6 in Conjurations
+  5337 | D:4      | Identified Sif Muna's Tome of the Compass
+  5481 | D:5      | Entered Level 5 of the Dungeon
+  5562 | D:5      | Found a hazy altar of Hepliaklqana.
+  5580 | D:5      | Found a white marble altar of Elyvilon.
+  5580 | D:5      | Found an opulent altar of Gozag.
+  5829 | D:5      | Reached XP level 8. HP: 21/41 MP: 0/16
+  6055 | D:5      | Reached skill level 5 in Spellcasting
+  6432 | D:6      | Found a radiant altar of Vehumet.
+  6495 | D:6      | Reached skill level 7 in Conjurations
+  7178 | D:6      | Found a glowing golden altar of the Shining One.
+  7188 | D:6      | Found a deep blue altar of Sif Muna.
+  7189 | D:6      | Found a shattered altar of Ashenzari.
+  7268 | D:6      | Reached * piety under Vehumet
+  7268 | D:6      | Offered knowledge of Sandblast by Vehumet.
+  7934 | D:7      | Noticed Harold
+  7987 | D:8      | Noticed a two-headed ogre
+  7992 | D:8      | Reached skill level 8 in Conjurations
+  8028 | D:8      | Found a hide-covered altar of Uskayaw.
+  8044 | D:7      | Slain by a hound
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Conjurations   |  2     3     5     6  8 |  8.0
+Fire Magic     |        4     5     6  7 |  7.4
+Spellcasting   |           3     4     5 |  5.8
+Dodging        |                         |  2.1
+Stealth        |                         |  2.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Halberd           |     4 |    55 |    22 ||    81
+       Kick              |     1 |     1 |    12 ||    14
+       Peck              |       |     4 |    14 ||    18
+       Dagger            |       |       |    41 ||    41
+ Cast: Flame Tongue      |    55 |    68 |    65 ||   188
+       Throw Flame       |     5 |    20 |    51 ||    76
+       Conjure Flame     |     1 |     8 |     3 ||    12
+       Sticky Flame      |       |       |    12 ||    12
+ Abil: Fly               |       |       |     2 ||     2
+  Use: Scroll            |       |       |     5 ||     5
+ Stab: Sleeping          |       |     3 |     2 ||     5
+  Eat: Chunk             |     3 |    10 |    11 ||    24
+       Ration            |       |       |     1 ||     1
+Armor: Robe              |     4 |     6 |    32 ||    42
+Dodge: Dodged            |     8 |    29 |    80 ||   117
+

@@ -1,0 +1,193 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+26 ok the Firebug (level 2, -3/19 HPs)
+             Began as a Demonspawn Fire Elementalist on Dec 26, 2018.
+             Slain by a goblin
+             ... wielding a cursed -1 club
+             ... led by Robin
+              (6 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:02:49 (1313 turns).
+
+ok the Firebug (Demonspawn Fire Elementalist)       Turns: 1313, Time: 00:02:49
+
+Health: -3/19      AC:  2    Str:  8    XL:     2   Next: 89%
+Magic:  3/5        EV: 12    Int: 16    God:    
+Gold:   37         SH:  0    Dex: 13    Spells: 2/5 levels left
+
+rFire    . . .     SeeInvis .   e - +0 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: powered by pain 1
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 37 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ e - a +0 dagger (weapon)
+Armour
+ a - a +0 robe (worn)
+ g - a +0 buckler
+Jewellery
+ k - an uncursed ring of fire {unknown}
+Scrolls
+ b - a scroll of enchant armour {unknown}
+ d - a scroll of identify {unknown}
+ h - a scroll of remove curse {unknown}
+ m - a scroll of fog {unknown}
+Potions
+ f - a potion of curing {unknown}
+ i - a potion of lignification {unknown}
+ j - 2 potions of heal wounds {unknown}
+Comestibles
+ c - 3 rations
+ l - 2 chunks of flesh
+
+
+   Skills:
+ - Level 1.7 Dodging
+ - Level 1.7 Stealth
+ + Level 0.3 Shields
+ * Level 2.4 Spellcasting
+ * Level 1.7 Conjurations
+ * Level 3.0 Fire Magic
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      #....        8%          1    #......
+b - Throw Flame           Conj/Fire      #.....       11%         2    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Conjure Flame            Conj/Fire      #.......     22%         3    ###....
+ Inner Flame              Hex/Fire       #.......     32%         3    ###....
+ Sticky Flame             Conj/Fire      #.......     58%         4    #####..
+ Fireball                 Conj/Fire      #.........   90%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Annotations:
+D:2 Robin
+
+
+Innate Abilities, Weirdness & Mutations
+
+You sometimes gain a little power by taking damage.
+
+
+Message History
+
+You kill the kobold!
+You start resting.
+Robin is too close now for your liking.
+Robin roars a battlecry!
+The hobgoblin goes into a battle-frenzy!
+You hear a shout! x2
+You see here 2 stones.
+Robin hits you from afar with a trident of flaming!
+Robin burns you.
+* * * LOW HITPOINT WARNING * * *
+Robin hits you but does no damage.
+Robin throws the goblin at you!
+The goblin hits you with a club.
+* * * LOW HITPOINT WARNING * * *
+There is a stone staircase leading up here.
+The goblin no longer looks unusually strong.
+Robin roars a battlecry!
+The goblin goes into a battle-frenzy!
+The goblin hits you with a club.
+You die...
+
+gg.gg...# .>.........####.g..#.###
+.gg.....# ####....................
+#.#######    ..................#  #
+#              #..#..#.........##..
+                #.........(....(...
+                ##....#####.....!..
+                 #.....## #........
+               ###......# #%..#....
+               #.g......# ##..# ...
+              ##.#g###..#   ..#  ..
+              #....#  ###   ..#
+              #...##        ###
+              #..g#
+              #...#
+              #.g.#
+              #.@.#
+              #####
+
+
+You could see Robin, 2 hobgoblins and a goblin.
+
+Vanquished Creatures
+  A leopard gecko (D:2)
+  4 bats (D:1)
+  A giant cockroach (D:1)
+  4 hobgoblins
+  A ball python (D:2)
+  A frilled lizard (D:1)
+  5 goblins
+  4 kobolds
+  5 rats
+26 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | ok the Demonspawn Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   157 | D:1      | Gained mutation: You sometimes gain a little power by
+                  | taking damage. [demonic ancestry]
+   157 | D:1      | Reached XP level 2. HP: 19/19 MP: 5/5
+   753 | D:2      | Noticed Robin
+   859 | D:1      | Learned a level 2 spell: Throw Flame
+   964 | D:2      | Reached skill level 3 in Fire Magic
+  1313 | D:2      | Slain by a goblin
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Fire Magic     |     3 |  3.0
+Dodging        |       |  1.7
+Stealth        |       |  1.7
+Shields        |       |  0.3
+Spellcasting   |       |  2.4
+Conjurations   |       |  1.7
+
+Action                   || total
+-------------------------++-------
+Melee: Dagger            ||    39
+ Cast: Flame Tongue      ||    29
+       Throw Flame       ||     6
+ Stab: Sleeping          ||     2
+  Eat: Chunk             ||     2
+Armor: Robe              ||    14
+Dodge: Dodged            ||    32
+

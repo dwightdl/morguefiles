@@ -1,0 +1,254 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+403 quit the Firebug (level 6, -4/41 HPs)
+             Began as a Demonspawn Fire Elementalist on Dec 26, 2018.
+             Engulfed by a cloud of steam (18 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:08:14 (4500 turns).
+
+quit the Firebug (Demonspawn Fire Elementalist)     Turns: 4500, Time: 00:08:15
+
+Health: -4/41      AC:  4    Str:  9    XL:     6   Next: 55%
+Magic:  8/11       EV: 15    Int: 18    God:    
+Gold:   147        SH:  0    Dex: 13    Spells: 1/12 levels left
+
+rFire    . . .     SeeInvis .   g - +0 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   s - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  k - +0 pair of boots
+Stlth    +.........             (no amulet)
+HPRegen  0.13/turn              (no ring)
+MPRegen  0.12/turn              (no ring)
+
+@: very slow
+A: antennae 1, repulsion field 2
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 147 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ g - a +0 dagger (weapon)
+Armour
+ a - a +0 robe (worn)
+ f - a +0 buckler
+ k - a +0 pair of boots (worn)
+ s - a +0 cloak (worn)
+Jewellery
+ h - a +3 ring of protection {unknown}
+Scrolls
+ b - 2 scrolls of immolation
+ e - a scroll of magic mapping {unknown}
+ m - a scroll of teleportation
+ n - a scroll of amnesia {unknown}
+ o - a scroll of enchant armour {unknown}
+ p - a scroll of fear {unknown}
+ t - a scroll of blinking
+ v - a scroll of remove curse {unknown}
+Potions
+ d - a potion of ambrosia {unknown}
+ i - a potion of brilliance {unknown}
+ j - 2 potions of berserk rage {unknown}
+ l - a potion of lignification {unknown}
+ q - a potion of heal wounds {unknown}
+ r - 2 potions of degeneration {unknown}
+Comestibles
+ c - 4 rations
+ u - a chunk of flesh
+
+
+   Skills:
+ - Level 1.7 Dodging
+ - Level 1.7 Stealth
+ + Level 1.9 Shields
+ * Level 3.9 Spellcasting
+ * Level 3.5 Conjurations
+ * Level 4.3 Fire Magic
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      ###..        3%          1    None
+b - Throw Flame           Conj/Fire      ###...       4%          2    ##.....
+c - Conjure Flame         Conj/Fire      ###.....     9%          3    ###....
+d - Sticky Flame          Conj/Fire      ###.....     30%         4    ####...
+e - Magic Dart            Conj           ###.         3%          1    None
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Inner Flame              Hex/Fire       ##......     19%         3    ###....
+ Blink                    Tloc           N/A          22%         2    ##.....
+ Call Imp                 Summ           #.......     22%         2    ##.....
+ Slow                     Hex            #.......     22%         2    ##.....
+ Mephitic Cloud           Conj/Pois/Air  #.......     28%         3    ###....
+ Fireball                 Conj/Fire      ###.......   63%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)             Temple (0/1) D:4         
+
+Altars:
+Uskayaw
+The Shining One
+
+Portals:
+Sewer: D:4
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of small antennae on your head.
+You are surrounded by a moderate repulsion field. (EV +3)
+
+
+Message History
+
+The adder misses you. x2
+Casting: Flame Tongue (safe; 3% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Flame Tongue (safe; 3% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - adder
+Aim: an adder
+The flame tongue misses the adder.
+The adder is engulfed in a cloud of scalding steam.
+The adder bites you.
+The adder is engulfed in a cloud of scalding steam.
+You kill the adder!
+Casting: Flame Tongue (safe; 3% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+Unknown command.
+Unknown command.
+You are engulfed in a cloud of scalding steam.
+Ouch! That really hurt!
+You are engulfed in a cloud of scalding steam.
+You die...
+
+###.####.##.#...P.#  ######.#
+  #.#  #.##.#.##..####......#
+  #.#  #.##............######
+  #.#  #.##...##########
+  #.#  #.##.###
+  #.#  #.##.#
+  #.#  .#.#.##
+  #..    #...#
+        #.#.#(#
+      ##.##.##.##
+      #.. #.###.###
+      ##.##.......#
+       #..#.#.###.#
+         #...##  .#
+ ##########.##
+ #~\~~0@0~~.#
+ ##########.#
+          #.#
+          #..
+          #..#
+          #..#
+          #..#
+           ..#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  The ghost of im bad at dcss the Grave Robber, an amateur DENe (D:3)
+  A howler monkey (D:4)
+  Crazy Yiuf (D:3)
+  An orc wizard (D:3)
+  Terence (D:3)
+  An iguana (D:4)
+  A worker ant (D:4)
+  4 adders
+  3 worms (D:2)
+  4 dart slugs
+  2 leopard geckos (D:3)
+  3 orcs
+  9 giant cockroaches
+  7 goblins
+  3 hobgoblins
+  8 jackals
+  9 kobolds
+  A quokka (D:4)
+  2 ball pythons
+  9 bats
+  7 frilled lizards
+  3 rats
+81 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | quit the Demonspawn Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   240 | D:1      | Gained mutation: You are surrounded by a mild repulsion
+                  | field. (EV +2) [demonic ancestry]
+   240 | D:1      | Reached XP level 2. HP: 15/19 MP: 1/5
+   730 | D:1      | Learned a level 2 spell: Throw Flame
+   758 | D:1      | Reached skill level 3 in Fire Magic
+  1214 | D:1      | Reached XP level 3. HP: 23/24 MP: 6/6
+  2290 | D:2      | Reached XP level 4. HP: 25/30 MP: 4/8
+  2397 | D:2      | Found a glowing golden altar of the Shining One.
+  2397 | D:2      | Found a hide-covered altar of Uskayaw.
+  2789 | D:3      | Found a runed door.
+  2818 | D:3      | Learned a level 3 spell: Conjure Flame
+  2858 | D:3      | Noticed Crazy Yiuf
+  2868 | D:3      | Killed Crazy Yiuf
+  2868 | D:3      | Reached skill level 1 in Shields
+  3042 | D:3      | Found a faded altar of an unknown god.
+  3361 | D:3      | Gained mutation: You are surrounded by a moderate repulsion
+                  | field. (EV +3) [demonic ancestry]
+  3361 | D:3      | Reached XP level 5. HP: 22/35 MP: 0/9
+  3592 | D:3      | Noticed Terence
+  3613 | D:3      | Killed Terence
+  3720 | D:3      | Found a runed door.
+  3721 | D:3      | Noticed im bad at dcss's ghost (amateur DENe)
+  3748 | D:3      | Killed im bad at dcss's ghost
+  3748 | D:3      | Reached skill level 4 in Fire Magic
+  3748 | D:3      | Gained mutation: You have a pair of small antennae on your
+                  | head. [demonic ancestry]
+  3748 | D:3      | Reached XP level 6. HP: 19/41 MP: 1/11
+  3919 | D:3      | Learned a level 4 spell: Sticky Flame
+  4005 | D:3      | Learned a level 1 spell: Magic Dart
+  4373 | D:4      | Found a staircase to the Ecumenical Temple.
+  4496 | D:4      | Found a glowing drain.
+  4500 | D:4      | Engulfed by a cloud of steam
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Fire Magic     |     3        4 |  4.3
+Conjurations   |        2     3 |  3.5
+Shields        |           1    |  1.9
+Spellcasting   |           3    |  3.9
+Dodging        |                |  1.7
+Stealth        |                |  1.7
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Dagger            |    87 |    70 ||   157
+ Cast: Flame Tongue      |    71 |    82 ||   153
+       Throw Flame       |     2 |       ||     2
+       Conjure Flame     |       |     2 ||     2
+       Magic Dart        |       |     8 ||     8
+  Use: Scroll            |       |     3 ||     3
+ Stab: Sleeping          |     4 |       ||     4
+  Eat: Chunk             |     5 |     7 ||    12
+Armor: Robe              |    29 |    24 ||    53
+Dodge: Dodged            |   126 |   100 ||   226
+

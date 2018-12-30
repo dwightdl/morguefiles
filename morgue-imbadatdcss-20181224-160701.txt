@@ -1,0 +1,173 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+5 im bad at dcss the Firebug (level 1, 0/10 HPs)
+             Began as a Tengu Fire Elementalist on Dec 24, 2018.
+             Slain by a bat (1 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:00:50 (94 turns).
+
+im bad at dcss the Firebug (Tengu Fire Elementalist)  Turns: 94, Time: 00:00:50
+
+Health: 0/10       AC:  2    Str:  8    XL:     1   Next: 80%
+Magic:  2/4        EV: 12    Int: 15    God:    
+Gold:   2          SH:  0    Dex: 14    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   h - +0 short sword
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: beak, talons 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 2 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ h - a +0 short sword (weapon)
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ e - a cursed amulet of inaccuracy {unknown}
+Scrolls
+ d - a scroll of identify {unknown}
+Potions
+ b - a potion of brilliance {unknown}
+ f - a potion of degeneration {unknown}
+ g - a potion of invisibility {unknown}
+Comestibles
+ c - a ration
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 2.1 Spellcasting
+ + Level 1.7 Conjurations
+ + Level 3.4 Fire Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      #....        8%          1    #......
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Throw Flame              Conj/Fire      #.....       12%         2    ###....
+ Conjure Flame            Conj/Fire      #.......     22%         3    ###....
+ Inner Flame              Hex/Fire       #.......     32%         3    ###....
+ Sticky Flame             Conj/Fire      #.......     58%         4    #####..
+ Fireball                 Conj/Fire      #.........   91%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+
+
+Message History
+
+A bat comes into view.
+Found 5 needles of frenzy.
+The bat misses you.
+A dart slug comes into view.
+The bat hits you.
+The dart slug launches a dart at you.
+The slug dart hits you!
+* * * LOW HITPOINT WARNING * * *
+Found a hand axe.
+The bat hits you but does no damage. The rat bites you.
+* * * LOW HITPOINT WARNING * * *
+The bat hits you but does no damage.
+The bat hits you but does no damage.
+The bat closely misses you.
+The bat hits you but does no damage.
+The bat hits you but does no damage.
+The bat hits you but does no damage. The bat barely misses you.
+The bat hits you but does no damage.
+The bat hits you.
+You die...
+
+      #  ..####
+      .# #...?#
+   ##  .#.....###
+### .  .........#
+..(.#. #.##..##.#
+......##.##..##.####
+ #.......##.[##....
+    #........##..#####
+ #.##.##.##..##......#
+ .....##.##.......##g#
+ #...........#..#.##.#
+ #.....#.#.r#.#...##.##
+).......wwg#...#......#
+##.##.#####.....#####.######
+ #  #..#....b......#.......#.
+   #.#..#...@<....#..####....
+   #.#..#.........#.....b....
+   #...#...........#..###....
+   #..#####.....#####.#     .
+   #.(.....#(..#......#
+   #......%.#.#..###.##  #
+   ######....#..## #.###(#
+        #.##...##  #...[.#
+        #. ##..........%....g.
+        .. ...#######.#..###$w
+       #..#####     #.#..#
+       #..          #.##.#
+       #..          #.# .#
+                    #.# ..
+                    #.# ..#
+
+
+You could see 2 dart slugs, a hobgoblin, a bat and a rat.
+
+Vanquished Creatures
+  2 giant cockroaches (D:1)
+  A hobgoblin (D:1)
+  2 bats (D:1)
+5 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | im bad at dcss the Tengu Fire Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+    94 | D:1      | Slain by a bat
+
+Action                   || total
+-------------------------++-------
+Melee: Short sword       ||     4
+       Unarmed           ||     1
+       Kick              ||     1
+ Cast: Flame Tongue      ||     8
+Armor: Robe              ||    15
+Dodge: Dodged            ||    15
+

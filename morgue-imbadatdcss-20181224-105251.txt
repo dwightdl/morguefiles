@@ -1,0 +1,193 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+93 im bad at dcss the Grave Robber (level 4, -1/24 HPs)
+             Began as a Deep Elf Necromancer on Dec 24, 2018.
+             Splashed by Ijyb's acid (12 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:04:17 (3141 turns).
+
+im bad at dcss the Grave Robber (DENe)              Turns: 3141, Time: 00:04:18
+
+Health: -1/24      AC: -2    Str:  5    XL:     4   Next: 36%
+Magic:  4/13       EV: 13    Int: 21    God:    
+Gold:   167        SH:  0    Dex: 15    Spells: 6/13 levels left
+
+rFire    . . .     SeeInvis .   d - +0 spear
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.08/turn              (no ring)
+MPRegen  0.13/turn              (no ring)
+
+@: corroded
+A: no striking features
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 167 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ d - a +0 spear (weapon)
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ b - a +3 ring of strength {unknown}
+ e - a cursed -3 ring of intelligence {unknown}
+ m - a +3 ring of evasion {unknown}
+Scrolls
+ j - a scroll of identify
+ l - 2 scrolls of immolation
+ n - 2 scrolls of enchant armour
+ o - a scroll of teleportation {unknown}
+ q - a scroll of remove curse {unknown}
+Potions
+ f - 5 potions of haste {unknown}
+ g - 3 potions of agility {unknown}
+ h - 2 potions of brilliance {unknown}
+ i - a potion of might {unknown}
+ k - 2 potions of invisibility {unknown}
+ p - a potion of resistance {unknown}
+Comestibles
+ c - 6 rations
+ r - 2 chunks of flesh
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 5.0 Spellcasting
+ + Level 6.0 Necromancy
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           ####         1%          1    None
+b - Vampiric Draining     Necr           ####......   2%          3    ##.....
+c - Regeneration          Chrm/Necr      ###.......   10%         3    ##.....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          1%          1    None
+ Animate Dead             Necr           N/A          9%          4    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+Annotations:
+D:1 flight to get potion
+D:3 Ijyb
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Pain (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - Ijyb
+Aim: Ijyb, wielding a dagger of electrocution and wearing a leather armour
+Ijyb writhes in agony!
+Casting: Pain (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Pain (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - Ijyb
+Aim: Ijyb, wielding a dagger of electrocution and wearing a leather armour
+Ijyb writhes in agony! Ijyb barely misses you.
+Casting: Pain (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Vampiric Draining (safe; 2% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - Ijyb
+Aim: Ijyb, wielding a dagger of electrocution and wearing a leather armour
+Ijyb is heavily wounded.
+You feel life coursing into your body. Ijyb zaps a wand. The bolt of acid hits
+Ouch! That really hurt!
+You die...
+
+                   ####
+                 ###...
+                 ......
+                   #...#########       #####
+                    #..g.......#####   #...#
+                    ###@...........#####.7.77
+                      #.######...........P..77#
+         . #7         #.#    #####.######..7.P#
+         . ..    )..  ..#        #.#    #7P....
+         .7.7#   #.# ####        #.#     777.7.
+   ###   #.#.#   #.#             #.#     #.###.
+    ...###.#.#   #.#             #.#     #.....
+    #......#.#   #.#             #.#   ###.####
+ ####.###..#.#####.#       ##### #.#   #...#
+##..............##.#       #...###.#   #...#
+...........#.##<##.#      ##.P.....#  ##.#.####
+.......))....##....##   ###......###  #...P..PP
+.#.##.##...)...P7...### #...P7P..#   ##.P7P.P..
+  . #. #.#...#...77...###..P77PP.#   #P.7P777.7
+  ..#.##.#...##.77P.P......P77...#   ##.7777 77
+
+
+You could see Ijyb.
+
+Vanquished Creatures
+  3 adders (D:3)
+  4 worms
+  4 dart slugs
+  A leopard gecko (D:1)
+  2 orcs (D:3)
+  A giant cockroach (D:2)
+  7 goblins
+  7 hobgoblins
+  3 kobolds (D:1)
+  8 bats
+  5 rats
+45 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | im bad at dcss the Deep Elf Necromancer began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   182 | D:1      | Reached skill level 5 in Necromancy
+   500 | D:1      | Reached XP level 2. HP: 7/15 MP: 0/8
+  1464 | D:1      | Reached XP level 3. HP: 14/19 MP: 5/10
+  2563 | D:3      | Learned a level 3 spell: Vampiric Draining
+  2567 | D:3      | Learned a level 3 spell: Regeneration
+  2950 | D:3      | Reached XP level 4. HP: 21/24 MP: 9/12
+  3051 | D:3      | Reached skill level 6 in Necromancy
+  3133 | D:3      | Reached skill level 5 in Spellcasting
+  3138 | D:3      | Noticed Ijyb
+  3141 | D:3      | Splashed by Ijyb's acid
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Necromancy     |  5        6 |  6.0
+Spellcasting   |     4     5 |  5.0
+Dodging        |             |  2.4
+Stealth        |             |  2.4
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Spear             |     3 |    19 ||    22
+ Cast: Pain              |    95 |    18 ||   113
+       Vampiric Draining |     1 |     2 ||     3
+  Use: Scroll            |     2 |       ||     2
+  Eat: Chunk             |     6 |     1 ||     7
+Armor: Robe              |     3 |     2 ||     5
+Dodge: Dodged            |    14 |     6 ||    20
+

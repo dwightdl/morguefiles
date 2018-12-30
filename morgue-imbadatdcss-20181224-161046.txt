@@ -1,0 +1,161 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+2 im bad at dcss the Firebug (level 1, -2/10 HPs)
+             Began as a Tengu Fire Elementalist on Dec 24, 2018.
+             Slain by a kobold
+             ... wielding a +0 whip
+              (5 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:01:01 (200 turns).
+
+im bad at dcss the Firebug (Tengu Fire Elementalist) Turns: 200, Time: 00:01:02
+
+Health: -2/10      AC:  2    Str:  8    XL:     1   Next: 30%
+Magic:  1/4        EV: 12    Int: 15    God:    
+Gold:   0          SH:  0    Dex: 14    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: beak, talons 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ b - an uncursed ring of stealth {unknown}
+Potions
+ d - a potion of berserk rage {unknown}
+Comestibles
+ c - 2 rations
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 2.0 Spellcasting
+ + Level 1.5 Conjurations
+ + Level 3.3 Fire Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      #....        9%          1    #......
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Throw Flame              Conj/Fire      #.....       12%         2    ###....
+ Conjure Flame            Conj/Fire      #.......     24%         3    ###....
+ Inner Flame              Hex/Fire       #.......     32%         3    ###....
+ Sticky Flame             Conj/Fire      #.......     63%         4    #####..
+ Fireball                 Conj/Fire      #.........   92%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Annotations:
+D:1 flight needed for shit
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+
+
+Message History
+
+You hit the kobold but do no damage. Your kick misses the kobold. The kobold
+You barely miss the kobold. The kobold hits you but does no damage.
+The kobold misses you.
+The kobold hits you with a whip.
+Ouch! That really hurt!
+* * * LOW HITPOINT WARNING * * *
+You see here a stone.
+You see here a ration.
+c - 2 rations (gained 1)
+The kobold barely misses you.
+Casting: Flame Tongue (safe; 9% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Flame Tongue (safe; 9% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - kobold
+Aim: a kobold, wielding a whip
+The flame tongue hits the kobold.
+The kobold is moderately wounded.
+The kobold hits you with a whip.
+Ouch! That really hurt!
+You die...
+
+                    #####
+         ############...#
+         #....K.K(....#.#
+        ##K########.....#
+       ##...######K###.##
+      ##....K......# #(#    ##
+      #..........#.###(#   #.#
+      #......###)##...(####.#
+  #   #.#....###.###.......#
+  #.###.##.#.##...##.###K$##
+###.....##.#.#.......# #@##
+........##....#..?##.# #........
+###.#....K..#.##.###.....#.#####
+  #.....###...#### ###.###.#
+  #......####..##    #.#   #
+  #.##.#..###...#    # #
+  #.............#
+  # ............#
+   ##.........###
+    ##.0.....##
+     #..~~~..#
+     #.~~~~~.#
+     #.~~%~0.#
+     #.~0>~~.#
+     #.~~?~~.#
+
+
+You could see a kobold.
+
+Vanquished Creatures
+  A hobgoblin (D:1)
+  A kobold (D:1)
+2 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | im bad at dcss the Tengu Fire Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   200 | D:1      | Slain by a kobold
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||     4
+ Cast: Flame Tongue      ||     7
+Dodge: Dodged            ||     7
+

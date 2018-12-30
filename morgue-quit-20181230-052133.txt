@@ -1,0 +1,177 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+45 quit the Stinger (level 3, 0/19 HPs)
+             Began as a Tengu Venom Mage on Dec 30, 2018.
+             Succumbed to a worker ant's poison
+             ... on level 2 of the Dungeon.
+             The game lasted 00:02:24 (1417 turns).
+
+quit the Stinger (Tengu Venom Mage)                 Turns: 1417, Time: 00:02:25
+
+Health: 0/19       AC:  3    Str: 13    XL:     3   Next: 64%
+Magic:  7/7        EV: 12    Int: 16    God:    
+Gold:   31         SH:  0    Dex: 14    Spells: 6/7 levels left
+
+rFire    . . .     SeeInvis .   e - +0 spear
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   f - +0 leather armour
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: mighty, lethally poisoned (0 -> -1), berserk cooldown, slowed, very slow
+A: beak, talons 3
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were very hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 31 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ e - a +0 spear (weapon)
+Armour
+ f - a +0 leather armour (worn)
+Jewellery
+ k - a cursed amulet of magic regeneration {unknown}
+ m - an uncursed ring of ice {unknown}
+ o - a +6 amulet of reflection {unknown}
+Scrolls
+ b - 2 scrolls of remove curse {unknown}
+ g - a scroll of fog {unknown}
+ i - a scroll of random uselessness {unknown}
+ j - a scroll of amnesia {unknown}
+ n - 3 scrolls of teleportation {unknown}
+ p - a scroll of fear {unknown}
+Comestibles
+ c - a ration
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 2.6 Spellcasting
+ + Level 2.8 Conjurations
+ + Level 3.5 Poison Magic
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sting                 Conj/Pois      ##..         7%          1    #......
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Poisonous Vapours        Pois/Air       #.....       19%         2    ##.....
+ Mephitic Cloud           Conj/Pois/Air  #.......     30%         3    ###....
+ Olgreb's Toxic Radiance  Pois           ##......     50%         4    #####..
+ Venom Bolt               Conj/Pois      ##........   88%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+
+
+Message History
+
+You see here 14 gold pieces.
+You now have 31 gold pieces (gained 14).
+It was a potion of magic. Magic courses through your body.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+There is a lethal amount of poison in your body!
+There is a lethal amount of poison in your body!
+There is a lethal amount of poison in your body!
+There is a lethal amount of poison in your body!
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+You are feeling very hungry.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+Your magical contamination has completely faded away.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+You die...
+
+ #.#
+ #.#
+ ..#
+ #.#
+##.##
+#...
+#..#
+#.<#
+#.@#
+#.......#
+#[###.###
+#.    ..
+#.     .#
+..      ..
+##       #
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A worker ant (D:2)
+  A leopard gecko (D:1)
+  A giant cockroach (D:1)
+  A goblin (D:1)
+  2 hobgoblins (D:1)
+  6 bats (D:1)
+  A frilled lizard (D:1)
+  2 kobolds (D:1)
+  4 rats (D:1)
+19 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | quit the Tengu Venom Mage began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   177 | D:1      | Reached XP level 2. HP: 14/15 MP: 6/6
+  1397 | D:2      | Reached XP level 3. HP: 7/19 MP: 0/7
+  1417 | D:2      | Succumbed to a worker ant's poison
+
+Skill      XL: |  1 |
+---------------+----+-----
+Conjurations   |  2 |  2.8
+Dodging        |    |  2.1
+Stealth        |    |  2.0
+Spellcasting   |    |  2.6
+Poison Magic   |    |  3.5
+
+Action                   || total
+-------------------------++-------
+Melee: Spear             ||    30
+       Kick              ||     3
+       Peck              ||     2
+ Cast: Sting             ||    28
+  Use: Potion            ||     3
+  Eat: Chunk             ||     1
+Armor: Leather armour    ||    12
+Dodge: Dodged            ||    30
+

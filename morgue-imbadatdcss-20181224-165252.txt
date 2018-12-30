@@ -1,0 +1,130 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+0 im bad at dcss the Stinger (level 1, -5/13 HPs)
+             Began as a Demonspawn Venom Mage on Dec 24, 2018.
+             Slain by a hobgoblin
+             ... wielding a +0 club
+              (7 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:00:19 (48 turns).
+
+im bad at dcss the Stinger (Demonspawn Venom Mage)    Turns: 48, Time: 00:00:20
+
+Health: -5/13      AC:  2    Str:  8    XL:     1   Next: 0%
+Magic:  0/3        EV: 12    Int: 16    God:    
+Gold:   0          SH:  0    Dex: 13    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ - Level 1.7 Dodging
+ - Level 1.7 Stealth
+ + Level 2.0 Spellcasting
+ + Level 1.0 Conjurations
+ + Level 3.0 Poison Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sting                 Conj/Pois      #...         9%          1    #......
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Poisonous Vapours        Pois/Air       #.....       17%         2    ###....
+ Mephitic Cloud           Conj/Pois/Air  #.......     34%         3    ###....
+ Olgreb's Toxic Radiance  Pois           ##......     52%         4    #####..
+ Venom Bolt               Conj/Pois      #.........   94%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Press: ? - help, Shift-Dir - straight line, f/p - hobgoblin
+Aim: a hobgoblin, wielding a club (heavily wounded)
+The sting hits the hobgoblin. The hobgoblin appears unharmed.
+The hobgoblin is heavily wounded.
+The hobgoblin hits you with a club.
+* * * LOW HITPOINT WARNING * * *
+There is a staircase leading out of the dungeon here.
+There is an open door here.
+You open the door. The hobgoblin barely misses you.
+There is an open door here.
+The hobgoblin hits you with a club.
+* * * LOW HITPOINT WARNING * * *
+You hit the hobgoblin.
+The hobgoblin is severely wounded.
+The hobgoblin hits you but does no damage.
+You hit the hobgoblin but do no damage.
+The hobgoblin is severely wounded.
+The hobgoblin hits you with a club!
+Ouch! That really hurt!
+You die...
+
+.
+..#        #+#
+#...       #.#
+#....     ##'##
+#.....#####...#####
+#.....'.'.'.<.g@'.+
+#.....#####...#####
+.....     ##'##
+....       #.#
+...        #+#
+..
+.
+
+
+You could see a hobgoblin.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | im bad at dcss the Demonspawn Venom Mage began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+    48 | D:1      | Slain by a hobgoblin
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    19
+ Cast: Sting             ||     5
+Armor: Robe              ||     2
+Dodge: Dodged            ||    11
+

@@ -1,0 +1,169 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+25 ok the Grave Robber (level 2, -5/19 HPs)
+             Began as a Demonspawn Necromancer on Dec 26, 2018.
+             Shot with an arrow by a centaur (7 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:01:43 (1038 turns).
+
+ok the Grave Robber (Demonspawn Necromancer)        Turns: 1038, Time: 00:01:43
+
+Health: -5/19      AC:  2    Str:  8    XL:     2   Next: 82%
+Magic:  4/5        EV: 12    Int: 16    God:    
+Gold:   19         SH:  0    Dex: 13    Spells: 5/6 levels left
+
+rFire    . . .     SeeInvis .   e - +0 short sword
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: hooves 1
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 19 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ e - a +0 short sword (weapon)
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ b - an uncursed amulet of guardian spirit {unknown}
+Scrolls
+ d - 2 scrolls of teleportation {unknown}
+ g - 2 scrolls of remove curse {unknown}
+ i - 2 scrolls of identify {unknown}
+ k - a scroll of random uselessness {unknown}
+Potions
+ f - a potion of brilliance {unknown}
+ h - a potion of mutation {unknown}
+ l - a potion of invisibility {unknown}
+Comestibles
+ c - a ration
+ j - 2 chunks of flesh
+
+
+   Skills:
+ - Level 1.7 Dodging
+ - Level 1.7 Stealth
+ + Level 2.6 Spellcasting
+ + Level 4.9 Necromancy
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           ###.         2%          1    #......
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          2%          1    #......
+ Vampiric Draining        Necr           ###.......   8%          3    ###....
+ Regeneration             Chrm/Necr      ##........   22%         3    ###....
+ Animate Dead             Necr           N/A          26%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have large cloven feet.
+
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Pain (safe; 2% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - giant cockroach
+Aim: a giant cockroach (almost dead, clinging, chance to defeat MR: 87%)
+The giant cockroach writhes in agony!
+You kill the giant cockroach!
+A centaur comes into view.
+The centaur wields a shortbow. The centaur shoots an arrow. The arrow hits you!
+Ouch! That really hurt!
+* * * LOW HITPOINT WARNING * * *
+You see here an arrow.
+Casting: Pain (safe; 2% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+Casting: Pain (safe; 2% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't know that spell.
+Unknown command.
+The centaur shoots an arrow. The arrow hits you!
+You die...
+
+                   #######.#          ###
+            ########......c#          #.#
+            #......(.......#          #.#
+          ###.######@#####.           #.#
+#. # #.   #.....#  #.#                #.#
+#.##.#.####.#.#.#  ..#                #.#
+ #.#.#.#.#.##.#.# #.##                #.#
+  ............# # #.                  #.#
+  .#.#.#.#.#..#   #. ##################.#
+  ............#   #. #.[..%.............#
+##.#.#.#.#.#..#   #. #.##################
+#......<.%....#      #.#
+##.#.#.#.#.#..########.##
+   ...................#.#
+   #.#.#.#.#.#########.##
+  ...........#       ###
+ #.#.#.#.#.#.#
+ #...........#
+
+
+You could see a centaur.
+
+Vanquished Creatures
+  A leopard gecko (D:2)
+  A giant cockroach (D:2)
+  3 hobgoblins (D:1)
+  9 bats
+  5 frilled lizards (D:1)
+  A goblin (D:2)
+  3 kobolds (D:1)
+  2 rats (D:1)
+25 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | ok the Demonspawn Necromancer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   351 | D:1      | Gained mutation: You have large cloven feet. [demonic
+                  | ancestry]
+   351 | D:1      | Reached XP level 2. HP: 19/19 MP: 3/5
+  1037 | D:2      | Noticed a centaur
+  1038 | D:2      | Shot with an arrow by a centaur
+
+Action                   || total
+-------------------------++-------
+Melee: Short sword       ||    10
+ Cast: Pain              ||    38
+  Eat: Chunk             ||     1
+Armor: Robe              ||     4
+Dodge: Dodged            ||    12
+

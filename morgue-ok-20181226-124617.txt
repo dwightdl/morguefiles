@@ -1,0 +1,191 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+28 ok the Grave Robber (level 3, -4/24 HPs)
+             Began as a Demonspawn Necromancer on Dec 26, 2018.
+             Killed from afar by Sigmund (6 damage)
+             ... with a magic dart
+             ... on level 2 of the Dungeon.
+             The game lasted 00:01:47 (1278 turns).
+
+ok the Grave Robber (Demonspawn Necromancer)        Turns: 1278, Time: 00:01:47
+
+Health: -4/24      AC:  3    Str:  8    XL:     3   Next: 0%
+Magic:  0/7        EV: 11    Int: 17    God:    
+Gold:   93         SH:  0    Dex: 13    Spells: 6/7 levels left
+
+rFire    . . .     SeeInvis .   i - +0 spear
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   j - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.08/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: no status effects
+A: talons 1
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 93 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ d - a +0 dagger
+ i - a +0 spear (weapon)
+Armour
+ j - a +0 leather armour (worn)
+Scrolls
+ e - 3 scrolls of identify {unknown}
+ g - a scroll of blinking {unknown}
+ h - 2 scrolls of remove curse {unknown}
+ k - a scroll of enchant weapon {unknown}
+ l - a scroll of enchant armour {unknown}
+ o - a scroll of immolation {unknown}
+Potions
+ a - a potion of lignification {unknown}
+ f - a potion of heal wounds {unknown}
+ m - a potion of invisibility {unknown}
+ n - 2 potions of agility {unknown}
+Comestibles
+ b - 6 chunks of flesh
+ c - 2 rations
+
+
+   Skills:
+ - Level 1.7 Dodging
+ - Level 1.7 Stealth
+ + Level 2.7 Spellcasting
+ + Level 4.9 Necromancy
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           ###.         3%          1    #......
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          3%          1    #......
+ Vampiric Draining        Necr           ###.......   10%         3    ###....
+ Regeneration             Chrm/Necr      ##........   28%         3    ###....
+ Animate Dead             Necr           N/A          32%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+Qazlal
+
+Annotations:
+D:2 Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have sharp toenails.
+
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Pain (safe; 3% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - Sigmund
+Aim: Sigmund, wielding a scythe and wearing a robe (lightly wounded, chance to
+Sigmund writhes in agony! Sigmund hits you but does no damage.
+Casting: Pain (safe; 3% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Pain (safe; 3% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - Sigmund
+Aim: Sigmund, wielding a scythe and wearing a robe (lightly wounded, chance to
+Sigmund writhes in agony!
+Casting: Pain (safe; 3% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Pain (safe; 3% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - Sigmund
+Aim: Sigmund, wielding a scythe and wearing a robe (moderately wounded, chance
+Sigmund writhes in agony! Sigmund barely misses you.
+Sigmund points at you and mumbles some strange words.
+The magic dart hits you!
+You die...
+
+             ......#.....##.##.##
+              ...........##.....##
+               #..................
+             .###..#.#.....###..##
+         ### ..............##.....
+      #  #....###..#............##
+      #. #.#..# #..#....##.##..##
+      #.##.#..###..........##..###
+    ###...........................
+    #...................##.......#
+#######  #.#.#####............##.#
+#.....## #...#####.#..#.##.#..# .#
+#......###@#.##................ ..
+#..........#.##.#.....######..##
+#......###.#.##.#..#......#  .#
+#......# #@#.##.#..#......#   ..
+#......###.#....#.##......#    .
+#......##..#.##.#.##......#
+#............##...#######...
+#########..#............ .#..
+      ..................  ...
+    ....................
+    #####..#.###........
+        ......##...#####
+       ##..##.......
+        #... ........
+
+                         ..  ###.#
+                         .... ....
+                          ... ....
+
+
+You could see Sigmund.
+
+Vanquished Creatures
+  2 leopard geckos
+  5 bats
+  3 giant cockroaches
+  2 goblins (D:1)
+  4 hobgoblins
+  2 kobolds (D:1)
+  A frilled lizard (D:1)
+  4 rats (D:1)
+23 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | ok the Demonspawn Necromancer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   233 | D:1      | Gained mutation: You have sharp toenails. [demonic
+                  | ancestry]
+   233 | D:1      | Reached XP level 2. HP: 16/19 MP: 1/5
+  1124 | D:2      | Found a stormy altar of Qazlal.
+  1254 | D:2      | Reached XP level 3. HP: 21/24 MP: 4/7
+  1265 | D:2      | Noticed Sigmund
+  1278 | D:2      | Killed from afar by Sigmund
+
+Action                   || total
+-------------------------++-------
+Melee: Spear             ||    16
+       Kick              ||     1
+ Cast: Pain              ||    41
+  Eat: Chunk             ||     1
+Armor: Leather armour    ||     9
+Dodge: Dodged            ||    14
+

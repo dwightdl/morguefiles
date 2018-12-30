@@ -1,0 +1,283 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+im bad at dcss the Ruffian (DrTm)                   Turns: 3267, Time: 00:09:41
+
+Health: 35/59      AC: 10    Str: 13    XL:     7   Next: 16%
+Magic:  12/12      EV: 12    Int: 14    God:    Qazlal [......]
+Gold:   40         SH:  0    Dex: 15    Spells: 7/13 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   u - +0 cloak
+rCorr    +         Harm     .   d - +2 pair of gloves {Dex+3}
+MR       .....                  (boots currently unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.19/turn              (no ring)
+MPRegen  0.13/turn              (no ring)
+
+@: appendage (expiring)
+A: spit acid, acid resistance, unfitting armour, talons 3, cold-blooded, AC +6
+a: Breathe Acid, End Transformation, Renounce Religion
+
+
+You are on level 7 of the Dungeon.
+You worship Qazlal.
+Qazlal is noncommittal.
+You are not hungry.
+
+You have grown temporary talons.
+
+You have visited 1 branch of the dungeon, and seen 7 of its levels.
+
+You have collected 197 gold pieces.
+You have spent 157 gold pieces at shops.
+
+Inventory:
+
+Missiles
+ a - 18 arrows
+Armour
+ d - a +2 pair of gloves of dexterity (worn)
+ u - a +0 cloak (worn)
+Jewellery
+ g - a granite ring
+ j - a diamond ring
+ w - a scratched sapphire ring
+Wands
+ v - a wand of acid (7)
+Scrolls
+ e - 3 scrolls of enchant weapon
+ h - a scroll of teleportation
+ i - a scroll of enchant armour
+ l - 2 scrolls of fog
+ m - 2 scrolls labeled LONWOZYFAU
+ n - a scroll labeled PUONLA BIAWAFU
+ o - a scroll of identify
+ r - a scroll labeled MIMEISS MOAB
+ s - 5 scrolls of remove curse
+Potions
+ b - 3 brown potions
+ f - a fuming grey potion
+ k - a smoky dark potion
+ p - a sedimented pink potion
+ q - a red potion
+ t - a puce potion
+ x - 2 grey potions
+ A - a bubbling purple potion
+Comestibles
+ c - 9 rations
+ z - 4 chunks of flesh
+
+
+   Skills:
+ + Level 4.2 Fighting
+ - Level 1.7 Dodging
+ + Level 4.8 Unarmed Combat
+ + Level 3.9 Spellcasting
+ + Level 4.3 Transmutations
+
+
+You have 7 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           ##....       3%          1    None
+b - Sticks to Snakes      Tmut           ##......     4%          2    ##.....
+c - Spider Form           Tmut/Pois      #.........   24%         3    ###....
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Confusing Touch          Hex            #.....       21%         1    None
+ Confuse                  Hex            #.......     52%         3    ###....
+ Gell's Gravitas          Tloc           #.........   52%         3    ###....
+ Ice Form                 Ice/Tmut       #.......     63%         4    ####...
+ Petrify                  Tmut/Erth      #.......     63%         4    ####...
+ Blade Hands              Tmut           ##........   67%         5    ######.
+ Yara's Violent Unravell  Hex/Tmut       #.........   92%         5    ######.
+ Metabolic Englaciation   Hex/Ice        #.........   99%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)            
+Temple: D:4-7       
+
+Altars:
+Gozag
+Qazlal
+Xom
+The Shining One
+
+Shops:
+D:4 [
+
+Annotations:
+D:4 Natasha
+
+
+Innate Abilities, Weirdness & Mutations
+
+You can spit globs of acid.
+You are resistant to acid.
+Your golden yellow scales are hard. (AC +6)
+You cannot fit into any form of body armour.
+You are cold-blooded and may be slowed by cold attacks.
+You have claws for feet.
+
+
+Message History
+
+The phantom is severely damaged.
+The phantom blinks!
+You closely miss the phantom. Your punch misses the phantom.
+The phantom is severely damaged.
+The phantom barely misses you.
+You hit the phantom.
+The phantom is almost destroyed.
+The phantom closely misses you.
+You barely miss the phantom. Your kick misses the phantom.
+The phantom is almost destroyed.
+The phantom hits you.
+You hit the phantom.
+You destroy the phantom!
+Qazlal accepts your kill.
+You have reached level 7!
+Your scales start taking on a golden yellow colour.
+You can spit globs of acid. You are resistant to acid.
+Okay, then.
+Okay, then.
+You have 40 gold pieces.
+
+                               #####
+                               #....
+                               #.###
+                         #######.###
+                         ...........
+                         ###........
+                           #.###.##.
+           ###   ###      ..   #[##.
+           #..   ...     ##  .##.##.
+           #.#   #..        ........
+          ##.#####.##       ####.##.
+          #.........           #....
+          #..#   #.#     #######.###
+          #..# ###.#    ##..........
+       ####.@###...######...####.###
+       #....................#  #.###
+       #.##..###.########...#  #.##.
+       #..........#     #####  #.##.
+  ######..#..###..#            #.##.
+  #.......#..###..####         #.##.
+  #.#####.#........>.#         #.##.
+  #.#   #.##..##..##.#####     #.##.
+###.#####.###.##.........#######.##.
+#........#.<..##..######.........##.
+#...#####.######..#    ############.
+#.###   #.........#               #.
+#.#     ########.##               #.
+#.#            #.####
+#.#            #....#
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  A phantom (D:7)
+  3 bullfrogs
+  3 hounds
+  2 orc priests
+  A hound skeleton (D:4)
+  3 adders
+  2 oozes (D:2)
+  An adder skeleton (D:7)
+  3 worms
+  A dart slug (D:2)
+  2 leopard geckos
+  3 orcs (D:3)
+  4 giant cockroaches
+  8 goblins
+  9 hobgoblins
+  2 jackals (D:1)
+  A quokka (D:3)
+  7 bats
+  2 frilled lizards (D:3)
+  A jackal skeleton (D:5)
+  7 kobolds
+  A quokka zombie (D:4)
+  6 rats
+73 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  An ogre (D:7)
+  A bat (D:1)
+  A kobold (D:1)
+  A rat (D:1)
+4 creatures vanquished.
+
+Grand Total: 77 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | im bad at dcss the Draconian Transmuter began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 3/3
+   402 | D:1      | Reached XP level 2. HP: 23/23 MP: 3/5
+   440 | D:1      | Learned a level 2 spell: Sticks to Snakes
+   858 | D:1      | Reached XP level 3. HP: 29/29 MP: 3/6
+   980 | D:1      | Learned a level 3 spell: Spider Form
+  1391 | D:2      | Reached XP level 4. HP: 33/36 MP: 4/7
+  1401 | D:2      | Found an opulent altar of Gozag.
+  1436 | D:2      | Found a glowing golden altar of the Shining One.
+  1597 | D:3      | Noticed a bullfrog
+  1609 | D:3      | Killed a bullfrog
+  1609 | D:3      | Reached XP level 5. HP: 17/42 MP: 6/9
+  2030 | D:3      | Found a stormy altar of Qazlal.
+  2032 | D:3      | Noticed an air elemental
+  2033 | D:3      | Noticed a fire elemental
+  2033 | D:3      | Noticed a water elemental
+  2065 | D:3      | Became a worshipper of Qazlal Stormbringer
+  2471 | D:4      | Found Oruomoik's Antique Armour Emporium.
+  2476 | D:4      | Bought a pair of runed gloves for 157 gold pieces
+  2522 | D:4      | Found a shimmering altar of Xom.
+  2523 | D:4      | Found a shimmering altar of Xom.
+  2523 | D:4      | Found a shimmering altar of Xom.
+  2531 | D:4      | Noticed Natasha
+  2534 | D:4      | You fall through a shaft for 2 floors!
+  2537 | D:6      | Noticed a phantom
+  2574 | D:5      | Entered Level 5 of the Dungeon
+  2613 | D:5      | Reached XP level 6. HP: 39/51 MP: 8/10
+  2740 | D:4      | You fall through a shaft for 3 floors!
+  3266 | D:7      | Your scales start taking on a golden yellow colour.
+  3266 | D:7      | Reached XP level 7. HP: 34/59 MP: 12/12
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Fighting       |        2     3  4 |  4.2
+Transmutations |           3     4 |  4.3
+Spellcasting   |              3    |  3.9
+Unarmed Combat |              4    |  4.8
+Dodging        |                   |  1.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |   152 |   160 |       ||   312
+       Tailslap          |     9 |    19 |       ||    28
+       Punch             |     2 |     1 |       ||     3
+       Headbutt          |    14 |     2 |       ||    16
+       Kick              |     2 |    23 |       ||    25
+ Cast: Beastly Appendage |    20 |    17 |       ||    37
+       Sticks to Snakes  |     3 |     6 |       ||     9
+       Spider Form       |       |     1 |       ||     1
+ Abil: End Transformatio |     1 |       |       ||     1
+  Use: Scroll            |       |    11 |       ||    11
+ Stab: Distracted        |       |     1 |       ||     1
+       Sleeping          |       |     1 |       ||     1
+  Eat: Chunk             |     2 |     7 |       ||     9
+Armor: Skin              |    57 |    65 |       ||   122
+Dodge: Dodged            |   111 |   108 |       ||   219
+

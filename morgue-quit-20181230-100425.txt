@@ -1,0 +1,287 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+1013 quit the Magician (level 8, -7/41 HPs)
+             Began as a Deep Elf Fire Elementalist on Dec 30, 2018.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (11 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:10:55 (5101 turns).
+
+quit the Magician (Deep Elf Fire Elementalist)      Turns: 5101, Time: 00:10:55
+
+Health: -7/41      AC:  3    Str:  5    XL:     8   Next: 1%
+Magic:  2/19       EV: 12    Int: 23    God:    
+Gold:   225        SH:  0    Dex: 15    Spells: 10/20 levels left
+
+rFire    . . .     SeeInvis .   b - +1 trident (freeze)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   d - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.13/turn              (no ring)
+MPRegen  0.16/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 5 of the Dungeon.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 6 of its levels.
+
+You collected 225 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 flail of holy wrath
+ b - a +1 trident of freezing (weapon)
+ f - the +4 great sword of the Asp {freeze, +Fly MR+++ Str+4 Dex-2}
+   (You found it on level 5 of the Dungeon)   
+   
+   It has been specially enchanted to freeze those struck by it, causing extra
+   injury to most foes and up to half again as much damage against particularly
+   susceptible opponents. It can also slow down cold-blooded creatures.
+   
+   It affects your strength (+4).
+   It affects your dexterity (-2).
+   It affects your resistance to hostile enchantments.
+   It lets you fly.
+Armour
+ d - a +0 leather armour (worn)
+ A - a +0 buckler
+Jewellery
+ l - a +3 ring of protection {unknown}
+ s - an uncursed ring of ice {unknown}
+Wands
+ r - a wand of flame (21)
+ u - a wand of scattershot (6)
+Scrolls
+ e - a scroll of amnesia {unknown}
+ k - 2 scrolls of teleportation {unknown}
+ m - 2 scrolls of remove curse {unknown}
+ n - a scroll of immolation {unknown}
+ o - a scroll of blinking {unknown}
+ q - a scroll of enchant armour {unknown}
+ v - a scroll of enchant weapon {unknown}
+ y - 6 scrolls of identify {unknown}
+ z - 2 scrolls of noise {unknown}
+Potions
+ g - 2 potions of brilliance {unknown}
+ h - a potion of degeneration {unknown}
+ i - 4 potions of agility {unknown}
+ j - 4 potions of curing {unknown}
+ p - a potion of flight {unknown}
+ t - a potion of might {unknown}
+Comestibles
+ c - 8 rations
+
+
+   Skills:
+ + Level 3.3 Armour
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ * Level 1.4 Shields
+ + Level 6.6 Spellcasting
+ + Level 4.9 Conjurations
+ + Level 6.0 Fire Magic
+
+
+You had 10 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      ####.        1%          1    None
+b - Throw Flame           Conj/Fire      ####..       1%          2    None
+c - Conjure Flame         Conj/Fire      ####....     4%          3    None
+d - Sticky Flame          Conj/Fire      ####....     14%         4    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Inner Flame              Hex/Fire       ###.....     11%         3    None
+ Fireball                 Conj/Fire      ####......   36%         5    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)             Temple (1/1) D:4         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Fedhas
+Gozag
+Hepliaklqana
+Ru
+Trog
+Uskayaw
+Wu Jian
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:4 1 runed door
+D:5 1 runed door, quit's ghost, amateur TeFE
+
+Message History
+
+The orc wizard burns! The orc wizard stops burning. The orc priest misses you.
+You hit the orc wizard. You freeze the orc wizard.
+The orc wizard is almost dead.
+The orc priest hits you from afar with a trident.
+The orc wizard closely misses you.
+The orc priest hits you from afar with a trident!
+The orc wizard casts a spell at you.
+The magic dart hits you!
+The orc wizard hits you with a dagger.
+The orc wizard mumbles some strange words.
+The orc wizard blinks!
+The orc shouts!
+The orc wizard casts a spell at you.
+You easily resist.
+The orc priest invokes the aid of Beogh against you.
+Beogh smites you!
+* * * LOW HITPOINT WARNING * * *
+The orc priest calls down the wrath of Beogh upon you.
+Beogh smites you!
+You die...
+
+######.......###.##   ######.#####
+#.............#.###   #...........
+#.####..#####.###..   ####.#.#####
+#.#  #..#       ...      ###.#
+#.#  #..#      ....        #.#
+#.#  #..##### ...#         #.#
+#.#  #..#...#..#...        #.#
+#.#  #......'......       ##.#
+#.#  #......'o.....       #..#
+#.#  ##)#...#..#...       #.##
+#.#   #o#####....#.       #.#
+#.#####.o#### ....o       #.#
+#.....o#o#..###.)..     ###.#
+###..##00.#..# ##..     #.#.######
+  ##.#.#0#0#.#   ## #####.#.##....
+   #..00_0@00#      #.....#...)..#
+   ###.#0#0#############..#..###.#
+     ##.0.#####...........#..# #..
+      ##.#..))..########.###.###.#
+       #...######     #...##.....#
+       #####          #.#...(...>.
+                      #...####.##.
+                      #####  #.###
+                             #.#
+                             #.###
+                             #....
+                             #####
+
+
+You could see an orc priest, an orc wizard and an orc.
+
+Vanquished Creatures
+  A sky beast (D:4)
+  3 ogres
+  A gnoll sergeant (D:5)
+  A centaur zombie (D:5)
+  A crimson imp (D:5)
+  A hound (D:4)
+  A jelly (D:5)
+  3 orc wizards
+  Jessica (D:2)
+  An iguana (D:4)
+  2 worker ants
+  A worker ant zombie (D:5)
+  8 gnolls (D:5)
+  2 howler monkey skeletons
+  8 adders
+  An ooze (D:5)
+  3 worms
+  4 dart slugs
+  2 leopard geckos
+  7 orcs
+  2 ball pythons
+  4 giant cockroaches
+  12 goblins
+  8 hobgoblins
+  7 jackals (D:4)
+  5 quokkas
+  11 bats
+  5 frilled lizards
+  7 kobolds
+  5 rats
+118 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | quit the Deep Elf Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   113 | D:1      | Reached XP level 2. HP: 15/15 MP: 1/8
+   820 | D:1      | Reached XP level 3. HP: 17/19 MP: 7/10
+  1453 | D:2      | Learned a level 2 spell: Throw Flame
+  1457 | D:2      | Learned a level 3 spell: Conjure Flame
+  1501 | D:2      | Reached XP level 4. HP: 19/24 MP: 6/12
+  1770 | D:2      | Noticed Jessica
+  1774 | D:2      | Killed Jessica
+  1774 | D:2      | Reached skill level 1 in Armour
+  2381 | D:3      | Learned a level 4 spell: Sticky Flame
+  2391 | D:3      | Found a sacrificial altar of Ru.
+  2405 | D:3      | Reached XP level 5. HP: 26/28 MP: 5/13
+  3025 | D:3      | Noticed an ogre
+  3036 | D:3      | Killed an ogre
+  3036 | D:3      | Reached skill level 5 in Spellcasting
+  3036 | D:3      | Reached XP level 6. HP: 32/32 MP: 8/15
+  3375 | D:4      | Found a staircase to the Ecumenical Temple.
+  3462 | Temple   | Entered the Ecumenical Temple
+  3711 | D:4      | Noticed a sky beast
+  3717 | D:4      | Killed a sky beast
+  3717 | D:4      | Reached skill level 5 in Fire Magic
+  3816 | D:4      | Reached XP level 7. HP: 36/36 MP: 7/17
+  4026 | D:4      | Found a glowing silver altar of Zin.
+  4027 | D:4      | Found a runed door.
+  4027 | D:4      | Noticed an angel
+  4112 | D:5      | Entered Level 5 of the Dungeon
+  4483 | D:5      | Got a transparent great sword
+  4484 | D:5      | Identified the +4 great sword of the Asp {freeze, +Fly
+                  | MR+++ Str+4 Dex-2} (You found it on level 5 of the Dungeon)
+  4598 | D:5      | Reached skill level 1 in Shields
+  4791 | D:5      | Found a runed door.
+  4791 | D:5      | Noticed quit's ghost (amateur TeFE)
+  5033 | D:5      | Found a shadowy altar of Dithmenos.
+  5079 | D:5      | Reached XP level 8. HP: 40/41 MP: 12/19
+  5101 | D:5      | Killed from afar by an orc priest
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Conjurations   |     2        3  4    |  4.9
+Spellcasting   |        4     5     6 |  6.6
+Fire Magic     |        4        5  6 |  6.0
+Armour         |           1     2  3 |  3.3
+Shields        |                    1 |  1.4
+Dodging        |                      |  2.4
+Stealth        |                      |  2.4
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Dagger            |    23 |     6 |     6 ||    35
+       Flail             |       |       |     9 ||     9
+       Trident           |       |       |     9 ||     9
+ Cast: Flame Tongue      |    52 |   108 |    54 ||   214
+       Conjure Flame     |       |     3 |     4 ||     7
+       Throw Flame       |       |       |    11 ||    11
+       Sticky Flame      |       |       |     1 ||     1
+ Stab: Sleeping          |     1 |     2 |       ||     3
+  Eat: Chunk             |     2 |     7 |     4 ||    13
+Armor: Leather armour    |     7 |     9 |     2 ||    18
+Dodge: Dodged            |    17 |    23 |    17 ||    57
+

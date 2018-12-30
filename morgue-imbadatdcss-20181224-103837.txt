@@ -1,0 +1,224 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+224 im bad at dcss the Grave Robber (level 5, -2/28 HPs)
+             Began as a Deep Elf Necromancer on Dec 24, 2018.
+             Slain by a gnoll
+             ... wielding a +0 club
+              (5 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:06:29 (3013 turns).
+
+im bad at dcss the Grave Robber (DENe)              Turns: 3013, Time: 00:06:29
+
+Health: -2/28      AC:  4    Str:  5    XL:     5   Next: 67%
+Magic:  15/30      EV: 13    Int: 21    God:    
+Gold:   129        SH:  0    Dex: 15    Spells: 5/16 levels left
+
+rFire    . . .     SeeInvis .   l - staff of power
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   j - +0 helmet
+rElec    .         Reflect  .   p - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  1.09/turn              (no ring)
+MPRegen  0.22/turn              (no ring)
+
+@: regenerating
+A: no striking features
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 129 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ k - a +1 long sword of slicing
+Armour
+ a - a +0 robe (worn)
+ j - a +0 helmet (worn)
+ p - a +0 cloak (worn)
+Magical Staves
+ l - an uncursed staff of power (weapon)
+Jewellery
+ h - an uncursed ring of protection from magic {unknown}
+ q - an uncursed ring of magical power {unknown}
+Wands
+ m - a wand of iceblast (6)
+Scrolls
+ b - a scroll of immolation {unknown}
+ d - a scroll of enchant armour {unknown}
+ g - 2 scrolls of identify {unknown}
+ i - a scroll of amnesia {unknown}
+Potions
+ e - 3 potions of curing {unknown}
+ f - a potion of mutation {unknown}
+ n - a potion of flight {unknown}
+Comestibles
+ c - 7 rations
+ o - 2 chunks of flesh
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 6.0 Spellcasting
+ + Level 6.8 Necromancy
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           ####         1%          1    None
+b - Vampiric Draining     Necr           #####.....   1%          3    ##.....
+c - Regeneration          Chrm/Necr      ###.......   7%          3    ##.....
+d - Animate Dead          Necr           N/A          6%          4    ####...
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          1%          1    None
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Elyvilon
+Uskayaw
+Xom
+
+Message History
+
+Aiming: Pain (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a club (chance to defeat MR: 89%)
+The gnoll writhes in agony! The gnoll barely misses you.
+Casting: Pain (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Pain (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a club (lightly wounded, chance to defeat MR: 89%)
+The gnoll writhes in agony! The gnoll closely misses you.
+Your gnoll zombie hits the gnoll with a halberd!
+The gnoll misses you.
+Casting: Pain (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Your skin crawls.
+The gnoll hits you from afar with a halberd!
+Ouch! That really hurt!
+* * * LOW HITPOINT WARNING * * *
+The gnoll hits you with a club.
+You die...
+
+          ##.###..........# #.
+           #.# #..........###.
+           #.# ##..#.##.....#.
+           #.# ##..#(####.#.#.
+         ###.###...#.#  #.#...
+   #######..###...#######.....
+   [........#~~...~~#.........
+   #######.##~..7..~#.#####.#.
+         #.#..........# #.....
+         #....7[_.7...# #.###.
+         #...........## #.# #.
+         ####~..7..~##  #.###.
+          #.#~~...%~#   #.(...
+#.#########.###...###########.
+#...........###........######.
+    #Z@.......#...............
+    #g#######.##.......######.
+    #g      #.####......#   ##
+    #.      #.####...##.#    #
+    #.      #............#####
+    #.      ###########.......
+    ..                 #......
+    ##                 #######
+
+
+You could see 2 gnolls and a friendly gnoll zombie.
+
+Vanquished Creatures
+  Crazy Yiuf (D:2)
+  Natasha (D:2)
+  Robin (D:2)
+  An adder (D:3)
+  5 gnolls (D:3)
+  3 worms (D:3)
+  2 dart slugs
+  A leopard gecko (D:2)
+  An orc (D:3)
+  6 giant cockroaches
+  15 goblins
+  7 hobgoblins
+  3 jackals (D:1)
+  10 kobolds
+  A quokka (D:2)
+  8 bats
+  8 frilled lizards
+  10 rats
+84 creatures vanquished.
+
+Vanquished Creatures (others)
+  A quokka (D:3)
+1 creature vanquished.
+
+Grand Total: 85 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | im bad at dcss the Deep Elf Necromancer began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   182 | D:1      | Reached skill level 5 in Necromancy
+   505 | D:1      | Reached XP level 2. HP: 15/15 MP: 5/8
+  1005 | D:1      | Reached XP level 3. HP: 14/19 MP: 5/10
+  1011 | D:1      | Learned a level 3 spell: Vampiric Draining
+  1015 | D:1      | Learned a level 3 spell: Regeneration
+  1675 | D:2      | Noticed Robin
+  1689 | D:2      | Killed Robin
+  2023 | D:2      | Reached XP level 4. HP: 24/24 MP: 10/12
+  2123 | D:2      | Learned a level 4 spell: Animate Dead
+  2390 | D:2      | Noticed Natasha
+  2396 | D:2      | Killed Natasha
+  2396 | D:2      | Reached skill level 5 in Spellcasting
+  2499 | D:2      | Found a runed door.
+  2503 | D:2      | Noticed Crazy Yiuf
+  2507 | D:2      | Killed Crazy Yiuf
+  2507 | D:2      | Reached XP level 5. HP: 18/28 MP: 14/14
+  2911 | D:3      | Found a hide-covered altar of Uskayaw.
+  2912 | D:3      | Found a shimmering altar of Xom.
+  2963 | D:3      | Found a white marble altar of Elyvilon.
+  3013 | D:3      | Slain by a gnoll
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Necromancy     |  5        6    |  6.8
+Spellcasting   |     4     5  6 |  6.0
+Dodging        |                |  2.4
+Stealth        |                |  2.4
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Short sword       |     7 |       ||     7
+       Club              |     3 |       ||     3
+       Staff             |       |     1 ||     1
+ Cast: Pain              |    70 |    65 ||   135
+       Vampiric Draining |       |     8 ||     8
+       Regeneration      |       |     2 ||     2
+       Animate Dead      |       |     1 ||     1
+  Eat: Chunk             |     3 |     4 ||     7
+Armor: Robe              |     1 |     4 ||     5
+Dodge: Dodged            |    12 |     9 ||    21
+

@@ -1,0 +1,162 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+7 im bad at dcss the Grave Robber (level 1, 0/10 HPs)
+             Began as a Deep Elf Necromancer on Dec 23, 2018.
+             Slain by a jackal (1 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:00:27 (277 turns).
+
+im bad at dcss the Grave Robber (DENe)               Turns: 277, Time: 00:00:27
+
+Health: 0/10       AC:  2    Str:  5    XL:     1   Next: 91%
+Magic:  0/6        EV: 13    Int: 19    God:    
+Gold:   10         SH:  0    Dex: 15    Spells: 5/6 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: very slightly contaminated
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 10 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ e - a scroll of remove curse {unknown}
+ f - a scroll of enchant armour {unknown}
+ g - a scroll of blinking {unknown}
+ h - a scroll of identify {unknown}
+Potions
+ b - a potion of haste {unknown}
+Comestibles
+ c - 3 rations
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 3.4 Spellcasting
+ + Level 5.1 Necromancy
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           ###.         1%          1    None
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          1%          1    None
+ Vampiric Draining        Necr           ###.......   5%          3    ###....
+ Regeneration             Chrm/Necr      ##........   16%         3    ###....
+ Animate Dead             Necr           N/A          19%         4    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+You closely miss the jackal.
+The jackal bites you but does no damage.
+The jackal barely misses you.
+You miss the jackal. The jackal closely misses you.
+All of the chunks of flesh in your inventory have rotted away.
+You hit the jackal.
+The jackal is moderately wounded.
+The jackal bites you but does no damage.
+The jackal barely misses you.
+You hit the jackal but do no damage.
+The jackal is moderately wounded.
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+Casting: Pain (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Pain (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - jackal
+Aim: a jackal (moderately wounded, chance to defeat MR: 91%)
+The jackal barely resists. The jackal bites you.
+You die...
+
+#.##)...# #.###.......#
+#.)...#.# #...####+####
+##.##.#...#.#......#
+ #.. .#####[########
+ ##....   #.#
+   #####  #.#
+          #.#
+          #.#
+          #.#
+          #.#
+          #.#
+          #.#
+     ##   #.#
+      ..  #.#
+   [####.##.#
+   ......h@.#
+   #######..#
+         #..#
+         #..#
+         #..#
+         #.##
+         #.#
+         #.#
+
+
+You could see a jackal.
+
+Vanquished Creatures
+  A hobgoblin (D:1)
+  2 jackals (D:1)
+  2 goblins (D:1)
+  A kobold (D:1)
+  A rat (D:1)
+7 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | im bad at dcss the Deep Elf Necromancer began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   107 | D:1      | Reached skill level 5 in Necromancy
+   277 | D:1      | Slain by a jackal
+
+Skill      XL: |  1 |
+---------------+----+-----
+Necromancy     |  5 |  5.1
+Dodging        |    |  2.4
+Stealth        |    |  2.4
+Spellcasting   |    |  3.4
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||     5
+ Cast: Pain              ||    13
+Armor: Robe              ||     2
+Dodge: Dodged            ||     6
+

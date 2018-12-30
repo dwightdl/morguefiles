@@ -1,0 +1,187 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+11 im bad at dcss the Firebug (level 2, -1/15 HPs)
+             Began as a Tengu Fire Elementalist on Dec 23, 2018.
+             Slain by a gnoll
+             ... wielding a +0 halberd
+              (6 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:01:15 (609 turns).
+
+im bad at dcss the Firebug (Tengu Fire Elementalist) Turns: 609, Time: 00:01:15
+
+Health: -1/15      AC:  3    Str:  8    XL:     2   Next: 29%
+Magic:  3/6        EV: 12    Int: 15    God:    
+Gold:   45         SH:  0    Dex: 14    Spells: 2/5 levels left
+
+rFire    . . .     SeeInvis .   f - +0 spear
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   b - +0 pair of gloves (curse)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: no status effects
+A: beak, talons 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 45 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ f - a +0 spear (weapon)
+Armour
+ a - a +0 robe (worn)
+ b - a cursed +0 pair of gloves (worn)
+Scrolls
+ d - a scroll of enchant armour {unknown}
+ e - a scroll of remove curse {unknown}
+ h - 2 scrolls of amnesia {unknown}
+Potions
+ i - a potion of might {unknown}
+Comestibles
+ c - a ration
+ g - a chunk of flesh
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ * Level 2.2 Spellcasting
+ * Level 2.3 Conjurations
+ + Level 3.5 Fire Magic
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      ##...        7%          1    #......
+b - Throw Flame           Conj/Fire      ##....       10%         2    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Conjure Flame            Conj/Fire      ##......     21%         3    ###....
+ Inner Flame              Hex/Fire       #.......     32%         3    ###....
+ Sticky Flame             Conj/Fire      ##......     54%         4    #####..
+ Fireball                 Conj/Fire      ##........   88%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+
+
+Message History
+
+Aim: a gnoll, wielding a halberd
+The flame tongue hits the gnoll.
+The gnoll is lightly wounded.
+Casting: Flame Tongue (safe; 7% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Flame Tongue (safe; 7% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a halberd (lightly wounded)
+The flame tongue misses the gnoll.
+The gnoll hits you from afar with a halberd!
+Ouch! That really hurt!
+Casting: Flame Tongue (safe; 7% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Flame Tongue (safe; 7% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a halberd (lightly wounded)
+The flame tongue hits the gnoll.
+The gnoll is almost dead.
+The gnoll hits you from afar with a halberd.
+You die...
+
+     #............## ##....#.....#..#.### .
+     #............#  #....#.......#..... ..
+     #............# ##...#....<....#..##.#
+   .##............###..#..#.......#.......
+   ........................#.....#...>.#
+   .##............######....#####....###.#.
+   ........................................
+   .###.......############........(.######.
+      #....)..#          #####.###..#
+      #.......#              #...#..#
+#######.......#              #...#..#
+..............#              #...#..#
+..............#       #####  #...#..#
+..............#########...####......#
+..............#...>...............
+..............#.........@.g.......
+....%...#######...................
+........##.........%..########....
+........##............#        ...
+........##............#         .#
+........##............#
+........##..%.........#
+........##..............
+.........................
+##############...........
+             #.#####....
+             #.#    ...
+             #.#
+              .#
+
+
+You could see a gnoll.
+
+Vanquished Creatures
+  A dart slug (D:1)
+  A leopard gecko (D:1)
+  A goblin (D:1)
+  2 hobgoblins (D:1)
+  A kobold (D:1)
+  A bat (D:1)
+  A rat (D:1)
+8 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | im bad at dcss the Tengu Fire Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   320 | D:1      | Reached XP level 2. HP: 12/15 MP: 0/6
+   324 | D:1      | Learned a level 2 spell: Throw Flame
+   609 | D:1      | Slain by a gnoll
+
+Skill      XL: |  1 |
+---------------+----+-----
+Conjurations   |  2 |  2.3
+Dodging        |    |  2.1
+Stealth        |    |  2.0
+Spellcasting   |    |  2.2
+Fire Magic     |    |  3.5
+
+Action                   || total
+-------------------------++-------
+Melee: Spear             ||    22
+       Kick              ||     2
+       Peck              ||     1
+ Cast: Flame Tongue      ||     8
+Dodge: Dodged            ||    11
+

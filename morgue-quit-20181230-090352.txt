@@ -1,0 +1,485 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+21528 quit the Eclecticist (level 12, -8/59 HPs)
+             Began as a Deep Elf Fire Elementalist on Dec 30, 2018.
+             Was an Elder of Vehumet.
+             Mangled by an earth elemental (35 damage)
+             ... in a labyrinth.
+             The game lasted 00:58:05 (20704 turns).
+
+quit the Eclecticist (Deep Elf Fire Elementalist)  Turns: 20704, Time: 00:58:06
+
+Health: -8/59      AC:  8    Str:  5    XL:     12   Next: 55%
+Magic:  23/34      EV: 17    Int: 28    God:    Vehumet [****..]
+Gold:   626        SH:  8    Dex: 20    Spells: 21/44 levels left
+
+rFire    + . .     SeeInvis .   R - +7 spear {protect, *Rage rPois Dex+4}
+rCold    x . .     Gourm    .   b - +2 buckler
+rNeg     . . .     Faith    .   u - +1 leather armour {MR+}
+rPois    +         Spirit   .   S - +2 hat {MR+}
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   e - +0 pair of gloves
+MR       +++..     Rnd*Rage +   q - +0 pair of boots (curse)
+Stlth    ++........             (no amulet)
+HPRegen  0.19/turn              y - ring of fire
+MPRegen  0.24/turn              i - +3 ring of intelligence
+
+@: no status effects
+A: no striking features
+a: Renounce Religion
+
+
+You were in a labyrinth.
+You worshipped Vehumet.
+Vehumet was greatly pleased with you.
+You were not hungry.
+
+You visited 3 branches of the dungeon, and saw 16 of its levels.
+You also visited: Labyrinth.
+
+You collected 1025 gold pieces.
+You spent 399 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ P - the +5 quarterstaff "Esae" {freeze, +Blink rF+ Str-2 Stlth+}
+   (You found it on level 10 of the Dungeon)   
+   
+   It has been specially enchanted to freeze those struck by it, causing extra
+   injury to most foes and up to half again as much damage against particularly
+   susceptible opponents. It can also slow down cold-blooded creatures.
+   
+   It affects your strength (-2).
+   It protects you from fire.
+   It lets you blink.
+   It makes you more stealthy.
+ R - the +7 spear of Myuxeth (weapon) {protect, *Rage rPois Dex+4}
+   (You found it on level 11 of the Dungeon)   
+   
+   It protects the one who uses it against injury (+AC on strike).
+   
+   It affects your dexterity (+4).
+   It protects you from poison.
+   It may make you go berserk in combat.
+Armour
+ b - a +2 buckler (worn)
+ e - a +0 pair of gloves (worn)
+ q - a cursed +0 pair of boots (worn)
+ u - a +1 leather armour of magic resistance (worn)
+ S - a +2 hat of magic resistance (worn)
+Magical Staves
+ J - an uncursed staff of earth
+Jewellery
+ a - a +5 ring of strength
+ f - an uncursed ring of positive energy
+ i - a +3 ring of intelligence (right hand)
+ k - a +2 ring of dexterity
+ o - an uncursed ring of protection from cold
+ y - a ring of fire (left hand)
+ U - a cursed -2 ring of protection {unknown}
+Wands
+ z - a wand of digging (25)
+ A - a wand of iceblast (29)
+ B - a wand of acid (7)
+ O - a wand of random effects (33)
+Scrolls
+ d - 2 scrolls of noise
+ g - 3 scrolls of remove curse
+ h - 5 scrolls of fog
+ j - 6 scrolls of enchant armour {unknown}
+ n - 6 scrolls of magic mapping
+ p - 3 scrolls of fear
+ r - a scroll of blinking
+ s - 4 scrolls of enchant weapon
+ v - 4 scrolls of teleportation
+ w - 5 scrolls of immolation
+ K - 2 scrolls of amnesia
+ L - a scroll of summoning
+ N - a scroll of silence
+ V - a scroll of holy word
+Potions
+ l - 6 potions of curing
+ m - 7 potions of heal wounds
+ t - 3 potions of degeneration
+ x - a potion of berserk rage {unknown}
+ C - a potion of invisibility {unknown}
+ D - a potion of lignification {unknown}
+ E - 5 potions of brilliance {unknown}
+ F - 2 potions of magic
+ G - 4 potions of flight {unknown}
+ H - 2 potions of might {unknown}
+ I - a potion of agility {unknown}
+ M - a potion of haste {unknown}
+ Q - a potion of ambrosia {unknown}
+Miscellaneous
+ T - a lightning rod (4/4)
+Comestibles
+ c - 38 rations
+
+
+   Skills:
+ + Level 7.6 Dodging
+ - Level 2.4 Stealth
+ - Level 4.0 Shields
+ * Level 16.9 Spellcasting
+ + Level 11.3 Conjurations
+ - Level 11.0 Fire Magic
+
+
+You had 21 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      #####        1%          1    None
+b - Throw Flame           Conj/Fire      ######       1%          2    None
+c - Conjure Flame         Conj/Fire      #######.     1%          3    None
+d - Sticky Flame          Conj/Fire      #######.     1%          4    None
+e - Searing Ray           Conj           ######       1%          2    None
+f - Fireball              Conj/Fire      #######...   1%          5    None
+g - Mephitic Cloud        Conj/Pois/Air  #####...     1%          3    None
+h - Ignite Poison         Fire/Tmut/Pois ######..     1%          3    None
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Venom Bolt               Conj/Pois      ######....   2%          5    None
+ Freeze                   Ice            ###.         1%          1    None
+ Magic Dart               Conj           ####         1%          1    None
+ Sandblast                Erth           ###...       1%          1    None
+ Throw Frost              Conj/Ice       ######       1%          2    None
+ Dazzling Spray           Conj/Hex       ######       1%          3    None
+ Inner Flame              Hex/Fire       ######..     1%          3    None
+ Stone Arrow              Conj/Erth      ######       1%          3    None
+ Force Lance              Conj/Tloc      ######..     1%          4    None
+ Fulminant Prism          Conj/Hex       ######....   1%          4    None
+ Iskenderun's Mystic Bla  Conj           ######..     1%          4    None
+ Throw Icicle             Conj/Ice       ######..     1%          4    None
+ Corona                   Hex            ###....      3%          1    None
+ Ensorcelled Hibernation  Hex/Ice        ###...       4%          2    None
+ Passwall                 Tmut/Erth      ###.....     4%          2    None
+ Poisonous Vapours        Pois/Air       ###...       4%          2    None
+ Confuse                  Hex            ###.....     10%         3    None
+ Ozocubu's Armour         Chrm/Ice       ###.....     10%         3    None
+ Tukima's Dance           Hex            ###.....     10%         3    None
+ Lee's Rapid Deconstruct  Erth           ###.......   24%         5    None
+ Freezing Cloud           Conj/Ice/Air   #####.....   26%         6    ###....
+ Petrify                  Tmut/Erth      ###.....     32%         4    None
+ Summon Ice Beast         Ice/Summ       ###.....     32%         4    None
+ Ring of Flames           Chrm/Fire      ######....   96%         7    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (1/1) D:4            Lair (4/6) D:8
+  Swamp (0/4) Lair:2        Snake (0/4) Lair:4          Orc (0/2) D:11
+
+Altars:
+Ashenzari
+Cheibriados
+Elyvilon
+Fedhas
+Gozag
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Vehumet
+Zin
+The Shining One
+
+Shops:
+D:4 *[%   D:8 (
+
+Message History
+
+You finish channeling your searing ray.
+Casting: Searing Ray (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Searing Ray (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - earth elemental
+Aim: an earth elemental (flame, heavily damaged)
+The searing ray hits the earth elemental.
+The earth elemental is heavily damaged.
+(Press . to maintain the ray.)
+You block the earth elemental's attack.
+The searing ray hits the earth elemental.
+The earth elemental is heavily damaged.
+The earth elemental misses you.
+The searing ray hits the earth elemental.
+The earth elemental is almost destroyed.
+The searing ray hits the earth elemental.
+The earth elemental is almost destroyed.
+You finish channeling your searing ray. The earth elemental hits you!!
+Ouch! That really hurt!
+You die...
+
+         .
+    #
+      #
+#
+     .  # #
+   .#
+  #       #
+             ..
+             ..#####
+#         ####.#.E@#
+.          ....#[#.#
+ .##        #..# #.#  #
+ .    #     # .###.#..
+  ### #  ## #........#
+     . ... .#...#.#.....#
+##   .#.### ###.#.###.#.#
+    . ..#  ... .#..   # ..
+    #   ############  #
+
+
+You could see an earth elemental.
+
+Vanquished Creatures
+  A hydra (Lair:3)
+  A two-headed ogre (D:8)
+  2 death yaks (Lair:3)
+  An unseen horror (D:11)
+  Pikel (D:6)
+  3 black mambas
+  A torpor snail (Lair:2)
+  3 spiny frogs
+  4 komodo dragons
+  Grinder (D:5)
+  2 hippogriffs
+  4 polar bears (Lair:2)
+  Prince Ribbit (D:5)
+  2 dream sheep (Lair:2)
+  Sigmund (D:6)
+  A wyvern (D:8)
+  25 yaks
+  A basilisk (D:11)
+  A wraith (D:10)
+  5 hungry ghosts (Lab)
+  Edmund (D:6)
+  Menkaure (D:7)
+  A warg (D:11)
+  8 water moccasins
+  Duvessa (D:5)
+  7 porcupines
+  3 orc warriors
+  5 black bears (Lair:2)
+  An ice beast (D:6)
+  A slave (D:6)
+  2 phantoms
+  3 centaurs
+  7 ogres
+  9 crocodiles
+  13 bullfrogs
+  Dowan (D:5)
+  8 scorpions
+  A wyvern skeleton (D:11)
+  5 wights (D:7)
+  10 killer bees
+  3 howler monkeys
+  2 electric eels
+  3 crimson imps
+  2 quasits (D:6)
+  8 hounds
+  4 jellies
+  5 orc priests
+  12 orc wizards
+  A bullfrog skeleton (D:9)
+  3 iguanas
+  5 worker ants
+  A hound skeleton (D:4)
+  2 worker ant zombies (D:7)
+  A howler monkey zombie (D:5)
+  A howler monkey skeleton (D:4)
+  6 gnolls
+  13 adders
+  An adder zombie (D:6)
+  4 worms
+  2 dart slugs
+  4 leopard geckos
+  46 orcs
+  12 bats
+  6 giant cockroaches
+  13 goblins
+  11 hobgoblins
+  15 jackals
+  5 quokkas
+  2 ball pythons
+  10 frilled lizards
+  A jackal skeleton (D:8)
+  5 kobolds
+  A leopard gecko skeleton (D:5)
+  A quokka skeleton (D:4)
+  4 rats
+364 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 slaves (D:6)
+  A crimson imp (D:6)
+  A fungus (Lair:2)
+  4 plants (D:8)
+8 creatures vanquished.
+
+Grand Total: 372 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | quit the Deep Elf Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   207 | D:1      | Reached XP level 2. HP: 15/15 MP: 5/8
+   928 | D:1      | Learned a level 2 spell: Throw Flame
+  1164 | D:2      | Reached XP level 3. HP: 19/19 MP: 7/10
+  1167 | D:2      | Reached skill level 1 in Shields
+  1737 | D:2      | Reached XP level 4. HP: 24/24 MP: 8/11
+  1757 | D:2      | Reached skill level 4 in Spellcasting
+  3077 | D:3      | Reached XP level 5. HP: 28/28 MP: 7/13
+  3211 | D:3      | Found a burning altar of Makhleb.
+  3317 | D:3      | Learned a level 3 spell: Conjure Flame
+  3322 | D:3      | Learned a level 4 spell: Sticky Flame
+  3788 | D:3      | Found a sacrificial altar of Ru.
+  4375 | D:3      | Found a glowing silver altar of Zin.
+  4376 | D:3      | Noticed a green death
+  4376 | D:3      | Noticed an angel
+  4646 | D:4      | Reached XP level 6. HP: 30/32 MP: 6/15
+  4804 | D:4      | Found Adghaamo's General Store.
+  4814 | D:4      | Bought a scroll of teleportation for 42 gold pieces
+  4814 | D:4      | Bought a scroll of immolation for 49 gold pieces
+  4944 | D:4      | Reached skill level 5 in Spellcasting
+  5066 | D:4      | Learned a level 2 spell: Searing Ray
+  5068 | D:4      | Found Aluarrex's Antique Armour Emporium.
+  5187 | D:4      | Found a staircase to the Ecumenical Temple.
+  5194 | Temple   | Entered the Ecumenical Temple
+  5292 | Temple   | Became a worshipper of Vehumet
+  5722 | D:4      | Reached skill level 5 in Fire Magic
+  5819 | D:4      | You fall through a shaft for 3 floors!
+  5833 | D:7      | Reached XP level 7. HP: 36/36 MP: 8/17
+  6271 | D:6      | Reached skill level 6 in Spellcasting
+  6559 | D:6      | Noticed Sigmund
+  6572 | D:6      | Killed Sigmund
+  6572 | D:6      | Reached skill level 5 in Conjurations
+  6572 | D:6      | Reached XP level 8. HP: 41/41 MP: 2/20
+  6629 | D:5      | Entered Level 5 of the Dungeon
+  6693 | D:4      | Found Uwiyle's Food Shop.
+  6725 | D:5      | Noticed Prince Ribbit
+  6732 | D:5      | Killed Prince Ribbit
+  6732 | D:5      | Reached skill level 7 in Spellcasting
+  6772 | D:5      | Noticed Duvessa
+  6773 | D:5      | Noticed Dowan
+  7272 | D:5      | Killed Duvessa
+  7286 | D:5      | Killed Dowan
+  7286 | D:5      | Reached skill level 8 in Spellcasting
+  7481 | D:5      | Reached * piety under Vehumet
+  7481 | D:5      | Offered knowledge of Sandblast by Vehumet.
+  7483 | D:5      | Noticed Grinder
+  7605 | D:4      | Bought 2 potions of heal wounds for 140 gold pieces
+  7660 | D:5      | Killed Grinder
+  7889 | D:5      | Reached skill level 9 in Spellcasting
+  8037 | D:5      | Reached XP level 9. HP: 45/45 MP: 20/24
+  8039 | D:5      | Found a glowing golden altar of the Shining One.
+  8360 | D:6      | Noticed Pikel
+  8368 | D:6      | Killed Pikel
+  8466 | D:6      | Noticed Edmund
+  8479 | D:6      | Reached skill level 10 in Spellcasting
+  8653 | D:6      | Killed Edmund
+  9134 | D:7      | Found an opulent altar of Gozag.
+  9342 | D:7      | Reached skill level 11 in Spellcasting
+  9348 | D:7      | Offered knowledge of Freeze by Vehumet.
+  9726 | D:7      | Reached ** piety under Vehumet
+ 10171 | D:7      | Noticed Menkaure
+ 10176 | D:7      | Killed Menkaure
+ 10176 | D:7      | Reached XP level 10. HP: 50/50 MP: 19/27
+ 10501 | D:8      | Reached skill level 12 in Spellcasting
+ 10559 | D:8      | Found a staircase to the Lair.
+ 10631 | D:8      | Offered knowledge of Static Discharge by Vehumet.
+ 10874 | D:8      | Found a stormy altar of Qazlal.
+ 10877 | D:8      | Found Giuvu's Antique Weapon Shoppe.
+ 11117 | D:8      | Noticed a two-headed ogre
+ 11126 | D:8      | Killed a two-headed ogre
+ 11126 | D:8      | Reached skill level 13 in Spellcasting
+ 11223 | D:8      | Reached *** piety under Vehumet
+ 11667 | D:8      | Found a sacrificial altar of Ru.
+ 11667 | D:8      | Found a snail-covered altar of Cheibriados.
+ 11667 | D:8      | Found an iron altar of Okawaru.
+ 11667 | D:8      | Found a sparkling altar of Nemelex Xobeh.
+ 11784 | D:8      | Found a deep blue altar of Sif Muna.
+ 12202 | D:9      | Learned a level 5 spell: Fireball
+ 12399 | D:9      | Offered knowledge of Ignite Poison by Vehumet.
+ 12405 | D:9      | Learned a level 3 spell: Mephitic Cloud
+ 12409 | D:9      | Learned a level 3 spell: Ignite Poison
+ 12620 | D:9      | Reached XP level 11. HP: 54/54 MP: 26/30
+ 13140 | D:10     | Entered Level 10 of the Dungeon
+ 13257 | D:10     | Reached skill level 14 in Spellcasting
+ 13387 | D:10     | Reached skill level 10 in Fire Magic
+ 13599 | D:10     | Got an ichor-stained quarterstaff
+ 13605 | D:10     | Identified the +5 quarterstaff "Esae" {freeze, +Blink rF+
+                  | Str-2 Stlth+} (You found it on level 10 of the Dungeon)
+ 14129 | D:10     | Reached **** piety under Vehumet
+ 14494 | D:11     | Noticed an unseen horror
+ 14497 | D:11     | Killed an unseen horror
+ 14709 | D:11     | Got a scorched spear
+ 14710 | D:11     | Identified the +7 spear of Myuxeth {protect, *Rage rPois
+                  | Dex+4} (You found it on level 11 of the Dungeon)
+ 15085 | D:11     | Found a staircase to the Orcish Mines.
+ 15520 | D:4      | Bought a glowing hat for 168 gold pieces
+ 15627 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 15727 | Lair:1   | Offered knowledge of Venom Bolt by Vehumet.
+ 15861 | Lair:1   | Reached skill level 10 in Conjurations
+ 16196 | Lair:1   | Reached skill level 15 in Spellcasting
+ 16282 | Lair:1   | Reached skill level 5 in Dodging
+ 17702 | Lair:2   | Reached XP level 12. HP: 59/59 MP: 30/33
+ 17882 | Lair:2   | Found a staircase to the Swamp.
+ 18719 | Lair:2   | Reached skill level 16 in Spellcasting
+ 19031 | Lair:3   | Noticed a five-headed hydra
+ 19036 | Lair:3   | Killed a five-headed hydra
+ 19915 | Lair:4   | Noticed a death yak
+ 19915 | Lair:4   | Noticed a death yak
+ 19916 | Lair:4   | Noticed a death yak
+ 19981 | Lair:3   | Killed a death yak
+ 19990 | Lair:3   | Killed a death yak
+ 20193 | Lair:4   | Found a labyrinth entrance.
+ 20207 | Lab      | Entered a labyrinth
+ 20704 | Lab      | Mangled by an earth elemental
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Shields        |        1     2  3  4                |  4.0
+Conjurations   |        2     3  4  5  6  8  9 10 11 | 11.3
+Spellcasting   |           4     5  6  9 11 13 15 16 | 16.9
+Fire Magic     |           4     5  6  7  8  9 10 11 | 11.0
+Dodging        |                                5  7 |  7.6
+Stealth        |                                     |  2.4
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |     1 |       |       |       ||     1
+       Dagger            |     6 |       |       |       ||     6
+       Flail             |       |     1 |    10 |    21 ||    32
+       Hand axe          |       |    10 |       |       ||    10
+       Mace              |       |    10 |     2 |       ||    12
+       Spear             |       |       |       |    28 ||    28
+ Cast: Flame Tongue      |    60 |    93 |   121 |   293 ||   567
+       Throw Flame       |       |    64 |    58 |   142 ||   264
+       Conjure Flame     |       |     3 |     7 |    12 ||    22
+       Sticky Flame      |       |     1 |    19 |    63 ||    83
+       Searing Ray       |       |       |    18 |    22 ||    40
+       Fireball          |       |       |       |    19 ||    19
+       Mephitic Cloud    |       |       |       |     1 ||     1
+       Ignite Poison     |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |     1 |       ||     1
+  Use: Scroll            |       |     6 |     6 |     9 ||    21
+       Potion            |       |       |       |     2 ||     2
+ Stab: Sleeping          |     1 |     4 |       |     1 ||     6
+  Eat: Chunk             |     2 |    13 |    13 |    25 ||    53
+       Ration            |       |       |       |     3 ||     3
+Armor: Robe              |    12 |     1 |       |       ||    13
+       Leather armour    |       |    14 |    20 |    43 ||    77
+Dodge: Dodged            |    31 |    30 |    31 |   105 ||   197
+Block: Buckler           |       |       |    22 |    86 ||   108
+

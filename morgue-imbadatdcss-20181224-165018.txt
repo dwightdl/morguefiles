@@ -1,0 +1,363 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+3293 im bad at dcss the Skirmisher (level 9, -6/79 HPs)
+             Began as a Yellow Draconian Transmuter on Dec 24, 2018.
+             Was a Priest of Qazlal.
+             Mangled by a gnoll
+             ... wielding a +0 club
+              (9 damage)
+             ... on level 8 of the Dungeon.
+             The game lasted 00:19:13 (7745 turns).
+
+im bad at dcss the Skirmisher (DrTm)                Turns: 7745, Time: 00:19:14
+
+Health: -6/79      AC:  9    Str: 14    XL:     9   Next: 69%
+Magic:  18/18      EV: 12    Int: 15    God:    Qazlal [***...]
+Gold:   253        SH:  3    Dex: 12    Spells: 6/21 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   u - +0 cloak
+rCorr    +         Harm     .   H - +0 pair of gloves (curse)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.23/turn              (no ring)
+MPRegen  0.16/turn              (no ring)
+
+@: appendage
+A: spit acid, acid resistance, unfitting armour, horns 2, cold-blooded, AC +7
+a: Breathe Acid, End Transformation, Upheaval, Elemental Force, Renounce
+Religion
+
+
+You were on level 8 of the Dungeon.
+You worshipped Qazlal.
+Qazlal was most pleased with you.
+You were not hungry.
+
+You had grown temporary horns.
+
+You visited 1 branch of the dungeon, and saw 8 of its levels.
+
+You collected 410 gold pieces.
+You spent 157 gold pieces at shops.
+
+Inventory:
+
+Missiles
+ a - 71 arrows
+Armour
+ d - a +2 pair of gloves of dexterity
+ u - a +0 cloak (worn)
+ H - a cursed +0 pair of gloves (worn)
+Jewellery
+ g - an uncursed ring of resist corrosion {unknown}
+ j - a cursed -2 ring of dexterity {unknown}
+ w - an uncursed ring of protection from fire {unknown}
+ G - a cursed ring of teleportation {unknown}
+Wands
+ v - a wand of acid (7)
+ F - a wand of iceblast (4)
+Scrolls
+ e - 4 scrolls of enchant weapon
+ h - 4 scrolls of teleportation
+ i - a scroll of enchant armour
+ l - 3 scrolls of fog
+ m - 4 scrolls of fear {unknown}
+ n - 2 scrolls of amnesia {unknown}
+ r - 2 scrolls of immolation {unknown}
+ s - 7 scrolls of remove curse
+ y - a scroll of noise {unknown}
+ z - a scroll of random uselessness {unknown}
+ C - a scroll of blinking {unknown}
+Potions
+ b - 3 potions of degeneration
+ f - a potion of mutation {unknown}
+ k - 2 potions of cancellation {unknown}
+ p - a potion of resistance {unknown}
+ q - a potion of flight {unknown}
+ t - 3 potions of curing {unknown}
+ x - 2 potions of brilliance
+ A - a potion of magic {unknown}
+ D - a potion of might {unknown}
+ E - a potion of haste {unknown}
+Comestibles
+ c - 13 rations
+ o - 3 chunks of flesh
+
+
+   Skills:
+ + Level 7.5 Fighting
+ - Level 1.7 Dodging
+ * Level 7.5 Unarmed Combat
+ + Level 6.5 Spellcasting
+ + Level 7.2 Transmutations
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           ####..       1%          1    None
+b - Sticks to Snakes      Tmut           ####....     1%          2    #......
+c - Spider Form           Tmut/Pois      ###.......   10%         3    ##.....
+d - Blade Hands           Tmut           ####......   21%         5    ######.
+e - Ice Form              Ice/Tmut       ###.....     30%         4    ####...
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Confusing Touch          Hex            #.....       14%         1    None
+ Magic Dart               Conj           #...         14%         1    None
+ Blink                    Tloc           N/A          22%         2    #......
+ Call Imp                 Summ           #.......     22%         2    #......
+ Searing Ray              Conj           #.....       22%         2    #......
+ Slow                     Hex            #.......     22%         2    #......
+ Petrify                  Tmut/Erth      ###.....     30%         4    ####...
+ Confuse                  Hex            #.......     38%         3    ##.....
+ Conjure Flame            Conj/Fire      #.......     38%         3    ##.....
+ Dazzling Spray           Conj/Hex       #.....       38%         3    ##.....
+ Gell's Gravitas          Tloc           #.........   38%         3    ##.....
+ Mephitic Cloud           Conj/Pois/Air  #.......     38%         3    ##.....
+ Yara's Violent Unravell  Hex/Tmut       ###.......   65%         5    ######.
+ Force Lance              Conj/Tloc      #.......     80%         4    ####...
+ Fulminant Prism          Conj/Hex       #.........   80%         4    ####...
+ Iskenderun's Mystic Bla  Conj           #.......     80%         4    ####...
+ Metabolic Englaciation   Hex/Ice        #.........   98%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (0/1) D:7         
+  Lair: D:8-11      
+
+Altars:
+Gozag
+Okawaru
+Qazlal
+Xom
+The Shining One
+
+Shops:
+D:4 [
+
+
+Innate Abilities, Weirdness & Mutations
+
+You can spit globs of acid.
+You are resistant to acid.
+Your golden yellow scales are hard. (AC +7)
+You cannot fit into any form of body armour.
+You are cold-blooded and may be slowed by cold attacks.
+You have a pair of horns on your head.
+
+
+Message History
+
+The gnoll sergeant is almost dead.
+The gnoll sergeant barely misses you.
+You closely miss the gnoll sergeant. You headbutt the gnoll sergeant.
+The gnoll sergeant is almost dead.
+You block the gnoll sergeant's attack.
+You hit the gnoll sergeant but do no damage.
+The gnoll sergeant is almost dead.
+The gnoll sergeant hits you with a trident of piercing.
+* * * LOW HITPOINT WARNING * * * x2
+You hit the gnoll sergeant.
+You kill the gnoll sergeant!
+Qazlal accepts your kill. You can now give life to nearby clouds.
+Okay, then.
+You hit the gnoll.
+The gnoll is moderately wounded.
+You block the gnoll's attack.
+You punch the gnoll! Your headbutt misses the gnoll.
+The gnoll is almost dead.
+The gnoll hits you with a club!
+You die...
+
+        #.#################
+        #.................###
+             #........[.....#
+             #.##########.#.#
+             #.#        #.#.#
+      ########.#        #.#.#
+      .......#%#        #.#.#
+         ##....#        #.#.#
+        ##.....##       #.#.#
+#.#######.......#       #...#
+#....g@.........#.> #######.##
+#########.......... ..........
+        ##.(...##...######.#(.
+         #....## #.#     #....
+         #.####   .#     ##.#.
+         #.#              #.##
+         #.#              #.#
+         #.#   ###.###### #.#
+         ...   .......<.# #.#
+         ..    .#######.# #.#
+                      #.# #.#
+                  #####.###.#
+                  #...^.....#
+                  #.###.#####
+                      #.#
+
+
+You could see a gnoll.
+
+Vanquished Creatures
+  A hippogriff (D:8)
+  A hungry ghost (D:7)
+  Edmund (D:4)
+  2 water moccasins (D:8)
+  An orc warrior (D:6)
+  A sky beast (D:5)
+  3 phantoms
+  2 ogres
+  3 centaurs
+  6 bullfrogs
+  A gnoll sergeant (D:8)
+  4 killer bees (D:7)
+  2 centaur zombies (D:6)
+  5 hounds
+  A quasit (D:6)
+  A bullfrog zombie (D:6)
+  2 orc priests
+  6 orc wizards
+  2 centaur skeletons (D:4)
+  An iguana (D:8)
+  Natasha (twice) (D:6)
+  3 worker ants
+  A hound zombie (D:5)
+  2 hound skeletons
+  A worker ant zombie (D:5)
+  Robin (D:4)
+  A gnoll (D:8)
+  8 adders
+  3 oozes
+  An adder skeleton (D:7)
+  3 worms
+  3 dart slugs
+  3 leopard geckos
+  11 orcs
+  A ball python (D:5)
+  7 giant cockroaches
+  10 goblins
+  13 hobgoblins
+  10 jackals
+  2 quokkas
+  7 bats
+  3 frilled lizards
+  A jackal skeleton (D:5)
+  7 kobolds
+  A leopard gecko skeleton (D:5)
+  A quokka zombie (D:4)
+  6 rats
+158 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Grinder (D:5)
+  An ogre (D:7)
+  A bullfrog skeleton (D:4)
+  A worker ant (D:4)
+  An orc (D:4)
+  4 goblins (D:4)
+  A hobgoblin (D:4)
+  A bat (D:1)
+  A kobold (D:1)
+  A rat (D:1)
+13 creatures vanquished.
+
+Grand Total: 171 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | im bad at dcss the Draconian Transmuter began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 3/3
+   402 | D:1      | Reached XP level 2. HP: 23/23 MP: 3/5
+   440 | D:1      | Learned a level 2 spell: Sticks to Snakes
+   858 | D:1      | Reached XP level 3. HP: 29/29 MP: 3/6
+   980 | D:1      | Learned a level 3 spell: Spider Form
+  1391 | D:2      | Reached XP level 4. HP: 33/36 MP: 4/7
+  1401 | D:2      | Found an opulent altar of Gozag.
+  1436 | D:2      | Found a glowing golden altar of the Shining One.
+  1597 | D:3      | Noticed a bullfrog
+  1609 | D:3      | Killed a bullfrog
+  1609 | D:3      | Reached XP level 5. HP: 17/42 MP: 6/9
+  2030 | D:3      | Found a stormy altar of Qazlal.
+  2032 | D:3      | Noticed an air elemental
+  2033 | D:3      | Noticed a fire elemental
+  2033 | D:3      | Noticed a water elemental
+  2065 | D:3      | Became a worshipper of Qazlal Stormbringer
+  2471 | D:4      | Found Oruomoik's Antique Armour Emporium.
+  2476 | D:4      | Bought a pair of runed gloves for 157 gold pieces
+  2522 | D:4      | Found a shimmering altar of Xom.
+  2523 | D:4      | Found a shimmering altar of Xom.
+  2523 | D:4      | Found a shimmering altar of Xom.
+  2531 | D:4      | Noticed Natasha
+  2534 | D:4      | You fall through a shaft for 2 floors!
+  2537 | D:6      | Noticed a phantom
+  2574 | D:5      | Entered Level 5 of the Dungeon
+  2613 | D:5      | Reached XP level 6. HP: 39/51 MP: 8/10
+  2740 | D:4      | You fall through a shaft for 3 floors!
+  3266 | D:7      | Your scales start taking on a golden yellow colour.
+  3266 | D:7      | Reached XP level 7. HP: 34/59 MP: 12/12
+  3344 | D:7      | Reached skill level 5 in Unarmed Combat
+  3868 | D:4      | Noticed Robin
+  3876 | D:4      | Reached * piety under Qazlal
+  3944 | D:4      | Killed Robin
+  4512 | D:4      | Noticed Edmund
+  4537 | D:4      | Killed Edmund
+  4537 | D:4      | Reached skill level 5 in Fighting
+  4537 | D:4      | Reached skill level 5 in Transmutations
+  4537 | D:4      | Reached XP level 8. HP: 64/68 MP: 14/14
+  5036 | D:5      | Reached skill level 5 in Spellcasting
+  5171 | D:5      | Reached ** piety under Qazlal
+  5817 | D:5      | Noticed Grinder
+  5828 | D:5      | Killed Grinder
+  6005 | D:6      | Learned a level 5 spell: Blade Hands
+  6010 | D:6      | Learned a level 4 spell: Ice Form
+  6017 | D:6      | Found an iron altar of Okawaru.
+  6070 | D:6      | Reached XP level 9. HP: 65/78 MP: 17/17
+  6560 | D:6      | Killed Natasha
+  6714 | D:6      | Noticed Natasha
+  6719 | D:6      | Killed Natasha
+  6790 | D:7      | Found a staircase to the Ecumenical Temple.
+  7737 | D:8      | HP: 3/79 [gnoll sergeant/trident of piercing (1)]
+  7742 | D:8      | HP: 3/79 [gnoll sergeant/trident of piercing (1)]
+  7743 | D:8      | Reached *** piety under Qazlal
+  7745 | D:8      | Mangled by a gnoll
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Fighting       |        2     3  4  5  6  7 |  7.5
+Transmutations |           3     4  5  6  7 |  7.2
+Spellcasting   |              3     4  5  6 |  6.5
+Unarmed Combat |              4     5  6  7 |  7.5
+Dodging        |                            |  1.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |   152 |   160 |   437 ||   749
+       Tailslap          |     9 |    19 |    49 ||    77
+       Punch             |     2 |     1 |    11 ||    14
+       Headbutt          |    14 |     2 |    26 ||    42
+       Kick              |     2 |    23 |    40 ||    65
+ Cast: Beastly Appendage |    20 |    17 |    27 ||    64
+       Sticks to Snakes  |     3 |     6 |    11 ||    20
+       Spider Form       |       |     1 |     1 ||     2
+ Abil: End Transformatio |     1 |       |       ||     1
+       Breathe Acid      |       |       |     1 ||     1
+  Use: Scroll            |       |    11 |     2 ||    13
+ Stab: Distracted        |       |     1 |     1 ||     2
+       Sleeping          |       |     1 |     2 ||     3
+  Eat: Chunk             |     2 |     7 |    14 ||    23
+       Ration            |       |       |     1 ||     1
+Armor: Skin              |    57 |    65 |   172 ||   294
+Dodge: Dodged            |   111 |   108 |   264 ||   483
+Block: Other             |       |       |    30 ||    30
+

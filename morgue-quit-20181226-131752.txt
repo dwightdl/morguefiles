@@ -1,0 +1,230 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+161 quit the Firebug (level 5, 0/28 HPs)
+             Began as a Tengu Fire Elementalist on Dec 26, 2018.
+             Succumbed to a scorpion's poison
+             ... on level 3 of the Dungeon.
+             The game lasted 00:03:32 (2090 turns).
+
+quit the Firebug (Tengu Fire Elementalist)          Turns: 2090, Time: 00:03:32
+
+Health: 0/28       AC:  4    Str: 10    XL:     5   Next: 42%
+Magic:  4/10       EV: 17    Int: 18    God:    
+Gold:   129        SH:  0    Dex: 15    Spells: 4/10 levels left
+
+rFire    . . .     SeeInvis .   e - +2 trident (protect)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   k - +2 animal skin
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.09/turn              (no ring)
+MPRegen  0.12/turn              (no ring)
+
+@: lethally poisoned (0 -> -5), flying quickly and evasively, hasted, very quick
+A: beak, talons 3, repulsion field 1, blurry vision 1, clever 1, strong 1, able
+to fly 1
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 129 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ e - a +2 trident of protection (weapon)
+Armour
+ k - a +2 animal skin (worn)
+Jewellery
+ a - an uncursed ring of fire {unknown}
+ h - an uncursed ring of poison resistance {unknown}
+Scrolls
+ f - a scroll of enchant weapon
+Potions
+ b - a potion of heal wounds
+Comestibles
+ c - 6 rations
+ d - 2 chunks of flesh
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 3.2 Spellcasting
+ + Level 4.0 Conjurations
+ + Level 4.6 Fire Magic
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      ###..        2%          1    None
+b - Throw Flame           Conj/Fire      ###...       4%          2    ##.....
+c - Conjure Flame         Conj/Fire      ###.....     9%          3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Inner Flame              Hex/Fire       ##......     19%         3    ###....
+ Sticky Flame             Conj/Fire      ###.....     26%         4    ####...
+ Fireball                 Conj/Fire      ###.......   58%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Yredelemnul
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+You can fly.
+You are surrounded by a mild repulsion field. (EV +2)
+Scrolls take you a little longer to read.
+Your mind is acute. (Int +2)
+Your muscles are strong. (Str +2)
+
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Flame Tongue (safe; 3% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - scorpion
+Aim: a scorpion (severely wounded)
+The flame tongue hits the scorpion.
+You kill the scorpion!
+Your Conjurations skill increases to level 4!
+You have reached level 5!
+You have gained the ability to fly.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+It was a potion of flight.
+You feel very buoyant.
+You swoop lightly up into the air.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+It was a potion of mutation. You feel extremely strange.
+You feel clever. You begin to radiate repulsive energy. Your vision blurs. You
+It was a potion of haste. You feel yourself speed up.
+You die...
+
+       ..
+       ...
+       #.#
+       #.#
+       #.#
+       #.#######
+       #.....>.##
+       #.<.......
+   #####.###.....
+   #.......#.#.#.
+.............#
+###..#.....###.#
+  #............#
+  # ####@#######.
+       #.........
+       #.########
+      ##'##
+     ##...##
+    ##.....##
+   ##.......##
+   #.........#
+   +.........+
+   #.........#
+   ##.......##
+    ##.....##
+     ##...##
+      ##'##
+~~     #.#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A scorpion (D:3)
+  Natasha (D:3)
+  Robin (D:2)
+  An adder (D:2)
+  An ooze (D:2)
+  2 worms (D:2)
+  A dart slug (D:1)
+  A leopard gecko (D:2)
+  3 bats
+  7 hobgoblins
+  2 jackals (D:1)
+  2 quokkas (D:2)
+  A ball python (D:2)
+  A frilled lizard (D:1)
+  11 goblins
+  9 kobolds
+  6 rats
+51 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | quit the Tengu Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   251 | D:1      | Reached XP level 2. HP: 15/15 MP: 4/6
+   696 | D:1      | Reached XP level 3. HP: 16/19 MP: 0/7
+   711 | D:1      | Learned a level 2 spell: Throw Flame
+   715 | D:1      | Learned a level 3 spell: Conjure Flame
+   864 | D:2      | Noticed Robin
+  1384 | D:2      | Killed Robin
+  1452 | D:2      | Found a basalt altar of Yredelemnul.
+  1481 | D:2      | Reached XP level 4. HP: 22/24 MP: 9/9
+  1999 | D:3      | Noticed Natasha
+  2003 | D:3      | Killed Natasha
+  2087 | D:3      | Gained mutation: You can fly. [Tengu growth]
+  2087 | D:3      | Reached XP level 5. HP: 3/28 MP: 3/10
+  2088 | D:3      | HP: 1/28 [poisoned by a scorpion]
+  2089 | D:3      | Gained mutation: Your mind is acute. (Int +2) [potion of
+                  | mutation]
+  2089 | D:3      | Gained mutation: You are surrounded by a mild repulsion
+                  | field. (EV +2) [potion of mutation]
+  2089 | D:3      | Gained mutation: Scrolls take you a little longer to read.
+                  | [potion of mutation]
+  2089 | D:3      | Gained mutation: Your muscles are strong. (Str +2) [potion
+                  | of mutation]
+  2090 | D:3      | Succumbed to a scorpion's poison
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Conjurations   |  2     3  4 |  4.0
+Fire Magic     |        4    |  4.6
+Spellcasting   |           3 |  3.2
+Dodging        |             |  2.1
+Stealth        |             |  2.0
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |     6 |       ||     6
+       Dagger            |    15 |       ||    15
+       Kick              |     7 |     5 ||    12
+       Trident           |    12 |    31 ||    43
+       Spear             |     5 |       ||     5
+       Peck              |     2 |     2 ||     4
+ Cast: Flame Tongue      |    50 |    12 ||    62
+  Use: Scroll            |       |     4 ||     4
+       Potion            |       |     3 ||     3
+ Stab: Sleeping          |     2 |     1 ||     3
+       Distracted        |     1 |       ||     1
+  Eat: Chunk             |     2 |     2 ||     4
+Armor: Robe              |     7 |       ||     7
+       Animal skin       |     2 |     6 ||     8
+Dodge: Dodged            |    38 |    18 ||    56
+

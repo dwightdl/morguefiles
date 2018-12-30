@@ -1,0 +1,197 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+32 am5k the Caller (level 3, -1/19 HPs)
+             Began as a Tengu Summoner on Dec 23, 2018.
+             Killed by nerve-wracking pain
+             ... invoked by an orc priest
+              (13 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:03:51 (1724 turns).
+
+am5k the Caller (Tengu Summoner)                    Turns: 1724, Time: 00:03:52
+
+Health: -1/19      AC:  2    Str:  8    XL:     3   Next: 25%
+Magic:  4/8        EV: 12    Int: 16    God:    
+Gold:   224        SH:  0    Dex: 14    Spells: 3/7 levels left
+
+rFire    . . .     SeeInvis .   d - +0 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.11/turn              (no ring)
+
+@: no status effects
+A: beak, talons 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 224 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ d - a +0 dagger (weapon)
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ f - a scroll of identify {unknown}
+Potions
+ b - a potion of flight {unknown}
+ e - a potion of agility {unknown}
+ g - 2 potions of curing {unknown}
+ h - a potion of magic {unknown}
+ j - a potion of might {unknown}
+Comestibles
+ c - 3 rations
+
+
+   Skills:
+ - Level 2.1 Dodging
+ - Level 2.0 Stealth
+ + Level 2.7 Spellcasting
+ + Level 5.5 Summonings
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Summon Small Mammal   Summ           ###.         1%          1    #......
+b - Call Canine Familiar  Summ           ###.....     6%          3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Call Imp                 Summ           ###.....     3%          2    ##.....
+ Summon Guardian Golem    Hex/Summ       ##......     19%         3    ###....
+ Summon Ice Beast         Ice/Summ       ##......     52%         4    #####..
+ Summon Lightning Spire   Summ/Air       ##......     52%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+
+
+Message History
+
+The orc priest looks encouraged for a moment.
+You climb upwards.
+There is a stone staircase leading down here.
+Casting: Call Canine Familiar (safe; 6% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+The orc priest hits you but does no damage.
+Casting: Call Canine Familiar (safe; 6% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+The orc priest hits you with a flail!
+Your rat barely misses the orc priest.
+You hit the orc priest.
+The orc priest is moderately wounded.
+The orc priest miscasts a cantrip.
+Your rat barely misses the orc priest.
+You completely miss the orc priest.
+The orc priest is moderately wounded.
+The orc priest calls down the wrath of Beogh upon you.
+Pain shoots through your body!
+Ouch! That really hurt!
+You die...
+
+                   #############
+                   #.....%.....#
+                   #.#########.#
+###                #.#       #.#
+..###########      #.#       #.#
+#.#.........#      #.#       #.#
+#.#.#######.########.######  #.#
+#.#.#    #..........#hro@.#  #.#
+#.#.#    #.#########.####.####.#
+.#..#    #.#       #...........#
+#(###    #.#       ######.######
+#.#      #.#            #.#
+#.#      #.#            #.#
+#.#      #.#     ########.#
+.#########.#######........#
+##.......#.'.....##########
+ #.#####'#######.#
+ #.#(.........(#.#
+ #.###########.#.#
+##)#...'.......#.#
+.#.#.#.#.#######.#
+.#...#.#....(#(..########
+
+
+You could see an orc priest, a friendly hound and a friendly rat.
+
+Vanquished Creatures
+  A leopard gecko (D:1)
+  3 bats
+  3 giant cockroaches (D:1)
+  2 goblins
+  4 hobgoblins
+  2 ball pythons
+  3 frilled lizards
+  3 kobolds
+  8 rats
+  A fungus (D:1)
+30 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A goblin (D:1)
+  A hobgoblin (D:1)
+2 creatures vanquished.
+
+Vanquished Creatures (others)
+  A fungus (D:1)
+1 creature vanquished.
+
+Grand Total: 33 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | am5k the Tengu Summoner began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   253 | D:1      | Reached skill level 5 in Summonings
+   329 | D:1      | Reached XP level 2. HP: 15/15 MP: 6/6
+  1303 | D:2      | Reached XP level 3. HP: 19/19 MP: 7/7
+  1561 | D:1      | Learned a level 3 spell: Call Canine Familiar
+  1724 | D:1      | Killed from afar by an orc priest
+
+Skill      XL: |  1 |
+---------------+----+-----
+Summonings     |  5 |  5.5
+Dodging        |    |  2.1
+Stealth        |    |  2.0
+Spellcasting   |    |  2.7
+
+Action                   || total
+-------------------------++-------
+Melee: Dagger            ||    84
+       Kick              ||    17
+       Peck              ||    11
+ Cast: Summon Small Mamm ||     4
+       Call Canine Famil ||     2
+ Stab: Sleeping          ||    11
+  Eat: Chunk             ||     2
+Armor: Robe              ||    12
+Dodge: Dodged            ||    31
+

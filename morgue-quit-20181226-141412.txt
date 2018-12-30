@@ -1,0 +1,232 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+112 quit the Firebug (level 4, -1/30 HPs)
+             Began as a Demonspawn Fire Elementalist on Dec 26, 2018.
+             Was an Initiate of Qazlal.
+             Slain by an ice beast (5 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:04:23 (2678 turns).
+
+quit the Firebug (Demonspawn Fire Elementalist)     Turns: 2678, Time: 00:04:23
+
+Health: -1/30      AC:  3    Str:  8    XL:     4   Next: 63%
+Magic:  0/8        EV: 12    Int: 17    God:    Qazlal [......]
+Gold:   114        SH:  0    Dex: 14    Spells: 3/9 levels left
+
+rFire    . . .     SeeInvis .   q - +0 short sword
+rCold    + . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   f - +0 pair of gloves
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.10/turn              (no ring)
+MPRegen  0.11/turn              (no ring)
+
+@: no status effects
+A: claws 1, hooves 1, cold resistance 1
+a: Renounce Religion
+
+
+You were on level 3 of the Dungeon.
+You worshipped Qazlal.
+Qazlal was noncommittal.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 114 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ q - a +0 short sword (weapon)
+Armour
+ a - a +0 robe (worn)
+ f - a +0 pair of gloves (worn)
+Jewellery
+ i - a +6 ring of strength {unknown}
+ k - a cursed ring of teleportation {unknown}
+ o - an uncursed ring of ice {unknown}
+Wands
+ b - a wand of paralysis (16)
+Scrolls
+ e - 4 scrolls of enchant weapon {unknown}
+ g - a scroll of teleportation {unknown}
+ h - a scroll of fear {unknown}
+ m - 2 scrolls of remove curse {unknown}
+ n - 3 scrolls of identify {unknown}
+ r - a scroll of random uselessness {unknown}
+Potions
+ d - a potion of haste {unknown}
+ j - a potion of agility {unknown}
+ l - a potion of brilliance {unknown}
+ p - a potion of berserk rage {unknown}
+Comestibles
+ c - 8 rations
+ s - 5 chunks of flesh
+
+
+   Skills:
+ - Level 1.7 Dodging
+ - Level 1.7 Stealth
+ + Level 3.1 Spellcasting
+ + Level 2.6 Conjurations
+ + Level 3.6 Fire Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      ##...        4%          1    None
+b - Throw Flame           Conj/Fire      ##....       8%          2    ##.....
+c - Conjure Flame         Conj/Fire      ##......     14%         3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Confusing Touch          Hex            #.....       17%         1    None
+ Inner Flame              Hex/Fire       #.......     26%         3    ###....
+ Confuse                  Hex            #.......     45%         3    ###....
+ Gell's Gravitas          Tloc           #.........   45%         3    ###....
+ Sticky Flame             Conj/Fire      ##......     43%         4    ####...
+ Fireball                 Conj/Fire      ##........   80%         5    ######.
+ Petrify                  Tmut/Erth      #.......     86%         4    ####...
+ Metabolic Englaciation   Hex/Ice        #.........   99%         5    ######.
+ Yara's Violent Unravell  Hex/Tmut       #.........   99%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Qazlal
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have sharp fingernails.
+You have large cloven feet.
+Your flesh is cold resistant. (rC+)
+
+
+Message History
+
+* * * LOW HITPOINT WARNING * * *
+The ice beast freezes you. You resist.
+* * * LOW HITPOINT WARNING * * *
+Casting: Flame Tongue (safe; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Flame Tongue (safe; 4% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - ice beast
+Aim: an ice beast (severely wounded)
+The flame tongue hits the ice beast. The ice beast appears unharmed.
+The ice beast is severely wounded.
+The ice beast hits you but does no damage.
+Casting: Flame Tongue (safe; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Flame Tongue (safe; 4% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - ice beast
+Aim: an ice beast (severely wounded)
+The flame tongue misses the ice beast. The ice beast hits you.
+* * * LOW HITPOINT WARNING * * *
+The ice beast freezes you. You resist.
+You die...
+
+###.##.##.....#######.###
+  #.##.##.....#  #......#
+  #......<#.######.##.#.#
+  ####.......#.....#..#.#
+     #..###..#.###.#.##.#
+     #..###........#.##.######
+     #..##...................#    #######
+     #....#<...#.........###.#    #.)...#
+     #...###.#.##..#.#.#.###.# ####.....#
+     ###..#.##.....#.#....##.# #........#
+       #.#........##.#.#..##.# #.##..).^#
+       #.##.##.#####.......#.# #.##.....#
+       #.# .##.    ###.......###.####.######
+       #......      #........##...# #.##...##
+       ###...#      #...........#.# #(#.....#
+         #...#      #.Y@.....##...# #...>...#
+         #...#      #.##......##### ###.....#
+     #####...########.##...##.....#   ##...##
+     .............##.#.....##.<...#  ##.#.##
+     .................##)#........#  #....#
+     ........[....######.####.....#  ##.###
+      ####...######    #.####.....#   #.#
+         #...#         #......#####   #.#
+         #...#         #.######       #.#
+       ###...###       #.#########    #.#
+       #.......#       #.##......###  #.#
+       #.##.##.#       #.##.####...#  #.#
+       #. #.##.#       #....[..#...####.#
+       .  ..##..       ####.##.......##%#
+      #  #####..#         #.##..........#
+
+
+You could see an ice beast.
+
+Vanquished Creatures
+  An orc priest (D:3)
+  3 adders
+  2 worms
+  A dart slug (D:2)
+  3 leopard geckos
+  3 giant cockroaches
+  10 hobgoblins
+  4 jackals (D:3)
+  3 kobolds
+  A ball python (D:3)
+  3 bats
+  3 frilled lizards
+  4 goblins
+  4 rats
+45 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | quit the Demonspawn Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   304 | D:1      | Gained mutation: Your flesh is cold resistant. (rC+)
+                  | [demonic ancestry]
+   304 | D:1      | Reached XP level 2. HP: 11/19 MP: 0/5
+   966 | D:2      | Found a stormy altar of Qazlal.
+   998 | D:2      | Learned a level 2 spell: Throw Flame
+  1272 | D:2      | Gained mutation: You have large cloven feet. [demonic
+                  | ancestry]
+  1272 | D:2      | Reached XP level 3. HP: 22/24 MP: 1/6
+  1357 | D:2      | Became a worshipper of Qazlal Stormbringer
+  2432 | D:3      | Gained mutation: You have sharp fingernails. [demonic
+                  | ancestry]
+  2432 | D:3      | Reached XP level 4. HP: 26/30 MP: 2/8
+  2437 | D:3      | Learned a level 3 spell: Conjure Flame
+  2622 | D:3      | Noticed an ice beast
+  2678 | D:3      | Slain by an ice beast
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Fire Magic     |     3       |  3.6
+Conjurations   |        2    |  2.6
+Spellcasting   |           3 |  3.1
+Dodging        |             |  1.7
+Stealth        |             |  1.7
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Dagger            |    57 |       ||    57
+       Short sword       |     4 |    14 ||    18
+       Kick              |     4 |       ||     4
+ Cast: Flame Tongue      |    57 |    15 ||    72
+       Throw Flame       |       |     3 ||     3
+ Stab: Sleeping          |     4 |     1 ||     5
+  Eat: Chunk             |     5 |     1 ||     6
+Armor: Robe              |    12 |    11 ||    23
+Dodge: Dodged            |    52 |    13 ||    65
+

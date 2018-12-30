@@ -1,0 +1,344 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+1687 quit the Merchant of Misery (level 8, -4/52 HPs)
+             Began as a Demonspawn Necromancer on Dec 26, 2018.
+             Was a Believer of Kikubaaqudgha.
+             Slain by an orc warrior
+             ... wielding a +0 trident
+              (6 damage)
+             ... on level 7 of the Dungeon.
+             The game lasted 00:15:53 (6837 turns).
+
+quit the Merchant of Misery (DsNe)                  Turns: 6837, Time: 00:15:54
+
+Health: -4/52      AC:  6    Str:  8    XL:     8   Next: 71%
+Magic:  0/28       EV: 10    Int: 18    God:    Kikubaaqudgha [**....]
+Gold:   369        SH:  0    Dex: 19    Spells: 9/22 levels left
+
+rFire    + . .     SeeInvis +   j - +1 flail (protect)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   F - +0 scale mail of Pandemonium {rF+ Dex+4}
+rPois    .         Spirit   +   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             i - amulet of guardian spirit
+HPRegen  0.17/turn              f - ring of see invisible
+MPRegen  0.21/turn              m - ring of magical power
+
+@: very slightly contaminated
+A: antennae 2, repulsion field 1, spiny 1, rot immunity
+a: Receive Corpses, Renounce Religion
+
+
+You were on level 7 of the Dungeon.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was pleased with you.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 8 of its levels.
+You also visited: Ossuary.
+
+You collected 390 gold pieces.
+You spent 21 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ j - a +1 flail of protection (weapon)
+Armour
+ n - a +1 animal skin
+ t - a +0 ring mail
+ F - the +0 scale mail of Pandemonium (worn) {rF+ Dex+4}
+   (You took it off an orc on level 6 of the Dungeon)   
+   
+   It affects your dexterity (+4).
+   It protects you from fire.
+Jewellery
+ a - an uncursed ring of protection from magic
+ f - a ring of see invisible (left hand)
+ i - an amulet of guardian spirit (around neck)
+ m - a ring of magical power (right hand)
+Scrolls
+ e - 2 scrolls of immolation
+ g - 2 scrolls of fear
+ h - 2 scrolls of amnesia
+ k - 3 scrolls of teleportation
+ p - a scroll of blinking
+ q - 5 scrolls of remove curse
+ x - 2 scrolls of random uselessness {unknown}
+ y - 2 scrolls of magic mapping
+ z - 2 scrolls of identify
+ B - a scroll of summoning {unknown}
+ E - 3 scrolls of enchant weapon {unknown}
+Potions
+ b - a potion of berserk rage {unknown}
+ d - a potion of degeneration {unknown}
+ l - 3 potions of curing {unknown}
+ o - a potion of might {unknown}
+ r - 2 potions of ambrosia {unknown}
+ s - 3 potions of brilliance {unknown}
+ u - 2 potions of agility {unknown}
+ v - 4 potions of flight {unknown}
+ w - a potion of lignification {unknown}
+ A - 2 potions of invisibility {unknown}
+ C - a potion of magic {unknown}
+ D - 2 potions of heal wounds {unknown}
+Comestibles
+ c - 12 rations
+
+
+   Skills:
+ - Level 1.7 Dodging
+ - Level 1.7 Stealth
+ + Level 7.5 Spellcasting
+ + Level 9.7 Necromancy
+
+
+You had 9 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           ####         1%          1    None
+b - Vampiric Draining     Necr           #####.....   6%          3    #......
+c - Regeneration          Chrm/Necr      ###.......   38%         3    #......
+d - Animate Dead          Necr           N/A          19%         4    ###....
+e - Sublimation of Blood  Necr           #####.....   3%          2    None
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          1%          1    None
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (1/1) D:4         
+
+Altars:
+Cheibriados
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:4 *
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of antennae on your head.
+You are surrounded by a mild repulsion field. (EV +2)
+You are partially covered in sharp spines.
+You are immune to rotting.
+
+
+Message History
+
+You kill the orc!
+Kikubaaqudgha accepts your kill.
+You feel life coursing into your body.
+The orc warrior hits you from afar with a trident.
+The orc warrior is struck by your spines.
+The orc warrior hits you with a trident!
+* * * LOW HITPOINT WARNING * * *
+Found a square steel amulet.
+Things that are here:
+a club; an orc corpse
+Casting: Vampiric Draining (safe; 6% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Pain (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - orc warrior
+Aim: an orc warrior, wielding a trident and wearing a plate armour (lightly
+The orc warrior barely resists.
+The orc warrior is struck by your spines.
+The orc warrior hits you with a trident.
+You die...
+Kikubaaqudgha rasps: "You have failed me! Welcome... death!"
+
+     ####.....#.
+     #.........#.
+.    #...........
+..   #..........#
+#..  #...........
+ #.. #......?....
+  #.. #..o..>....
+   #..#.)@.......
+    #..<.)......"
+    ##...........
+     ##..........
+      ##.........
+       ##........
+        #........
+        ##.......
+          #.###.
+
+
+You could see an orc warrior.
+
+Vanquished Creatures
+  Sigmund (D:3)
+  A water moccasin (D:2)
+  A black bear (D:6)
+  3 ogres
+  2 centaurs
+  An elf zombie (Ossuary)
+  A scorpion (D:2)
+  2 centaur zombies (Ossuary)
+  2 hounds
+  A jelly (D:5)
+  A gnoll shaman (D:6)
+  2 orc priests
+  A bullfrog skeleton (D:4)
+  2 orc wizards
+  An iguana (D:5)
+  A worker ant (D:6)
+  3 mummies (Ossuary)
+  Robin (D:2)
+  3 gnolls
+  9 adders
+  An ooze (D:2)
+  4 adder zombies (Ossuary)
+  A worm zombie (D:6)
+  5 adder skeletons
+  A worm (D:2)
+  3 dart slugs
+  3 leopard geckos
+  13 orcs
+  A ball python (D:3)
+  4 giant cockroaches
+  2 gnoll zombies (Ossuary)
+  13 goblins
+  10 hobgoblins
+  3 jackals (D:6)
+  13 kobolds
+  A quokka (D:4)
+  8 bats
+  6 frilled lizards
+  4 goblin zombies (Ossuary)
+  4 hobgoblin zombies (Ossuary)
+  5 jackal zombies (Ossuary)
+  A kobold zombie (Ossuary)
+  A leopard gecko skeleton (D:5)
+  2 leopard gecko zombies
+  3 orc zombies (Ossuary)
+  5 quokka zombies (Ossuary)
+  8 rats
+  2 rat zombies (Ossuary)
+166 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A black bear (D:6)
+  A gnoll zombie (D:6)
+2 creatures vanquished.
+
+Vanquished Creatures (others)
+  A hobgoblin (D:3)
+  A quokka (D:3)
+2 creatures vanquished.
+
+Grand Total: 170 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | quit the Demonspawn Necromancer began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   319 | D:1      | Gained mutation: You have a pair of small antennae on your
+                  | head. [demonic ancestry]
+   319 | D:1      | Reached XP level 2. HP: 15/19 MP: 1/5
+  1281 | D:2      | Noticed Robin
+  1414 | D:2      | Reached skill level 5 in Necromancy
+  1414 | D:2      | Gained mutation: You are surrounded by a mild repulsion
+                  | field. (EV +2) [demonic ancestry]
+  1414 | D:2      | Reached XP level 3. HP: 22/24 MP: 4/7
+  1478 | D:2      | Found a sacrificial altar of Ru.
+  1518 | D:2      | Killed Robin
+  1776 | D:2      | Learned a level 3 spell: Vampiric Draining
+  1780 | D:2      | Learned a level 3 spell: Regeneration
+  2034 | D:2      | Gained mutation: You are partially covered in sharp spines.
+                  | [demonic ancestry]
+  2034 | D:2      | Reached XP level 4. HP: 28/30 MP: 5/8
+  2388 | D:2      | Noticed a water moccasin
+  2395 | D:2      | Killed a water moccasin
+  2395 | D:2      | Reached skill level 6 in Necromancy
+  2395 | D:2      | Gained mutation: You have a pair of antennae on your head.
+                  | [demonic ancestry]
+  2395 | D:2      | Reached XP level 5. HP: 17/35 MP: 2/11
+  2832 | D:3      | Reached XP level 6. HP: 37/41 MP: 6/12
+  2840 | D:3      | Learned a level 4 spell: Animate Dead
+  3178 | D:3      | Noticed Sigmund
+  3206 | D:3      | Killed Sigmund
+  3206 | D:3      | Reached skill level 5 in Spellcasting
+  3206 | D:3      | Reached skill level 7 in Necromancy
+  3361 | D:3      | Found a white marble altar of Elyvilon.
+  3585 | D:3      | Reached XP level 7. HP: 38/46 MP: 10/14
+  3674 | D:4      | Found Dibram's Assorted Antiques.
+  3682 | D:4      | Bought a scroll labeled KUMOFY ODEPHO for 21 gold pieces
+  4215 | D:4      | Found a staircase to the Ecumenical Temple.
+  4248 | Temple   | Entered the Ecumenical Temple
+  4304 | Temple   | Became a worshipper of Kikubaaqudgha
+  4662 | D:5      | Entered Level 5 of the Dungeon
+  4741 | D:5      | Reached skill level 8 in Necromancy
+  5693 | D:6      | Gained mutation: You are immune to rotting. [demonic
+                  | ancestry]
+  5693 | D:6      | Reached XP level 8. HP: 43/52 MP: 1/17
+  5765 | D:6      | Reached * piety under Kikubaaqudgha
+  5765 | D:6      | Identified Kikubaaqudgha's Almanac of Stolen Souls
+                  | (Kikubaaqudgha gifted it to you on level 6 of the Dungeon)
+  5765 | D:6      | Received a gift from Kikubaaqudgha
+  5871 | D:6      | Reached skill level 9 in Necromancy
+  6216 | D:6      | Found a sand-covered staircase.
+  6235 | Ossuary  | Entered an ossuary
+  6347 | Ossuary  | Learned a level 2 spell: Sublimation of Blood
+  6399 | Ossuary  | Reached ** piety under Kikubaaqudgha
+  6769 | D:6      | Got a crude scale mail
+  6780 | D:6      | Identified the cursed +0 scale mail of Pandemonium {rF+
+                  | Dex+4} (You took it off an orc on level 6 of the Dungeon)
+  6837 | D:7      | Slain by an orc warrior
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Necromancy     |     5     6     7  8  9 |  9.7
+Spellcasting   |        3  4     5  6  7 |  7.5
+Dodging        |                         |  1.7
+Stealth        |                         |  1.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |     6 |       |       ||     6
+       Whip              |    22 |    28 |       ||    50
+       Dagger            |       |       |    38 ||    38
+       Flail             |       |       |   111 ||   111
+ Cast: Pain              |    69 |    53 |    60 ||   182
+       Vampiric Draining |       |     1 |    21 ||    22
+       Regeneration      |       |     2 |       ||     2
+       Animate Dead      |       |       |     4 ||     4
+  Use: Scroll            |       |       |     9 ||     9
+ Stab: Sleeping          |       |     5 |     1 ||     6
+       Distracted        |       |     1 |       ||     1
+  Eat: Chunk             |     4 |     5 |     9 ||    18
+       Ration            |       |       |     1 ||     1
+Armor: Robe              |     4 |       |       ||     4
+       Animal skin       |     5 |     3 |     8 ||    16
+       Ring mail         |       |       |    67 ||    67
+       Scale mail        |       |       |     2 ||     2
+Dodge: Dodged            |    30 |    27 |   124 ||   181
+

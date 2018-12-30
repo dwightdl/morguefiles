@@ -1,0 +1,196 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+39 im bad at dcss the Grave Robber (level 3, -10/19 HPs)
+             Began as a Deep Elf Necromancer on Dec 23, 2018.
+             Mangled by an orc warrior
+             ... wielding a +0 hand axe
+              (18 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:02:38 (1262 turns).
+
+im bad at dcss the Grave Robber (DENe)              Turns: 1262, Time: 00:02:39
+
+Health: -10/19     AC:  3    Str:  5    XL:     3   Next: 26%
+Magic:  0/10       EV: 13    Int: 20    God:    
+Gold:   58         SH:  0    Dex: 15    Spells: 3/10 levels left
+
+rFire    . . .     SeeInvis .   f - +0 spear
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  b - +0 pair of boots
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.12/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 58 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ f - a +0 spear (weapon)
+Armour
+ a - a +0 robe (worn)
+ b - a +0 pair of boots (worn)
+Scrolls
+ d - a scroll of fear {unknown}
+ h - a scroll of magic mapping {unknown}
+ i - a scroll of amnesia {unknown}
+ k - 2 scrolls of teleportation {unknown}
+ l - a scroll of enchant armour {unknown}
+ p - 2 scrolls of identify {unknown}
+Potions
+ e - a potion of magic {unknown}
+ g - a potion of mutation {unknown}
+ j - 2 potions of flight {unknown}
+ n - 2 potions of might {unknown}
+ o - a potion of invisibility {unknown}
+ q - 2 potions of resistance {unknown}
+Comestibles
+ c - 4 rations
+ m - 2 chunks of flesh
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 4.2 Spellcasting
+ + Level 5.5 Necromancy
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           ####         1%          1    None
+b - Vampiric Draining     Necr           ####......   3%          3    ###....
+c - Regeneration          Chrm/Necr      ###.......   12%         3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          1%          1    None
+ Animate Dead             Necr           N/A          13%         4    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Message History
+
+Aiming: Pain (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - orc warrior
+Aim: an orc warrior, wielding a hand axe and wearing a plate armour (severely
+The orc warrior writhes in agony!
+The orc warrior hits you with a hand axe.
+Casting: Pain (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Pain (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - orc warrior
+Aim: an orc warrior, wielding a hand axe and wearing a plate armour (almost
+The orc warrior writhes in agony! The orc warrior barely misses you.
+Casting: Pain (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Pain (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - orc warrior
+Aim: an orc warrior, wielding a hand axe and wearing a plate armour (almost
+The orc warrior barely resists.
+The orc warrior hits you with a hand axe!!
+Ouch! That really hurt!
+You die...
+
+...........#.######.#  #.#  #.#
+####.......#<.....#.#  #.#  #.#
+   +.......#.#.##.#.## #.#  #.#
+   #.......#.#..#.#..# #.#  #.#
+   #.....()#.#..#.#..###(#  #.##
+   #.......#.#..#........#  #...
+   #####'#.#.#..#........#  ####
+       #.#.#.#..#........#
+       #o....#......#'##.#  ####
+       ###.####.....#..#.#  #...
+         #..oo......##.#.#  #...
+       #########....##...#  #...
+       #.o.o..o.....###..#  #...
+       #.############ #..####[..
+       #o#            #.>.......
+       #@#            ########'#
+       #.#                   #.#
+       #.#                   #.#
+       #.#                   #.#
+       #.#                   #.#
+       #.#                   #.#
+       #.#                   #.#
+       #.#####################.#
+       #.......................#
+       #######################.#
+                             #.#
+                             ###
+
+
+You could see an orc warrior and an orc.
+
+Vanquished Creatures
+  An adder (D:2)
+  A dart slug (D:2)
+  2 leopard geckos
+  A ball python (D:2)
+  3 bats (D:1)
+  A giant cockroach (D:2)
+  4 hobgoblins (D:2)
+  A quokka (D:2)
+  A frilled lizard (D:2)
+  4 goblins
+  3 kobolds
+  2 rats
+24 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | im bad at dcss the Deep Elf Necromancer began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+    95 | D:1      | Reached skill level 5 in Necromancy
+   353 | D:1      | Reached XP level 2. HP: 14/15 MP: 4/8
+   511 | D:1      | You fall through a shaft!
+   842 | D:2      | Reached XP level 3. HP: 19/19 MP: 8/10
+  1173 | D:2      | Noticed an orc warrior
+  1179 | D:2      | Learned a level 3 spell: Vampiric Draining
+  1183 | D:2      | Learned a level 3 spell: Regeneration
+  1262 | D:2      | Mangled by an orc warrior
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Necromancy     |  5    |  5.5
+Spellcasting   |     4 |  4.2
+Dodging        |       |  2.4
+Stealth        |       |  2.4
+
+Action                   || total
+-------------------------++-------
+Melee: Spear             ||     6
+ Cast: Pain              ||    50
+       Vampiric Draining ||     1
+       Regeneration      ||     1
+ Stab: Sleeping          ||     1
+  Eat: Chunk             ||     1
+Armor: Robe              ||     3
+Dodge: Dodged            ||    10
+

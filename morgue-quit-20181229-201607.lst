@@ -1,0 +1,87 @@
+quit
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 leather armour
+(2, 27, D:1)
+  a +0 club
+  5 stones
+(14, 20, D:1)
+  a +0 dagger
+(16, 24, D:1)
+  17 arrows
+(18, 19, D:1)
+  a +0 robe
+(19, 1, D:1)
+  a +0 club
+(25, 15, D:1)
+  a +0 club
+(25, 29, D:1)
+  18 stones
+(27, -5, D:1)
+  a +0 dagger
+(29, 41, D:1)
+  a +0 hunting sling
+(30, -5, D:1)
+  a +0 club
+(39, 2, D:1)
+  19 poisoned needles
+(48, 45, D:1)
+  a +0 robe
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 whip
+(4, 1, D:2)
+  a +0 hunting sling
+(9, -15, D:2)
+  a cursed -2 spear
+(12, -9, D:2)
+  a +0 dagger
+(12, 23, D:2)
+  24 stones
+(46, -20, D:2)
+  a cursed +0 leather armour
+(53, -12, D:2)
+  a +0 dagger
+
+Level 3 of the Dungeon
+(5, 23, D:3)
+  a +0 club
+  3 stones
+(7, 23, D:3)
+  a stone
+(16, 19, D:3)
+  a +0 club
+(23, 29, D:3)
+  a +0 club
+  a hobgoblin skeleton
+(24, 6, D:3)
+  a +0 dagger
+  17 stones
+  a +0 club
+  a goblin corpse (skeletalised by now)
+(25, 4, D:3)
+  a +0 club
+(26, -10, D:3)
+  a +0 short sword
+(26, 4, D:3)
+  a +0 club
+  a +0 animal skin
+  a +0 helmet
+  a +0 club
+  a cursed -1 dagger
+(27, 3, D:3)
+  a +0 dagger
+(27, 4, D:3)
+  a +0 dagger
+(27, 5, D:3)
+  a stone
+(30, 5, D:3)
+  a +0 hunting sling
+  19 stones
+(30, 23, D:3)
+  22 bolts
+(40, 14, D:3)
+  a +0 leather armour
+

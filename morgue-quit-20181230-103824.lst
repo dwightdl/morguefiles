@@ -1,0 +1,430 @@
+quit
+
+Level 1 of the Dungeon
+(10, 10, D:1)
+  a +0 whip
+(16, -1, D:1)
+  11 stones
+(23, -26, D:1)
+  15 poisoned needles
+(32, 16, D:1)
+  a +0 whip
+(33, -24, D:1)
+  12 stones
+(34, -20, D:1)
+  10 poisoned needles
+(37, -21, D:1)
+  a +0 whip
+(44, -23, D:1)
+  2 stones
+(48, 3, D:1)
+  a +0 club
+(50, -21, D:1)
+  14 arrows
+(51, -8, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a cursed -3 club
+(4, 34, D:2)
+  a +0 robe
+(10, 42, D:2)
+  a +0 ring mail
+(19, 27, D:2)
+  a +0 mace
+  a +0 dagger
+(26, 11, D:2)
+  a +0 club
+(28, 2, D:2)
+  27 stones
+(30, 27, D:2)
+  20 poisoned needles
+(36, 49, D:2)
+  32 stones
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 club
+(12, 1, D:3)
+  a +0 robe
+(13, 13, D:3)
+  18 stones
+(14, 23, D:3)
+  a +0 robe
+(23, 7, D:3)
+  9 stones
+(35, 10, D:3)
+  a +0 club
+(37, 22, D:3)
+  a +0 short sword
+(43, -5, D:3)
+  a +0 dagger
+(47, 24, D:3)
+  2 tomahawks
+(51, 22, D:3)
+  a +0 club
+(51, 35, D:3)
+  a +0 dagger
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  23 arrows
+(3, -35, D:4)
+  a +0 robe
+(6, -36, D:4)
+  a +0 club
+  a +0 short sword
+(7, -35, D:4)
+  a +0 dagger
+  a +0 robe
+(7, 1, D:4)
+  a +0 robe
+  a +0 dagger
+(7, 2, D:4)
+  a +0 robe
+  a +0 dagger
+(8, -30, D:4)
+  a +0 leather armour
+(10, 1, D:4)
+  a +0 robe
+  a +0 dagger of flaming
+(11, 1, D:4)
+  a +0 hand axe
+(12, -46, D:4)
+  a +0 robe
+(15, 4, D:4)
+  a +0 leather armour
+(17, 6, D:4)
+  a cursed +0 leather armour
+  a +0 mace
+(19, 12, D:4)
+  11 stones
+(26, -11, D:4)
+  a +0 dagger
+(27, -23, D:4)
+  a +0 hand axe
+(31, 1, D:4)
+  a +0 robe
+  a +0 mace
+(32, 1, D:4)
+  a +0 leather armour
+  a +1 mace of protection
+(33, 1, D:4)
+  a +0 falchion
+  a +0 chain mail
+(39, -41, D:4)
+  a scroll of immolation
+(39, -40, D:4)
+  a +0 robe
+  a potion of degeneration
+  a +0 leather armour
+(42, -41, D:4)
+  a +0 leather armour
+(48, -1, D:4)
+  a +0 leather armour
+(49, -42, D:4)
+  23 arrows
+(51, -29, D:4)
+  13 stones
+(52, -22, D:4)
+  23 arrows
+(54, -20, D:4)
+  a cursed -1 hand axe
+(58, -46, D:4)
+  a +0 falchion
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a potion of degeneration
+(25, 28, D:5)
+  8 needles of frenzy
+(30, 47, D:5)
+  a cursed +0 ring mail
+(34, 36, D:5)
+  a +0 robe
+(39, 2, D:5)
+  the +0 robe of Fortitude {+Inv MP+9 Int-5 Dex+3}
+    It affects your intelligence (-5).
+    It affects your dexterity (+3).
+    It affects your magic capacity (+9).
+    It lets you turn invisible.
+(46, 20, D:5)
+  16 bolts
+(47, 7, D:5)
+  a +0 quarterstaff
+(48, 9, D:5)
+  a +0 robe
+  a +0 dagger
+(51, 6, D:5)
+  13 stones
+(51, 39, D:5)
+  25 stones
+(53, -1, D:5)
+  24 stones
+(55, -4, D:5)
+  16 arrows
+(55, -3, D:5)
+  22 stones
+
+Level 6 of the Dungeon
+[Shop] Ykoec's General Store
+  a sack of spiders (260 gold)
+  a +0 triple crossbow (130 gold)
+  a potion of degeneration (13 gold)
+(0, 1, D:6)
+  a +0 club
+(3, 15, D:6)
+  a +0 shortbow
+  26 arrows
+(6, 13, D:6)
+  a +0 ring mail
+  a +2 hand axe of chopping
+(6, 16, D:6)
+  a +0 shortbow
+  9 arrows
+(7, 11, D:6)
+  2 arrows
+(7, 19, D:6)
+  a +0 shortbow
+  16 arrows
+(8, 18, D:6)
+  a +0 shortbow
+  21 arrows
+(9, 11, D:6)
+  an arrow
+(10, 14, D:6)
+  a +0 long sword
+(11, 26, D:6)
+  2 arrows
+(13, 17, D:6)
+  2 arrows
+(13, 26, D:6)
+  a +0 club
+(15, -14, D:6)
+  a +3 morningstar
+  a +0 robe
+(15, -12, D:6)
+  a +0 long sword
+  a +0 robe
+(15, -11, D:6)
+  5 stones
+(16, -14, D:6)
+  a cursed +2 halberd
+  13 stones
+  a +0 robe
+(24, 25, D:6)
+  a +0 dagger
+(26, 16, D:6)
+  a +0 mace
+  a +0 ring mail
+(26, 24, D:6)
+  a +0 club
+(31, 16, D:6)
+  a +0 giant club
+(34, 6, D:6)
+  27 stones
+(47, 6, D:6)
+  20 sling bullets
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 glaive
+  a +0 chain mail
+(4, 0, D:7)
+  a +0 short sword
+(5, -6, D:7)
+  4 stones
+(5, -5, D:7)
+  a +0 club
+  a +0 leather armour
+  a +0 club
+(6, -9, D:7)
+  a +0 short sword
+(6, -8, D:7)
+  a +0 flail of holy wrath
+(6, -7, D:7)
+  a +0 hand axe
+(6, 0, D:7)
+  a +0 dagger
+  a +0 leather armour
+(7, -8, D:7)
+  a +0 leather armour
+  a +0 whip
+(8, -19, D:7)
+  a +0 scale mail
+(10, -12, D:7)
+  a +0 short sword
+(11, -10, D:7)
+  a +0 giant club
+(14, -20, D:7)
+  a +0 spear
+  a cursed +0 ring mail
+  a +0 spear
+(15, -20, D:7)
+  a +0 whip
+(15, -5, D:7)
+  2 throwing nets
+(16, -31, D:7)
+  a +1 flail of holy wrath
+  a +0 halberd
+(16, -20, D:7)
+  a +0 leather armour
+(17, -31, D:7)
+  3 arrows
+(17, -29, D:7)
+  a +0 spear
+(18, -28, D:7)
+  a stone
+  2 arrows
+(19, -27, D:7)
+  a +0 ring mail
+  a +0 spear
+(20, -25, D:7)
+  30 arrows
+  a +0 shortbow
+(21, -23, D:7)
+  a +0 leather armour
+(22, -4, D:7)
+  14 poisoned needles
+(23, -21, D:7)
+  18 stones
+(44, -20, D:7)
+  a +0 shield
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  11 stones
+(0, 5, D:8)
+  a +0 dagger
+(0, 7, D:8)
+  16 sling bullets
+(3, -3, D:8)
+  a +0 spear
+  a +0 hand axe
+  a +0 hunting sling of velocity
+  a +0 robe
+  a +0 quarterstaff
+(3, 1, D:8)
+  a +0 giant club
+  a +0 giant club
+(7, 22, D:8)
+  a +0 falchion
+(8, 10, D:8)
+  16 stones
+(9, 14, D:8)
+  19 arrows
+(10, 9, D:8)
+  a +0 helmet
+(12, 12, D:8)
+  a cursed +0 morningstar
+  a +0 dagger
+  a +0 robe
+(12, 13, D:8)
+  a +0 mace
+  a +0 chain mail
+(13, 27, D:8)
+  a +0 dagger
+  a +0 robe
+(14, 9, D:8)
+  a wand of random effects (20)
+  a wand of acid (11)
+  an uncursed amulet of harm
+(14, 27, D:8)
+  a +0 hand axe
+  a +0 dagger
+  a cursed -2 ring mail
+(15, 0, D:8)
+  16 stones
+(16, 27, D:8)
+  a +0 flail
+(17, 44, D:8)
+  12 stones
+(18, 27, D:8)
+  a +2 dagger of venom
+  a +0 leather armour
+(22, 8, D:8)
+  a +0 spear
+(29, -1, D:8)
+  a +0 leather armour
+(31, 31, D:8)
+  a +0 robe
+(36, 21, D:8)
+  a +0 dagger
+  a cursed +0 robe
+(38, 27, D:8)
+  a +0 quarterstaff
+(39, 19, D:8)
+  a +0 club
+  a +0 short sword
+(40, 4, D:8)
+  a +0 short sword
+  a +0 chain mail
+(41, 5, D:8)
+  a +0 flail
+(41, 6, D:8)
+  a +0 falchion
+  a +0 ring mail
+(42, 16, D:8)
+  3 scrolls of immolation
+(45, 28, D:8)
+  a +4 scimitar of flaming
+  a +1 flail of holy wrath
+(47, 12, D:8)
+  a +0 club
+(49, 16, D:8)
+  20 stones
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  28 stones
+(0, 7, D:9)
+  a +0 mace
+(3, 14, D:9)
+  an arrow
+(3, 21, D:9)
+  a +0 shortbow
+  20 arrows
+  a centaur corpse (skeletalised by now)
+(12, 29, D:9)
+  a +0 rapier
+(14, 25, D:9)
+  a +0 pair of boots
+  a -2 ring of protection
+(19, 31, D:9)
+  a +0 war axe
+  a +0 leather armour
+  a cursed -2 short sword
+  an orc corpse (skeletalised by now)
+  an orc corpse (skeletalised by now)
+(20, 31, D:9)
+  a +0 trident
+(22, -11, D:9)
+  a +0 war axe
+(25, 29, D:9)
+  the +6 scale mail of Levity {rN++ MP+9 Int-5}
+    It affects your intelligence (-5).
+    It greatly protects you from negative energy.
+    It affects your magic capacity (+9).
+(28, -1, D:9)
+  a +0 whip
+  a +0 scale mail
+(29, -2, D:9)
+  a +0 halberd
+  a +0 chain mail
+(29, -1, D:9)
+  a +0 flail
+  a +0 flail
+(42, 30, D:9)
+  a sack of spiders
+(47, -6, D:9)
+  a ration
+(52, -13, D:9)
+  a wand of paralysis (17)
+(53, -11, D:9)
+  a scroll of teleportation
+(56, -10, D:9)
+  a scroll of fog
+
+the Ecumenical Temple
+

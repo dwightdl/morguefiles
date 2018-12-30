@@ -1,0 +1,229 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+483 quit the Magician (level 6, 0/32 HPs)
+             Began as a Deep Elf Fire Elementalist on Dec 30, 2018.
+             Slain by a worker ant (7 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:05:46 (3024 turns).
+
+quit the Magician (Deep Elf Fire Elementalist)      Turns: 3024, Time: 00:05:47
+
+Health: 0/32       AC:  3    Str:  5    XL:     6   Next: 88%
+Magic:  1/17       EV: 13    Int: 22    God:    
+Gold:   147        SH:  0    Dex: 15    Spells: 7/17 levels left
+
+rFire    . . .     SeeInvis .   u - +4 falchion
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   q - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.10/turn              (no ring)
+MPRegen  0.15/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You were hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 147 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ u - a +4 falchion (weapon)
+Armour
+ a - a +0 robe (worn)
+ q - a +0 cloak (worn)
+Jewellery
+ g - an uncursed ring of resist corrosion {unknown}
+ i - an uncursed ring of resist corrosion {unknown}
+ l - a +5 ring of protection {unknown}
+ t - a cursed -5 ring of evasion {unknown}
+Scrolls
+ b - a scroll of immolation
+ e - a scroll of blinking
+ k - a scroll of enchant armour
+ o - 3 scrolls of teleportation
+Potions
+ j - a potion of experience {unknown}
+ m - a potion of heal wounds {unknown}
+ n - a potion of flight {unknown}
+ p - a potion of invisibility {unknown}
+ r - a potion of agility {unknown}
+ s - a potion of curing {unknown}
+Comestibles
+ c - 3 rations
+ f - 2 chunks of flesh
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 6.2 Spellcasting
+ + Level 4.5 Conjurations
+ + Level 5.6 Fire Magic
+
+
+You had 7 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      ####.        1%          1    None
+b - Throw Flame           Conj/Fire      ####..       1%          2    None
+c - Conjure Flame         Conj/Fire      ####....     3%          3    #......
+d - Sticky Flame          Conj/Fire      ####....     11%         4    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Inner Flame              Hex/Fire       ###.....     9%          3    #......
+ Fireball                 Conj/Fire      ####......   30%         5    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Yredelemnul
+
+Message History
+
+Aim: a worker ant (moderately wounded)
+The flame tongue misses the worker ant. The worker ant barely misses you. You
+The worker ant is severely wounded.
+The worker ant bites you but does no damage.
+Casting: Flame Tongue (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Flame Tongue (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - worker ant
+Aim: a worker ant (severely wounded)
+The flame tongue misses the worker ant. The worker ant closely misses you.
+You completely miss the worker ant.
+The worker ant is severely wounded.
+The worker ant bites you.
+* * * LOW HITPOINT WARNING * * *
+You closely miss the worker ant.
+The worker ant is severely wounded.
+You feel sick.
+You are no longer poisoned.
+The worker ant barely misses you. The worker ant bites you!
+You die...
+
+  #     #####.#                      ########
+  #..####<..).#                      %.......
+  #....?.######                      #.......
+  #.......[....#             #.....# #.......
+ ##.#....#####.#           ###.....###.......
+ .........   .....          ................>
+. #.#....## ##.#.###  ####.#.#.....###.......
+  #.......   ......   ..##.#.#.....#.........
+  ###....#   #....#   #.##.#.#.....#.........
+    #....#   #....#   #.##.#.#.....#.........
+    #....#   #....#   #.##.#.#.....#.........
+    #....### #....#   #.##.#.#........%.####.
+  #####....###....#####.##.#.#....$.....####.
+ ...........).....%.a@.....#..?..............
+ .#####....####...###.#......#..........#####
+      #....#  #...# #..#####.#..........#
+      #....#  #...# ##.##  #.....^......#
+      #....#  #...####..####.#..........#
+      #....#  ####.........#.#..........#
+      ......     #.........#.#......(...#####
+     .......     #.........#.#...............
+    ....##..     #.........#.#  #.# #.)......
+                 #.........#        #.....>..
+                 #.........#        #........
+                 #.........#        #........
+                 #.........#        #........
+                 #.........#        #........
+                 #..........        #........
+
+
+You could see a worker ant.
+
+Vanquished Creatures
+  A phantom (D:3)
+  An ogre (D:4)
+  A jelly (D:3)
+  Crazy Yiuf (D:2)
+  An orc priest (D:3)
+  2 orc wizards (D:3)
+  2 worker ants (D:4)
+  3 adders
+  An ooze (D:2)
+  A worm (D:2)
+  4 leopard geckos
+  11 orcs
+  9 bats
+  3 giant cockroaches
+  9 goblins
+  6 hobgoblins
+  3 jackals (D:3)
+  6 kobolds
+  A quokka (D:2)
+  4 frilled lizards
+  A jackal skeleton (D:4)
+  7 rats
+78 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | quit the Deep Elf Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   202 | D:1      | Reached XP level 2. HP: 4/15 MP: 0/8
+  1293 | D:2      | Reached XP level 3. HP: 16/19 MP: 2/10
+  1398 | D:2      | Found a runed door.
+  1429 | D:2      | Learned a level 2 spell: Throw Flame
+  1433 | D:2      | Learned a level 3 spell: Conjure Flame
+  1437 | D:2      | Noticed Crazy Yiuf
+  1444 | D:2      | Killed Crazy Yiuf
+  1444 | D:2      | Reached skill level 4 in Spellcasting
+  1655 | D:2      | Reached XP level 4. HP: 24/24 MP: 9/12
+  2171 | D:3      | Reached XP level 5. HP: 28/28 MP: 10/14
+  2190 | D:3      | Found a basalt altar of Yredelemnul.
+  2261 | D:3      | Noticed a phantom
+  2282 | D:3      | Killed a phantom
+  2282 | D:3      | Reached skill level 5 in Spellcasting
+  2288 | D:3      | Learned a level 4 spell: Sticky Flame
+  2448 | D:3      | Reached skill level 5 in Fire Magic
+  2508 | D:3      | Reached XP level 6. HP: 32/32 MP: 8/16
+  3010 | D:4      | Reached skill level 6 in Spellcasting
+  3024 | D:4      | Slain by a worker ant
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Conjurations   |     2     3     4 |  4.5
+Spellcasting   |        4     5  6 |  6.2
+Fire Magic     |        4     5    |  5.6
+Dodging        |                   |  2.4
+Stealth        |                   |  2.4
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    22 |       ||    22
+       Hand axe          |     1 |       ||     1
+       Falchion          |       |    18 ||    18
+ Cast: Flame Tongue      |    54 |    82 ||   136
+       Conjure Flame     |     1 |     1 ||     2
+       Throw Flame       |       |    17 ||    17
+       Sticky Flame      |       |     2 ||     2
+  Use: Scroll            |       |     4 ||     4
+ Stab: Sleeping          |       |     1 ||     1
+  Eat: Chunk             |     2 |     4 ||     6
+Armor: Robe              |    12 |     6 ||    18
+Dodge: Dodged            |    30 |    22 ||    52
+Rpst.: Falchion          |       |     4 ||     4
+
